@@ -1,3 +1,16 @@
 {
-  "title": ""
+  "title": "Экосистема удобных сервисов для",
+  "single_subscription_for_all_products": "Единая подписка на все продукты",
+  "learn_more": "Узнать подробнее",
+  "crypto_enthusiasts": "крипто-энтузиастов",
+  "investors": "инвесторов",
+  "traders": "трейдеров",
+  "cover_description": "DUST — это экосистема из взаимосвязанных крипто-продуктов, направленных на облегчение\n        использования криптовалют и ускорение их массового распространения.",
+  "cryptocommunity": "Cryptocommunity",
+  "platform": "Platform",
+  "links" : {
+    "cryptocommunity_description": "Сообщество единомышленников, экспертов и крипто-энтузиастов",
+    "platform_description": "Отслеживай эффективность всех своих инвестиций в одном месте"
+
+  }
 }
