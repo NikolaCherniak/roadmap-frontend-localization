@@ -11,6 +11,63 @@
   "links" : {
     "cryptocommunity_description": "Сообщество единомышленников, экспертов и крипто-энтузиастов",
     "platform_description": "Отслеживай эффективность всех своих инвестиций в одном месте"
+  },
+  "services": {
+    "title": "Наши решения",
+    "subtitle": "Мы направляем усилия на разработку полезных сервисов для крипто-энтузиастов",
+    "show_future_solutions": "Показать будущие решения",
 
+    "cryptocommunity" : {
+      "description": "Сообщество единомышленников, экспертов и крипто-энтузиастов"
+    },
+    "portfolio" : {
+      "title": "Portfolio",
+      "description": "Отслеживать свои криптоактивы и наблюдай за своим портфелем"
+    },
+    "academy" : {
+      "title": "Academy",
+      "description": "Самые сложные темы, изложенные простыми словами в одном месте"
+    },
+    "forum" : {
+      "title": "Forum",
+      "description": "Общайся, делись и предлагай крутые нововведения, которые мы с радостью реализуем"
+    },
+    "wallet" : {
+      "title": "Wallet",
+      "description": "Самый простой и удобный кошелёк для (MultiChain) хранения криптовалют"
+    },
+    "indexes" : {
+      "title": "Indexes",
+      "description": "Сбалансированные крипто индексы на любой вкус и цвет, риск и профит"
+    },
+    "crypto_calendar" : {
+      "title": "Crypto calendar",
+      "description": "Отслеживай самые важные события в крипто мире в одном месте"
+    },
+    "alerts" : {
+      "title": "Alerts",
+      "description": "Гибкая система автоматизации и упрощения слежения за активами"
+    },
+    "stake_hub" : {
+      "title": "Stake HUB",
+      "description": "Стейкаем вместе наши любимые крипто активы продвигая Adoption"
+    },
+    "forge" : {
+      "title": "Forge",
+      "description": "Голосуйте, принимайте важные решения, которые влияют на наше сообщество"
+    },
+    "launchpad" : {
+      "title": "Launchpad",
+      "description": "Community Driven стартовая площадка для запуска проектов и их продвижения"
+    },
+    "research_crypto" : {
+      "title": "Research crypto",
+      "description": "Собираем всю самую актуальную информацию о проектах и проводим Research"
+    }
+  },
+  "roadmap": {
+    "title": "Roadmap",
+    "item1": "<ul>\n                <li>Улучшение функций Portfolio</li>\n                <li>Закрытое Beta-тестирование</li>\n                <li>Подготовка к релизу</li>\n                <li>Запуск MVP и корп. сайта</li>\n                <li>Новый улучшенный Discord-сервер для сообщества</li>\n              </ul>"
   }
+
 }
