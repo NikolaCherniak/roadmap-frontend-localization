@@ -67,7 +67,15 @@
   },
   "roadmap": {
     "title": "Roadmap",
-    "item1": "<ul>\n                <li>Улучшение функций Portfolio</li>\n                <li>Закрытое Beta-тестирование</li>\n                <li>Подготовка к релизу</li>\n                <li>Запуск MVP и корп. сайта</li>\n                <li>Новый улучшенный Discord-сервер для сообщества</li>\n              </ul>"
+    "item1": "<ul>\n                <li>Улучшение функций Portfolio</li>\n                <li>Закрытое Beta-тестирование</li>\n                <li>Подготовка к релизу</li>\n                <li>Запуск MVP и корп. сайта</li>\n                <li>Новый улучшенный Discord-сервер для сообщества</li>\n              </ul>",
+    "item2": "<ul>\n                <li>Локализация всех сервисов, выход на мировой рынок</li>\n                <li>Запуск Research crypto</li>\n                <li>Запуск Community pools</li>\n                <li>Запуск Indexes</li>\n              </ul>",
+    "item3": "<ul>\n                <li>Формирование команды</li>\n                <li>Разработка MVP:\n                  <ul>\n                    <li>Portfolio</li>\n                    <li>Academy</li>\n                    <li>Forum</li>\n                  </ul>\n                </li>\n                <li>Создание архитектуры</li>\n                <li>Создание дизайн-системы</li>\n                <li>Тестирование гипотез</li>\n              </ul>",
+    "item4": "<ul>\n                <li>Создание новых обучающих курсов для Academy</li>\n                <li>Внедрение Alerts</li>\n                <li>Внедрение Crypto calendar</li>\n                <li>Запуск Stake HUB</li>\n                <li>Создание MVP Wallet</li>\n              </ul>"
+  },
+  "register": {
+    "title": "Стань частью сообщества!",
+    "subtitle": "Регистрируй аккаунт и активируй бесплатный 7-дневный период на платформу :)",
+    "create_account_free": "Создать аккаунт бесплатно"
   }
 
 }
