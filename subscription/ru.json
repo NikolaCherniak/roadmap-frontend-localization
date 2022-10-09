@@ -82,6 +82,24 @@
       "title": "Шаг 5",
       "description": "Поздравляем, ваш крутейший хомяк сгенерирован!"
     }
+  },
+  "subscriptions": {
+    "title": "Наши подписки",
+    "days": "дней",
+    "tabs_notification": "С подпиской на {{ term }} дней вы получаете {{ bonus_term }} дней в подарок!",
+    "most_popular": "Самый популярный",
+    "discount": "Экономия",
+    "all_of": "Все из",
+    "all_types_portfolio": "Все типы портфелей (3 в 1)",
+    "courses_academy": "Обучающие курсы в Академии",
+    "forum": "Форум",
+    "private_telegram": "Приватный Telegram",
+    "private_discord": "Приватный Discord сервер",
+    "use_free": "Попробовать бесплатно",
+    "select_subscription": "Выбрать подписку"
+  },
+  "reviews": {
+    "title": "Отзывы"
   }
 
 }
