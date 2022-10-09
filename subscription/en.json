@@ -1,105 +1,105 @@
 {
-  "title": "Как получить доступ?",
-  "subtitle": "Для того, чтобы получить доступ необходимо приобрести 1 из 3 подписок.\n      Также вы можете попробовать бесплатный 7-дневный период.",
-  "select_subscription": "Выбрать подписку",
+  "title": "How to get access?",
+  "subtitle": "In order to gain access, you must purchase 1 of 3 subscriptions.\n You can also try a free 7-day trial.",
+  "select_subscription": "Select Subscription",
   "community": {
     "title": "Cryptocommunity",
-    "subtitle": "Закрытое сообщество для настоящих крипто-энтузиастов, которое позволит всегда быть в курсе всего что происходит в индустрии.",
+    "subtitle": "Closed community for real crypto enthusiasts, which will allow you to always be aware of everything that happens in the industry.",
     "item1": {
-      "title": "Обучение",
-      "description": "Регулярные живые лекции на разные темы, разборы рынков/портфелей, конференции и обсуждения криптовалют"
+      "title": "Training",
+      "description": "Regular live lectures on various topics, market/portfolio reviews, conferences and discussions about cryptocurrencies"
     },
     "item2": {
-      "title": "Аналитика",
-      "description": "Ежедневная сводка аналитики по ситуации на рынке, рекомендации по покупках активов и набору позиций"
+      "title": "Analytics",
+      "description": "Daily summary of analytics on the market situation, recommendations for asset purchases and a set of positions"
     },
     "item3": {
-      "title": "Крипто-новости",
-      "description": "Отслеживаем и собираем актуальные новости из мира крипты в едином месте, Twitter & Binance tracker"
+      "title": "Crypto News",
+      "description": "Tracking and collecting the latest news from the crypto world in one place, Twitter & Binance tracker"
     },
     "item4": {
-      "title": "Сообщество",
-      "description": "Дружное и отзывчивое комьюнити, регулярное общение и обратная связь, оперативная поддержка и консультации"
+      "title": "Community",
+      "description": "Friendly and responsive community, regular communication and feedback, prompt support and advice"
     },
     "item5": {
       "title": "Library",
-      "description": "Сборник ссылок на самые полезные ресурсы в крипто-индустрии по разным направлениям: CEX, DEX, Wallets, Analytics и многое другое..."
+      "description": "A collection of links to the most useful resources in the crypto industry in various areas: CEX, DEX, Wallets, Analytics and more..."
     },
     "item6": {
       "title": "Whale Alert",
-      "description": "Отслеживаем и публикуем крупные транзакции, сжигания и печатанья внутри блокчейнов (в магическом стиле!)"
+      "description": "Tracking and publishing large transactions, burnings and printings within blockchains (in magical style!)"
     }
   },
   "platform": {
-    "title": "Platform",
-    "subtitle": "Отслеживай эффективность всех своих инвестиций в одном удобном и понятном месте",
-    "notice": "Мы постоянно работаем над улучшением платформы и стремимся сделать ее максимально удобной и полезной для каждого. Больше крутых фич в скором времени!",
+    "title": "platform",
+    "subtitle": "Track the performance of all your investments in one convenient and understandable place",
+    "notice": "We are constantly working on improving the platform and strive to make it as convenient and useful as possible for everyone. More cool features coming soon!",
 
     "item1": {
       "title": "Portfolio",
-      "description": "Отслеживайте доходность своих портфелей в удобном интерфейсе. 3 типа портфолио: биржевой, виртуальный и венчурный"
+      "description": "Track the performance of your portfolios in a convenient interface. 3 types of portfolios: stock, virtual and venture"
     },
     "item2": {
       "title": "Forum",
-      "description": "Создавайте статьи на тему криптовалют, общайтесь и обсуждайте идеи, комментируйте и голосуйте за лучшие посты"
+      "description": "Create articles about cryptocurrencies, chat and discuss ideas, comment and vote for the best posts"
     },
     "item3": {
       "title": "Academy",
-      "description": "Прокачивайте свои знания в сфере блокчейна и криптовалют, проходите обучающие курсы и получайте достижения"
+      "description": "Upgrade your knowledge of blockchain and cryptocurrencies, complete training courses and get achievements"
     },
     "item4": {
       "title": "Profile",
-      "description": "Развивайте своего персонажа, собирайте ежедневные награды и получайте уникальные достижения за активность"
+      "description": "Evolve your character, collect daily rewards and get unique achievements for being active"
     }
   },
 
   "nft": {
-    "title": "Уникальные <span>NFT-хомяки</span> для истинных дастеров!",
-    "description": "Для первых 10,000 подписчиков мы сделали историческую акцию! При\n        первом оформлении подписки “Cryptocommunity” или “All in one” вы\n        получите в подарок уникальный NFT с хомяком. В дальнейшем обладатели\n        этих NFT смогут получить эксклюзивный доступ к будущим продуктам и\n        событям компании.",
-    "how_get_hamster": "Как получить хомяка?"
+    "title": "Unique <span>NFT Hamsters</span> for true dusters!",
+    "description": "For the first 10,000 subscribers, we've made a historic promotion! When you\n subscribe to Cryptocommunity or All in one for the first time, you\n will receive a unique Hamster NFT. access to future products and\n company events.",
+    "how_get_hamster": "How to get a hamster?"
   },
 
   "hamster_modal": {
-    "description": "Создать хомяка можно только имя подписку “Cryptocommunity” или “All in One”. Сгенерированный хомяк навсегда закрепляется за вами. Каждый хомяк имеет редкость от Common до Rare и уникальные свойства генирации:  Фон, Эмоция, Вещь, Головной убор",
-    "ok": "Ясно",
+    "description": "You can only create a hamster with the subscription name “Cryptocommunity” or “All in One”. The generated hamster is permanently assigned to you. Each hamster has a rarity from Common to Rare and unique generation properties: Background, Emote, Thing, Headgear" ,
+    "ok": "Clear",
     "step1": {
-      "title": "Шаг 1",
-      "description": "Подключите к профилю свой дискорд-аккаунт"
+      "title": "Step 1",
+      "description": "Connect your discord account to the profile"
     },
     "step2": {
-      "title": "Шаг 2",
-      "description": "Зайдите на <a href=\"{{discordLink}}\" target=\"_blank\">дискорд-сервер Dust Foundation</a> и пройдите верификацию"
+      "title": "Step 2",
+      "description": "Go to <a href=\"{{discordLink}}\" target=\"_blank\">Dust Foundation Discord</a> and verify"
     },
     "step3": {
-      "title": "Шаг 3",
-      "description": "Откройте канал “Generation” в разделе “Community”"
+      "title": "Step 3",
+      "description": "Open the “Generation” channel in the “Community” section"
     },
     "step4": {
-      "title": "Шаг 4",
-      "description": "Нажмите кнопку “Сгенерировать”"
+      "title": "Step 4",
+      "description": "Press the Generate button"
     },
     "step5": {
-      "title": "Шаг 5",
-      "description": "Поздравляем, ваш крутейший хомяк сгенерирован!"
+      "title": "Step 5",
+      "description": "Congratulations, your coolest hamster has been generated!"
     }
   },
   "subscriptions": {
-    "title": "Наши подписки",
-    "days": "дней",
-    "tabs_notification": "С подпиской на {{ term }} дней вы получаете {{ bonus_term }} дней в подарок!",
-    "most_popular": "Самый популярный",
-    "discount": "Экономия",
-    "all_of": "Все из",
-    "all_types_portfolio": "Все типы портфелей (3 в 1)",
-    "courses_academy": "Обучающие курсы в Академии",
-    "forum": "Форум",
-    "private_telegram": "Приватный Telegram",
-    "private_discord": "Приватный Discord сервер",
-    "use_free": "Попробовать бесплатно",
-    "select_subscription": "Выбрать подписку"
+    "title": "Our Subscriptions",
+    "days": "days",
+    "tabs_notification": "Subscribe for {{ term }} days and get {{ bonus_term }} days free!",
+    "most_popular": "Most popular",
+    "discount": "Savings",
+    "all_of": "All of",
+    "all_types_portfolio" : "All types of portfolios (3 in 1)",
+    "courses_academy": "Academy Courses",
+    "forum": "Forum",
+    "private_telegram": "Private Telegram",
+    "private_discord": "Private Discord Server",
+    "use_free": "Try for free",
+    "select_subscription": "Select Subscription"
   },
   "reviews": {
-    "title": "Отзывы"
+    "title": "Reviews"
   }
 
 }

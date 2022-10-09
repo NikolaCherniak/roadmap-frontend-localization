@@ -1,12 +1,12 @@
 {
   "title": "<span>Official</span> verification",
-  "content": "Остерегайтесь мошенников. Введите адрес эл. почты, номер телефона, ник в\n            Телеграм, чтобы проверить, верифицирован ли источник и официально\n            относится к Dust Foundation.",
-  "search": "Искать",
+  "content": "Beware of scammers. Enter your email address, phone number, \n Telegram nickname to check if the source is verified and officially\n belongs to the Dust Foundation.",
+  "search": "Search",
   "modal": {
-    "ok": "Ок",
-    "verified_source": "Проверенный источник",
-    "not_verified_source": "Источник не подтвержден",
-    "not_verified_source_content": "Введенный вами источник не является официальным доменом Dust Foundation. Пожалуйста, соблюдайте осторожность и взаимодействуйте только с проверенными официальными источниками Dust Founadation.",
-    "verified_source_content": "Введенный вами источник проверен и является официальным доменом Dust Foundation."
+    "ok": "Ok",
+    "verified_source": "Verified source",
+    "not_verified_source": "Source not verified",
+    "not_verified_source_content": "The source you entered is not an official Dust Foundation domain. Please be careful and only interact with verified official Dust Founadation sources.",
+    "verified_source_content": "The source you entered is verified and is an official Dust Foundation domain."
   }
 }

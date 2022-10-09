@@ -1,20 +1,20 @@
 {
   "bro": {
-    "content": "Криптоэнтузиасты, особо заинтересованные в развитии комьюнити и криптоиндустрии в целом. Криптофанатики, которые хотят поддержать проект и стать его частью. Развиваться и совершенствоваться вместе с нами.",
+    "content": "Crypto enthusiasts who are especially interested in the development of the community and the crypto industry in general. Crypto fanatics who want to support the project and become part of it. Develop and improve with us.",
     "modal": {
-      "offer_text_label": "Чем вы можете нам помочь?"
+      "offer_text_label": "How can you help us?"
     }
   },
   "angels": {
-    "content": "Инвесторы для серьезных отношений, готовые на полноценное взаимодействие и сотрудничество. Компании, которые настроены на масштабирование и развитие проекта, горят делать общие хакатоны, совместные конференции, объединять комьюнити, двигать индустрию вперёд – готовы к равноценным партнёрским отношениям.",
+    "content": "Investors for serious relationships, ready for full-fledged interaction and cooperation. Companies that are committed to scaling and developing the project, eager to do common hackathons, joint conferences, unite communities, move the industry forward - are ready for equal partnerships.",
     "modal": {
-      "offer_size_label": "Мне интересно заинвестировать"
+      "offer_size_label": "I'm interested in investing"
     }
   },
-  "send": "Отправить",
-  "become": "Стать",
+  "send": "Send",
+  "become": "become",
   "validation_messages": {
-    "required": "Это поле обязательное",
-    "invalid_email": "Введите корректный Email"
+    "required": "This field is required",
+    "invalid_email": "Please enter a valid Email"
   }
 }

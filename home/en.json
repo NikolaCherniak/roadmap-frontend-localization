@@ -1,81 +1,81 @@
 {
-  "title": "Экосистема удобных сервисов для",
-  "single_subscription_for_all_products": "Единая подписка на все продукты",
-  "learn_more": "Узнать подробнее",
-  "crypto_enthusiasts": "крипто-энтузиастов",
-  "investors": "инвесторов",
-  "traders": "трейдеров",
-  "cover_description": "DUST — это экосистема из взаимосвязанных крипто-продуктов, направленных на облегчение\n        использования криптовалют и ускорение их массового распространения.",
+  "title": "Ecosystem of Convenient Services for",
+  "single_subscription_for_all_products": "Single subscription for all products",
+  "learn_more": "Learn more",
+  "crypto_enthusiasts": "crypto enthusiasts",
+  "investors": "investors",
+  "traders": "traders",
+  "cover_description": "DUST is an ecosystem of interconnected crypto products designed to facilitate\n the use of cryptocurrencies and accelerate their mass adoption.",
   "cryptocommunity": "Cryptocommunity",
   "platform": "Platform",
   "links" : {
-    "cryptocommunity_description": "Сообщество единомышленников, экспертов и крипто-энтузиастов",
-    "platform_description": "Отслеживай эффективность всех своих инвестиций в одном месте"
+    "cryptocommunity_description": "Community of like-minded people, experts and crypto enthusiasts",
+    "platform_description": "Track the performance of all your investments in one place"
   },
   "services": {
-    "title": "Наши решения",
-    "subtitle": "Мы направляем усилия на разработку полезных сервисов для крипто-энтузиастов",
-    "show_future_solutions": "Показать будущие решения",
+    "title": "Our Solutions",
+    "subtitle": "We focus on developing useful services for crypto enthusiasts",
+    "show_future_solutions": "Show Future Solutions",
 
     "cryptocommunity" : {
-      "description": "Сообщество единомышленников, экспертов и крипто-энтузиастов"
+      "description": "Community of like-minded people, experts and crypto enthusiasts"
     },
     "portfolio" : {
       "title": "Portfolio",
-      "description": "Отслеживать свои криптоактивы и наблюдай за своим портфелем"
+      "description": "Track your crypto assets and watch your portfolio"
     },
     "academy" : {
       "title": "Academy",
-      "description": "Самые сложные темы, изложенные простыми словами в одном месте"
+      "description": "The most complex topics in simple words in one place"
     },
     "forum" : {
       "title": "Forum",
-      "description": "Общайся, делись и предлагай крутые нововведения, которые мы с радостью реализуем"
+      "description": "Communicate, share and suggest cool features we'd love to implement"
     },
     "wallet" : {
       "title": "Wallet",
-      "description": "Самый простой и удобный кошелёк для (MultiChain) хранения криптовалют"
+      "description": "The easiest and most convenient wallet for (MultiChain) storage of cryptocurrencies"
     },
     "indexes" : {
       "title": "Indexes",
-      "description": "Сбалансированные крипто индексы на любой вкус и цвет, риск и профит"
+      "description": "Balanced crypto indices for every taste and color, risk and profit"
     },
     "crypto_calendar" : {
       "title": "Crypto calendar",
-      "description": "Отслеживай самые важные события в крипто мире в одном месте"
+      "description": "Track the most important events in the crypto world in one place"
     },
-    "alerts" : {
+    "alert" : {
       "title": "Alerts",
-      "description": "Гибкая система автоматизации и упрощения слежения за активами"
+      "description": "A flexible system for automating and simplifying asset tracking"
     },
     "stake_hub" : {
-      "title": "Stake HUB",
-      "description": "Стейкаем вместе наши любимые крипто активы продвигая Adoption"
+      "title": "Stake Hub",
+      "description": "Staking our favorite crypto assets together by promoting Adoption"
     },
     "forge" : {
       "title": "Forge",
-      "description": "Голосуйте, принимайте важные решения, которые влияют на наше сообщество"
+      "description": "Vote, make important decisions that affect our community"
     },
     "launchpad" : {
       "title": "Launchpad",
-      "description": "Community Driven стартовая площадка для запуска проектов и их продвижения"
+      "description": "Community Driven launch pad for launching and promoting projects"
     },
     "research_crypto" : {
       "title": "Research crypto",
-      "description": "Собираем всю самую актуальную информацию о проектах и проводим Research"
+      "description": "Gathering all the latest information about projects and doing Research"
     }
   },
   "roadmap": {
     "title": "Roadmap",
-    "item1": "<ul>\n                <li>Улучшение функций Portfolio</li>\n                <li>Закрытое Beta-тестирование</li>\n                <li>Подготовка к релизу</li>\n                <li>Запуск MVP и корп. сайта</li>\n                <li>Новый улучшенный Discord-сервер для сообщества</li>\n              </ul>",
-    "item2": "<ul>\n                <li>Локализация всех сервисов, выход на мировой рынок</li>\n                <li>Запуск Research crypto</li>\n                <li>Запуск Community pools</li>\n                <li>Запуск Indexes</li>\n              </ul>",
-    "item3": "<ul>\n                <li>Формирование команды</li>\n                <li>Разработка MVP:\n                  <ul>\n                    <li>Portfolio</li>\n                    <li>Academy</li>\n                    <li>Forum</li>\n                  </ul>\n                </li>\n                <li>Создание архитектуры</li>\n                <li>Создание дизайн-системы</li>\n                <li>Тестирование гипотез</li>\n              </ul>",
-    "item4": "<ul>\n                <li>Создание новых обучающих курсов для Academy</li>\n                <li>Внедрение Alerts</li>\n                <li>Внедрение Crypto calendar</li>\n                <li>Запуск Stake HUB</li>\n                <li>Создание MVP Wallet</li>\n              </ul>"
+    "item1": "<ul>\n <li>Portfolio Feature Improvements</li>\n <li>Closed Beta</li>\n <li>Preparing for release</li>\n <li> Launching MVP and Corporate Site</li>\n <li>New improved community Discord server</li>\n </ul>",
+    "item2": "<ul>\n <li>Localize all services, enter the global market</li>\n <li>Launch Research crypto</li>\n <li>Launch Community pools</li>\n <li>Launch Indexes</li>\n </ul>",
+    "item3": "<ul>\n <li>Building a Team</li>\n <li>Developing an MVP:\n <ul>\n <li>Portfolio</li>\n <li>Academy</ li>\n <li>Forum</li>\n </ul>\n </li>\n <li>Creating an architecture</li>\n <li>Creating a design system</li>\n <li>Hypothesis testing</li>\n </ul>",
+    "item4": "<ul>\n <li>Create new training courses for Academy</li>\n <li>Implement Alerts</li>\n <li>Implement Crypto calendar</li>\n <li >Launching Stake HUB</li>\n <li>Creating an MVP Wallet</li>\n </ul>"
   },
   "register": {
-    "title": "Стань частью сообщества!",
-    "subtitle": "Регистрируй аккаунт и активируй бесплатный 7-дневный период на платформу :)",
-    "create_account_free": "Создать аккаунт бесплатно"
+    "title": "Be part of the community!",
+    "subtitle": "Register an account and activate a free 7-day period on the platform :)",
+    "create_account_free": "Create an account for free"
   }
 
 }
