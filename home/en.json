@@ -44,7 +44,7 @@
       "title": "Crypto calendar",
       "description": "Track the most important events in the crypto world in one place"
     },
-    "alert" : {
+    "alerts" : {
       "title": "Alerts",
       "description": "A flexible system for automating and simplifying asset tracking"
     },
