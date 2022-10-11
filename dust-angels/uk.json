@@ -16,5 +16,7 @@
   "validation_messages": {
     "required": "Це поле обов'язкове",
     "invalid_email": "Введіть правильний Email"
-  }
+  },
+  "success_message": "Пропозиція успішно надіслана",
+  "error_message": "Відбулася помилка при надсиланні пропозиції"
 }

@@ -16,5 +16,7 @@
   "validation_messages": {
     "required": "Это поле обязательное",
     "invalid_email": "Введите корректный Email"
-  }
+  },
+  "success_message": "Предложение успешно отправлено",
+  "error_message": "Произошла ошибка при отправке предложения"
 }
