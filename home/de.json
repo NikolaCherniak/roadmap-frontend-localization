@@ -1,0 +1,79 @@
+{
+	"title": "Ökosystem bequemer Dienste für",
+	"single_subscription_for_all_products": "Einzelabonnement für alle Produkte",
+	"learn_more": "Mehr erfahren",
+	"crypto_enthusiasts": "Krypto-Enthusiasten",
+	"investors": "Investoren",
+	"traders": "Händler",
+	"cover_description": "DUST ist ein Ökosystem aus miteinander verbundenen Kryptoprodukten, die entwickelt wurden, um dies zu erleichtern\n die Verwendung von Kryptowährungen und beschleunigen ihre Massenakzeptanz.",
+	"cryptocommunity": "Kryptogemeinschaft",
+	"platform": "Plattform",
+	"links": {
+		"cryptocommunity_description": "Gemeinschaft von Gleichgesinnten, Experten und Krypto-Enthusiasten",
+		"platform_description": "Verfolgen Sie die Performance all Ihrer Investitionen an einem Ort"
+	},
+	"services": {
+		"title": "Unsere Lösungen",
+		"subtitle": "Wir konzentrieren uns auf die Entwicklung nützlicher Dienste für Krypto-Enthusiasten",
+		"show_future_solutions": "Zukünftige Lösungen zeigen",
+		"cryptocommunity": {
+			"description": "Gemeinschaft von Gleichgesinnten, Experten und Krypto-Enthusiasten"
+		},
+		"portfolio": {
+			"title": "Portfolio",
+			"description": "Verfolgen Sie Ihre Krypto-Assets und beobachten Sie Ihr Portfolio"
+		},
+		"academy": {
+			"title": "Akademie",
+			"description": "Die komplexesten Themen in einfachen Worten an einem Ort"
+		},
+		"forum": {
+			"title": "Forum",
+			"description": "Kommunizieren, teilen und schlagen Sie coole Funktionen vor, die wir gerne implementieren würden"
+		},
+		"wallet": {
+			"title": "Geldbörse",
+			"description": "Die einfachste und bequemste Brieftasche für die (MultiChain-)Speicherung von Kryptowährungen"
+		},
+		"indexes": {
+			"title": "Indizes",
+			"description": "Ausgewogene Krypto-Indizes für jeden Geschmack und jede Farbe, jedes Risiko und jeden Gewinn"
+		},
+		"crypto_calendar": {
+			"title": "Krypto-Kalender",
+			"description": "Verfolgen Sie die wichtigsten Ereignisse in der Kryptowelt an einem Ort"
+		},
+		"alerts": {
+			"title": "Warnungen",
+			"description": "Ein flexibles System zur Automatisierung und Vereinfachung der Bestandsverfolgung"
+		},
+		"stake_hub": {
+			"title": "Stake-Hub",
+			"description": "Zusammenstecken unserer Lieblings-Krypto-Assets durch Förderung der Adoption"
+		},
+		"forge": {
+			"title": "Schmiede",
+			"description": "Stimme ab, triff wichtige Entscheidungen, die unsere Community betreffen"
+		},
+		"launchpad": {
+			"title": "Startrampe",
+			"description": "Community Driven Launch Pad zum Starten und Fördern von Projekten"
+		},
+		"research_crypto": {
+			"title": "Krypto erforschen",
+			"description": "Sammeln Sie die neuesten Informationen über Projekte und forschen Sie"
+		}
+	},
+	"roadmap": {
+		"title": "Fahrplan",
+		"item1": "<ul><li>Verbesserungen der Portfolio-Funktion</li><li> Geschlossene Beta</li><li> Freigabe vorbereiten</li><li> Starten von MVP und Corporate Site</li><li> Neuer verbesserter Community-Discord-Server</li></ul>",
+		"item2": "<ul><li>Lokalisieren Sie alle Dienste, treten Sie in den globalen Markt ein</li><li> Starten Sie Research Crypto</li><li> Starten Sie Community-Pools</li><li> Indizes starten</li></ul>",
+		"item3": "<ul><li>Aufbau eines Teams</li><li> Entwicklung eines MVP:<ul><li> Portfolio</li><li> Akademie</ li><li> Forum</li></ul></li><li> Erstellen einer Architektur</li><li> Erstellen eines Designsystems</li><li> Hypothesentest</li></ul>",
+		"item4": "<ul><li>Erstellen Sie neue Schulungskurse für die Academy</li><li> Implementieren Sie Warnungen</li><li> Implementieren Sie den Crypto-Kalender</li><li > Start von Stake HUB</li><li> Erstellen einer MVP-Wallet</li></ul>"
+	},
+	"register": {
+		"title": "Sei Teil der Community!",
+		"subtitle": "Registrieren Sie ein Konto und aktivieren Sie einen kostenlosen Zeitraum von 7 Tagen auf der Plattform :)",
+		"create_account_free": "Kostenlos ein Konto erstellen"
+	}
+}

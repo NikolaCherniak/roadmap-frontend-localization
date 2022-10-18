@@ -1,0 +1,101 @@
+{
+	"title": "Wie erhalte ich Zugang?",
+	"subtitle": "Um Zugang zu erhalten, müssen Sie 1 von 3 Abonnements erwerben.\n Sie können auch eine kostenlose 7-Tage-Testversion ausprobieren.",
+	"select_subscription": "Wählen Sie Abonnement aus",
+	"community": {
+		"title": "Kryptogemeinschaft",
+		"subtitle": "Geschlossene Community für echte Krypto-Enthusiasten, die es Ihnen ermöglicht, immer über alles informiert zu sein, was in der Branche passiert.",
+		"item1": {
+			"title": "Ausbildung",
+			"description": "Regelmäßige Live-Vorträge zu verschiedenen Themen, Markt-/Portfolio-Reviews, Konferenzen und Diskussionen rund um Kryptowährungen"
+		},
+		"item2": {
+			"title": "Analytik",
+			"description": "Tägliche Zusammenfassung von Analysen zur Marktsituation, Empfehlungen für den Kauf von Vermögenswerten und eine Reihe von Positionen"
+		},
+		"item3": {
+			"title": "Krypto-News",
+			"description": "Verfolgen und Sammeln der neuesten Nachrichten aus der Kryptowelt an einem Ort, Twitter & Binance Tracker"
+		},
+		"item4": {
+			"title": "Gemeinschaft",
+			"description": "Freundliche und reaktionsschnelle Community, regelmäßige Kommunikation und Feedback, schnelle Unterstützung und Beratung"
+		},
+		"item5": {
+			"title": "Bibliothek",
+			"description": "Eine Sammlung von Links zu den nützlichsten Ressourcen in der Kryptoindustrie in verschiedenen Bereichen: CEX, DEX, Wallets, Analytics und mehr..."
+		},
+		"item6": {
+			"title": "Wal-Alarm",
+			"description": "Verfolgen und Veröffentlichen großer Transaktionen, Burns und Printings innerhalb von Blockchains (im magischen Stil!)"
+		}
+	},
+	"platform": {
+		"title": "Plattform",
+		"subtitle": "Verfolgen Sie die Performance all Ihrer Investitionen an einem bequemen und verständlichen Ort",
+		"notice": "Wir arbeiten ständig an der Verbesserung der Plattform und bemühen uns, sie für alle so bequem und nützlich wie möglich zu machen. Weitere coole Features folgen in Kürze!",
+		"item1": {
+			"title": "Portfolio",
+			"description": "Verfolgen Sie die Performance Ihrer Portfolios in einer praktischen Benutzeroberfläche. 3 Arten von Portfolios: Aktien, virtuelle und Venture"
+		},
+		"item2": {
+			"title": "Forum",
+			"description": "Erstelle Artikel über Kryptowährungen, chatte und diskutiere Ideen, kommentiere und stimme für die besten Beiträge ab"
+		},
+		"item3": {
+			"title": "Akademie",
+			"description": "Verbessern Sie Ihr Wissen über Blockchain und Kryptowährungen, absolvieren Sie Schulungen und erhalten Sie Erfolge"
+		},
+		"item4": {
+			"title": "Profil",
+			"description": "Entwickle deinen Charakter, sammle tägliche Belohnungen und erhalte einzigartige Erfolge für deine Aktivität"
+		}
+	},
+	"nft": {
+		"title": "Einzigartige <span>NFT-Hamster</span> für echte Staubwedel!",
+		"description": "Für die ersten 10.000 Abonnenten haben wir eine historische Promotion gemacht! Wenn du\n abonnieren Sie Cryptocommunity oder All in One zum ersten Mal, Sie\n erhält ein einzigartiges Hamster-NFT. Zugriff auf zukünftige Produkte und\n Firmenveranstaltungen.",
+		"how_get_hamster": "Wie bekomme ich einen Hamster?"
+	},
+	"hamster_modal": {
+		"description": "Sie können einen Hamster nur mit dem Abonnementnamen „Cryptocommunity“ oder „All in One“ erstellen. Der generierte Hamster ist Ihnen dauerhaft zugeordnet. Jeder Hamster hat eine Seltenheit von Common bis Rare und einzigartige Generationseigenschaften: Hintergrund, Emote, Ding, Kopfbedeckung",
+		"ok": "Klar",
+		"step1": {
+			"title": "Schritt 1",
+			"description": "Verbinde dein Discord-Konto mit dem Profil"
+		},
+		"step2": {
+			"title": "Schritt 2",
+			"description": "Gehen Sie zu <a href=\"{{discordLink}}\" target=\"blank\">Dust Foundation Discord</a> und überprüfen Sie es"
+		},
+		"step3": {
+			"title": "Schritt 3",
+			"description": "Öffnen Sie im Bereich „Community“ den Kanal „Generation“."
+		},
+		"step4": {
+			"title": "Schritt 4",
+			"description": "Drücken Sie die Schaltfläche Generieren"
+		},
+		"step5": {
+			"title": "Schritt 5",
+			"description": "Herzlichen Glückwunsch, Ihr coolster Hamster wurde generiert!"
+		}
+	},
+	"subscriptions": {
+		"title": "Unsere Abonnements",
+		"days": "Tage",
+		"tabs_notification": "Abonnieren Sie für {{term}} Tage und erhalten Sie {{bonusterm}} Tage kostenlos!",
+		"most_popular": "Am beliebtesten",
+		"discount": "Ersparnisse",
+		"all_of": "Alle",
+		"all_types_portfolio": "Alle Arten von Portfolios (3 in 1)",
+		"courses_academy": "Akademiekurse",
+		"forum": "Forum",
+		"private_telegram": "Privates Telegramm",
+		"private_discord": "Privater Discord-Server",
+		"use_free": "Kostenlos testen",
+		"select_subscription": "Wählen Sie Abonnement aus"
+	},
+	"reviews": {
+		"title": "Bewertungen"
+	}
+}

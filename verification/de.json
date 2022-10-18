@@ -1,0 +1,12 @@
+{
+	"title": "<span>Offizielle</span> Überprüfung",
+	"content": "Vorsicht vor Betrügern. Geben Sie Ihre E-Mail-Adresse, Telefonnummer,\n Telegramm-Spitzname, um zu überprüfen, ob die Quelle verifiziert und offiziell ist\n gehört der Dust Foundation.",
+	"search": "Suche",
+	"modal": {
+		"ok": "OK",
+		"verified_source": "Verifizierte Quelle",
+		"not_verified_source": "Quelle nicht verifiziert",
+		"not_verified_source_content": "Die von Ihnen eingegebene Quelle ist keine offizielle Domain der Dust Foundation. Bitte seien Sie vorsichtig und interagieren Sie nur mit verifizierten offiziellen Quellen der Dust Foundation.",
+		"verified_source_content": "Die von Ihnen eingegebene Quelle wurde verifiziert und ist eine offizielle Domain der Dust Foundation."
+	}
+}

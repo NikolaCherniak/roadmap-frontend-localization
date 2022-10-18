@@ -1,0 +1,22 @@
+{
+	"bro": {
+		"content": "Krypto-Enthusiasten, die sich besonders für die Entwicklung der Community und der Kryptoindustrie im Allgemeinen interessieren. Kryptofanatiker, die das Projekt unterstützen und Teil davon werden wollen. Entwickeln und verbessern Sie sich mit uns.",
+		"modal": {
+			"offer_text_label": "Wie können Sie uns helfen?"
+		}
+	},
+	"angels": {
+		"content": "Investoren für ernsthafte Beziehungen, bereit für vollwertige Interaktion und Zusammenarbeit. Unternehmen, die sich der Skalierung und Weiterentwicklung des Projekts verschrieben haben, bereit sind, gemeinsame Hackathons und Konferenzen zu veranstalten, Gemeinschaften zu vereinen und die Branche voranzubringen, sind bereit für gleichberechtigte Partnerschaften.",
+		"modal": {
+			"offer_size_label": "Ich interessiere mich für Investitionen"
+		}
+	},
+	"send": "Senden",
+	"become": "Werden",
+	"validation_messages": {
+		"required": "Dieses Feld ist erforderlich",
+		"invalid_email": "Bitte geben Sie eine gültige Email-Adresse ein"
+	},
+	"success_message": "Angebot erfolgreich gesendet",
+	"error_message": "Beim Senden des Angebots ist ein Fehler aufgetreten"
+}
