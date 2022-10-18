@@ -1,0 +1,101 @@
+{
+	"title": "Kuinka päästä sisään?",
+	"subtitle": "Päästäksesi käyttöösi, sinun on ostettava yksi kolmesta tilauksesta.\n Voit myös kokeilla ilmaista 7 päivän kokeilujaksoa.",
+	"select_subscription": "Valitse Tilaus",
+	"community": {
+		"title": "Kryptoyhteisö",
+		"subtitle": "Suljettu yhteisö todellisille krypto-harrastajille, jonka avulla voit olla aina tietoinen kaikesta, mitä alalla tapahtuu.",
+		"item1": {
+			"title": "Koulutus",
+			"description": "Säännölliset live-luennot eri aiheista, markkina-/salkkuarvostelut, konferenssit ja keskustelut kryptovaluutoista"
+		},
+		"item2": {
+			"title": "Analytics",
+			"description": "Päivittäinen yhteenveto markkinatilanteen analyytikoista, suositukset omaisuuden ostoihin ja joukko positioita"
+		},
+		"item3": {
+			"title": "Kryptouutiset",
+			"description": "Seuraa ja kerää viimeisimmät uutiset kryptomaailmasta yhteen paikkaan, Twitter- ja Binance-seuranta"
+		},
+		"item4": {
+			"title": "Yhteisö",
+			"description": "Ystävällinen ja reagoiva yhteisö, säännöllinen viestintä ja palaute, nopea tuki ja neuvonta"
+		},
+		"item5": {
+			"title": "Kirjasto",
+			"description": "Kokoelma linkkejä kryptoteollisuuden hyödyllisimpiin resursseihin eri alueilla: CEX, DEX, Wallets, Analytics ja paljon muuta..."
+		},
+		"item6": {
+			"title": "Valas varoitus",
+			"description": "Suurten tapahtumien, polttojen ja tulosteiden seuranta ja julkaiseminen lohkoketjuissa (maagisella tyylillä!)"
+		}
+	},
+	"platform": {
+		"title": "alusta",
+		"subtitle": "Seuraa kaikkien sijoitustesi tehokkuutta yhdessä kätevässä ja ymmärrettävässä paikassa",
+		"notice": "Kehitämme jatkuvasti alustaa ja pyrimme tekemään siitä mahdollisimman kätevän ja hyödyllisen kaikille. Lisää upeita ominaisuuksia tulossa pian!",
+		"item1": {
+			"title": "Portfolio",
+			"description": "Seuraa salkkujesi suorituskykyä kätevässä käyttöliittymässä. 3 salkkutyyppiä: osake-, virtuaali- ja riskipääoma"
+		},
+		"item2": {
+			"title": "Foorumi",
+			"description": "Luo artikkeleita kryptovaluutoista, keskustele ja keskustele ideoista, kommentoi ja äänestä parhaita julkaisuja"
+		},
+		"item3": {
+			"title": "Akatemia",
+			"description": "Päivitä tietosi lohkoketjuista ja kryptovaluutoista, suorita koulutuskursseja ja hanki saavutuksia"
+		},
+		"item4": {
+			"title": "Profiili",
+			"description": "Kehitä hahmoasi, kerää päivittäisiä palkintoja ja hanki ainutlaatuisia saavutuksia aktiivisuudestasi"
+		}
+	},
+	"nft": {
+		"title": "Ainutlaatuiset <span>NFT-hamsterit</span> todellisille pölynhousuille!",
+		"description": "Olemme tehneet historiallisen kampanjan ensimmäisille 10 000 tilaajalle! Kun sinä\n tilaa Cryptocommunity tai All in one ensimmäistä kertaa, sinä\n saavat ainutlaatuisen Hamster NFT:n. pääsy tuleviin tuotteisiin ja\n yritystapahtumat.",
+		"how_get_hamster": "Kuinka saada hamsteri?"
+	},
+	"hamster_modal": {
+		"description": "Voit luoda hamsterin vain tilausnimellä \"Cryptocommunity\" tai \"All in One\". Luotu hamsteri on määritetty pysyvästi sinulle. Jokaisella hamsterilla on harvinaisuus yleisestä harvinaiseen ja ainutlaatuiset sukupolven ominaisuudet: tausta, hymiö, asia, päähineet",
+		"ok": "Asia selvä",
+		"step1": {
+			"title": "Vaihe 1",
+			"description": "Yhdistä discord-tilisi profiiliin"
+		},
+		"step2": {
+			"title": "Vaihe 2",
+			"description": "Siirry <a href=\"{{discordLink}}\" target=\"blank\">Dust Foundation Discordiin</a> ja varmista"
+		},
+		"step3": {
+			"title": "Vaihe 3",
+			"description": "Avaa \"Yhteisö\"-osiossa \"Sukupolvi\"-kanava"
+		},
+		"step4": {
+			"title": "Vaihe 4",
+			"description": "Paina Luo-painiketta"
+		},
+		"step5": {
+			"title": "Vaihe 5",
+			"description": "Onnittelut, tyylikkäin hamsterisi on luotu!"
+		}
+	},
+	"subscriptions": {
+		"title": "Tilauksemme",
+		"days": "päivää",
+		"tabs_notification": "Tilaa {{term}} päiväksi ja saat {{bonusterm}} päivää ilmaiseksi!",
+		"most_popular": "Suosituin",
+		"discount": "Säästöjä",
+		"all_of": "Kaikki",
+		"all_types_portfolio": "Kaiken tyyppiset portfoliot (3 in 1)",
+		"courses_academy": "Akatemian kurssit",
+		"forum": "Foorumi",
+		"private_telegram": "Yksityinen Telegram",
+		"private_discord": "Yksityinen Discord-palvelin",
+		"use_free": "Kokeile ilmaiseksi",
+		"select_subscription": "Valitse Tilaus"
+	},
+	"reviews": {
+		"title": "Arvostelut"
+	}
+}

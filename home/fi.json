@@ -1,0 +1,79 @@
+{
+	"title": "Kätevien palvelujen ekosysteemi",
+	"single_subscription_for_all_products": "Yksittäinen tilaus kaikille tuotteille",
+	"learn_more": "Lue lisää",
+	"crypto_enthusiasts": "krypton harrastajat",
+	"investors": "sijoittajia",
+	"traders": "kauppiaita",
+	"cover_description": "DUST on toisiinsa yhdistettyjen kryptotuotteiden ekosysteemi, joka on suunniteltu helpottamaan\n kryptovaluuttojen käyttöä ja nopeuttaa niiden massakäyttöönottoa.",
+	"cryptocommunity": "Kryptoyhteisö",
+	"platform": "Alusta",
+	"links": {
+		"cryptocommunity_description": "Yhteisö samanhenkisiä ihmisiä, asiantuntijoita ja krypto-harrastajia",
+		"platform_description": "Seuraa kaikkien sijoitustesi tehokkuutta yhdessä paikassa"
+	},
+	"services": {
+		"title": "Ratkaisumme",
+		"subtitle": "Keskitymme kehittämään hyödyllisiä palveluita krypto-harrastajille",
+		"show_future_solutions": "Näytä tulevaisuuden ratkaisut",
+		"cryptocommunity": {
+			"description": "Yhteisö samanhenkisiä ihmisiä, asiantuntijoita ja krypto-harrastajia"
+		},
+		"portfolio": {
+			"title": "Portfolio",
+			"description": "Seuraa kryptovarallisuuttasi ja tarkkaile salkkuasi"
+		},
+		"academy": {
+			"title": "Akatemia",
+			"description": "Monimutkaisimmat aiheet yksinkertaisin sanoin yhdessä paikassa"
+		},
+		"forum": {
+			"title": "Foorumi",
+			"description": "Kommunikoi, jaa ja ehdota hienoja ominaisuuksia, joita haluaisimme ottaa käyttöön"
+		},
+		"wallet": {
+			"title": "Lompakko",
+			"description": "Helpoin ja kätevin lompakko kryptovaluuttojen (MultiChain) tallentamiseen"
+		},
+		"indexes": {
+			"title": "Indeksit",
+			"description": "Tasapainoiset kryptoindeksit jokaiseen makuun ja väriin, riskeihin ja voittoihin"
+		},
+		"crypto_calendar": {
+			"title": "Krypto kalenteri",
+			"description": "Seuraa kryptomaailman tärkeimpiä tapahtumia yhdessä paikassa"
+		},
+		"alerts": {
+			"title": "Hälytykset",
+			"description": "Joustava järjestelmä omaisuuden seurannan automatisointiin ja yksinkertaistamiseen"
+		},
+		"stake_hub": {
+			"title": "Stake Hub",
+			"description": "Panosta suosikki kryptoomaisuutemme yhteen edistämällä adoptiota"
+		},
+		"forge": {
+			"title": "Forge",
+			"description": "Äänestä, tee tärkeitä päätöksiä, jotka vaikuttavat yhteisöömme"
+		},
+		"launchpad": {
+			"title": "Laukaisualusta",
+			"description": "Yhteisölähtöinen aloitusalusta hankkeiden käynnistämiseen ja edistämiseen"
+		},
+		"research_crypto": {
+			"title": "Tutki kryptoa",
+			"description": "Kerää kaikki uusimmat tiedot projekteista ja teet tutkimusta"
+		}
+	},
+	"roadmap": {
+		"title": "Tiekartta",
+		"item1": "<ul><li>Portfolion ominaisuuksien parannuksia</li><li> Suljettu beta</li><li> Valmistautuminen vapautumiseen</li><li> MVP- ja yrityssivuston julkaisu</li><li> Uusi parannettu yhteisön Discord-palvelin</li></ul>",
+		"item2": "<ul><li>Lokalisoi kaikki palvelut, astu globaaleille markkinoille</li><li> Käynnistä Research crypto</li><li> Avaa yhteisöaltaat</li><li> Käynnistä Indeksit</li></ul>",
+		"item3": "<ul><li>Joukkueen rakentaminen</li><li> MVP:n kehittäminen:<ul><li> Portfolio</li><li> Akatemia</ li><li> Foorumi</li></ul></li><li> Arkkitehtuurin luominen</li><li> Suunnittelujärjestelmän luominen</li><li> Hypoteesin testaus</li></ul>",
+		"item4": "<ul><li>Luo uusia koulutuskursseja Akatemialle</li><li> Ota käyttöön hälytykset</li><li> Ota käyttöön kryptokalenteri</li><li > Stake HUB käynnistetään</li><li> MVP-lompakon luominen</li></ul>"
+	},
+	"register": {
+		"title": "Ole osa yhteisöä!",
+		"subtitle": "Rekisteröi tili ja aktivoi ilmainen 7 päivän jakso alustalla :)",
+		"create_account_free": "Luo tili ilmaiseksi"
+	}
+}

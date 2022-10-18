@@ -1,0 +1,22 @@
+{
+	"bro": {
+		"content": "Kryptoharrastajat, jotka ovat erityisen kiinnostuneita yhteisön ja kryptoteollisuuden kehityksestä yleensä. Kryptofanaatikot, jotka haluavat tukea projektia ja tulla osaksi sitä. Kehitä ja paranna kanssamme.",
+		"modal": {
+			"offer_text_label": "Kuinka voit auttaa meitä?"
+		}
+	},
+	"angels": {
+		"content": "Sijoittajat vakaviin ihmissuhteisiin, valmiita täysipainoiseen vuorovaikutukseen ja yhteistyöhön. Yritykset, jotka ovat sitoutuneet skaalaamaan ja kehittämään hanketta, innokkaita tekemään yhteisiä hackathoneja, yhteisiä konferensseja, yhdistämään yhteisöjä, viemään alaa eteenpäin – ovat valmiita tasavertaisiin kumppanuuksiin.",
+		"modal": {
+			"offer_size_label": "Olen kiinnostunut sijoittamisesta"
+		}
+	},
+	"send": "Lähettää",
+	"become": "Tulla",
+	"validation_messages": {
+		"required": "Tämä kenttä pitää täyttää",
+		"invalid_email": "Anna kelvollinen sähköpostiosoite"
+	},
+	"success_message": "Tarjous lähetetty onnistuneesti",
+	"error_message": "Tarjouksen lähettämisessä tapahtui virhe"
+}

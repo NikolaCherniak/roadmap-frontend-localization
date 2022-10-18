@@ -1,0 +1,12 @@
+{
+	"title": "<span>Virallinen</span> vahvistus",
+	"content": "Varo huijareita. Syötä sähköpostiosoitteesi, puhelinnumerosi,\n Telegram-lempinimi tarkistaaksesi, onko lähde vahvistettu ja virallisesti\n kuuluu Dust Foundationille.",
+	"search": "Hae",
+	"modal": {
+		"ok": "Ok",
+		"verified_source": "Vahvistettu lähde",
+		"not_verified_source": "Lähdettä ei vahvistettu",
+		"not_verified_source_content": "Antamasi lähde ei ole virallinen Dust Foundation -verkkotunnus. Ole varovainen ja ole vuorovaikutuksessa vain vahvistettujen virallisten Dust Founadation -lähteiden kanssa.",
+		"verified_source_content": "Antamasi lähde on vahvistettu ja se on virallinen Dust Foundation -verkkotunnus."
+	}
+}
