@@ -1,0 +1,101 @@
+{
+	"title": "Como obter acesso?",
+	"subtitle": "Para obter acesso, você deve comprar 1 de 3 assinaturas.\n Você também pode experimentar uma avaliação gratuita de 7 dias.",
+	"select_subscription": "Selecionar assinatura",
+	"community": {
+		"title": "Criptocomunidade",
+		"subtitle": "Comunidade fechada para verdadeiros entusiastas de criptomoedas, que lhe permitirá estar sempre a par de tudo o que acontece na indústria.",
+		"item1": {
+			"title": "Treinamento",
+			"description": "Palestras ao vivo regulares sobre vários tópicos, análises de mercado/portfólio, conferências e discussões sobre criptomoedas"
+		},
+		"item2": {
+			"title": "Análise",
+			"description": "Resumo diário de análises sobre a situação do mercado, recomendações para compra de ativos e um conjunto de posições"
+		},
+		"item3": {
+			"title": "Notícias de criptografia",
+			"description": "Rastreando e coletando as últimas notícias do mundo das criptomoedas em um só lugar, Twitter e rastreador da Binance"
+		},
+		"item4": {
+			"title": "Comunidade",
+			"description": "Comunidade amigável e receptiva, comunicação e feedback regulares, suporte e aconselhamento imediatos"
+		},
+		"item5": {
+			"title": "Biblioteca",
+			"description": "Uma coleção de links para os recursos mais úteis da indústria criptográfica em várias áreas: CEX, DEX, Wallets, Analytics e muito mais..."
+		},
+		"item6": {
+			"title": "Alerta de Baleia",
+			"description": "Rastreamento e publicação de grandes transações, queimas e impressões dentro de blockchains (em estilo mágico!)"
+		}
+	},
+	"platform": {
+		"title": "plataforma",
+		"subtitle": "Acompanhe o desempenho de todos os seus investimentos em um local conveniente e compreensível",
+		"notice": "Estamos constantemente trabalhando para melhorar a plataforma e nos esforçamos para torná-la o mais conveniente e útil possível para todos. Mais recursos interessantes em breve!",
+		"item1": {
+			"title": "Portfólio",
+			"description": "Acompanhe o desempenho de seus portfólios em uma interface conveniente. 3 tipos de carteiras: ações, virtuais e de risco"
+		},
+		"item2": {
+			"title": "Fórum",
+			"description": "Crie artigos sobre criptomoedas, converse e discuta ideias, comente e vote nos melhores posts"
+		},
+		"item3": {
+			"title": "Academia",
+			"description": "Atualize seu conhecimento de blockchain e criptomoedas, complete cursos de treinamento e obtenha conquistas"
+		},
+		"item4": {
+			"title": "Perfil",
+			"description": "Evolua seu personagem, colete recompensas diárias e obtenha conquistas únicas por ser ativo"
+		}
+	},
+	"nft": {
+		"title": "<span>Hamsters NFT</span> exclusivos para verdadeiros espanadores!",
+		"description": "Para os primeiros 10.000 inscritos, fizemos uma promoção histórica! Quando você\n assinar a Cryptocommunity ou All in one pela primeira vez, você\n receberá um Hamster NFT exclusivo. acesso a produtos futuros e\n eventos da empresa.",
+		"how_get_hamster": "Como obter um hamster?"
+	},
+	"hamster_modal": {
+		"description": "Você só pode criar um hamster com o nome de assinatura “Cryptocommunity” ou “All in One”. O hamster gerado é atribuído permanentemente a você. Cada hamster tem uma raridade de Comum a Raro e propriedades de geração únicas: Background, Emote, Thing, Headgear",
+		"ok": "Claro",
+		"step1": {
+			"title": "Passo 1",
+			"description": "Conecte sua conta do discord ao perfil"
+		},
+		"step2": {
+			"title": "Passo 2",
+			"description": "Vá para o <a href=\"{{discordLink}}\" target=\"blank\">Discord da Dust Foundation</a> e verifique"
+		},
+		"step3": {
+			"title": "etapa 3",
+			"description": "Abra o canal \"Geração\" na seção \"Comunidade\""
+		},
+		"step4": {
+			"title": "Passo 4",
+			"description": "Pressione o botão Gerar"
+		},
+		"step5": {
+			"title": "Etapa 5",
+			"description": "Parabéns, seu hamster mais legal foi gerado!"
+		}
+	},
+	"subscriptions": {
+		"title": "Nossas assinaturas",
+		"days": "dias",
+		"tabs_notification": "Inscreva-se por {{term}} dias e ganhe {{bonusterm}} dias grátis!",
+		"most_popular": "Mais popular",
+		"discount": "Poupança",
+		"all_of": "Tudo de",
+		"all_types_portfolio": "Todos os tipos de portfólios (3 em 1)",
+		"courses_academy": "Cursos da Academia",
+		"forum": "Fórum",
+		"private_telegram": "Telegrama Privado",
+		"private_discord": "Servidor de discórdia privado",
+		"use_free": "Experimentar gratuitamente",
+		"select_subscription": "Selecionar assinatura"
+	},
+	"reviews": {
+		"title": "Avaliações"
+	}
+}

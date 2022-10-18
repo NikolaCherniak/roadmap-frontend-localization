@@ -1,0 +1,79 @@
+{
+	"title": "Ecossistema de Serviços Convenientes para",
+	"single_subscription_for_all_products": "Assinatura única para todos os produtos",
+	"learn_more": "Saber mais",
+	"crypto_enthusiasts": "entusiastas de criptografia",
+	"investors": "investidores",
+	"traders": "comerciantes",
+	"cover_description": "DUST é um ecossistema de produtos de criptografia interconectados projetados para facilitar\n o uso de criptomoedas e acelerar sua adoção em massa.",
+	"cryptocommunity": "Criptocomunidade",
+	"platform": "Plataforma",
+	"links": {
+		"cryptocommunity_description": "Comunidade de pessoas afins, especialistas e entusiastas de criptomoedas",
+		"platform_description": "Acompanhe o desempenho de todos os seus investimentos em um só lugar"
+	},
+	"services": {
+		"title": "Nossas soluções",
+		"subtitle": "Nós nos concentramos no desenvolvimento de serviços úteis para entusiastas de criptografia",
+		"show_future_solutions": "Mostrar soluções futuras",
+		"cryptocommunity": {
+			"description": "Comunidade de pessoas afins, especialistas e entusiastas de criptomoedas"
+		},
+		"portfolio": {
+			"title": "Portfólio",
+			"description": "Acompanhe seus ativos de criptografia e observe seu portfólio"
+		},
+		"academy": {
+			"title": "Academia",
+			"description": "Os tópicos mais complexos em palavras simples em um só lugar"
+		},
+		"forum": {
+			"title": "Fórum",
+			"description": "Comunique, compartilhe e sugira recursos interessantes que adoraríamos implementar"
+		},
+		"wallet": {
+			"title": "Carteira",
+			"description": "A carteira mais fácil e conveniente para armazenamento (MultiChain) de criptomoedas"
+		},
+		"indexes": {
+			"title": "Índices",
+			"description": "Índices de criptomoedas equilibrados para todos os gostos e cores, riscos e lucros"
+		},
+		"crypto_calendar": {
+			"title": "Calendário de criptografia",
+			"description": "Acompanhe os eventos mais importantes do mundo das criptomoedas em um só lugar"
+		},
+		"alerts": {
+			"title": "Alertas",
+			"description": "Um sistema flexível para automatizar e simplificar o rastreamento de ativos"
+		},
+		"stake_hub": {
+			"title": "Centro de estaca",
+			"description": "Juntando nossos ativos criptográficos favoritos, promovendo a adoção"
+		},
+		"forge": {
+			"title": "Forja",
+			"description": "Vote, tome decisões importantes que afetam nossa comunidade"
+		},
+		"launchpad": {
+			"title": "Plataforma de lançamento",
+			"description": "Plataforma de lançamento orientada pela comunidade para lançar e promover projetos"
+		},
+		"research_crypto": {
+			"title": "Criptografia de pesquisa",
+			"description": "Reunir todas as informações mais recentes sobre projetos e fazer pesquisas"
+		}
+	},
+	"roadmap": {
+		"title": "Roteiro",
+		"item1": "<ul><li>Melhorias de recursos do portfólio</li><li> Beta Fechado</li><li> Preparando-se para o lançamento</li><li> Lançamento do MVP e Site Corporativo</li><li> Novo servidor Discord da comunidade aprimorado</li></ul>",
+		"item2": "<ul><li>Localize todos os serviços, entre no mercado global</li><li> Lançar criptografia de pesquisa</li><li> Iniciar pools da comunidade</li><li> Índices de lançamento</li></ul>",
+		"item3": "<ul><li>Construindo uma equipe</li><li> Desenvolvendo um MVP:<ul><li> Portfólio</li><li> Academia</ li><li> Fórum</li></ul></li><li> Criando uma arquitetura</li><li> Criando um sistema de design</li><li> Testando hipóteses</li></ul>",
+		"item4": "<ul><li>Criar novos cursos de treinamento para a Academia</li><li> Implementar alertas</li><li> Implementar calendário de criptografia</li><li > Lançamento do Stake HUB</li><li> Criando uma carteira MVP</li></ul>"
+	},
+	"register": {
+		"title": "Faça parte da comunidade!",
+		"subtitle": "Registre uma conta e ative um período gratuito de 7 dias na plataforma :)",
+		"create_account_free": "Crie uma conta de graça"
+	}
+}

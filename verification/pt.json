@@ -1,0 +1,12 @@
+{
+	"title": "Verificação <span>oficial</span>",
+	"content": "Cuidado com os golpistas. Digite seu endereço de e-mail, número de telefone,\n Apelido do Telegram para verificar se a fonte é verificada e oficialmente\n pertence à Fundação Poeira.",
+	"search": "Procurar",
+	"modal": {
+		"ok": "OK",
+		"verified_source": "Fonte verificada",
+		"not_verified_source": "Fonte não verificada",
+		"not_verified_source_content": "A fonte que você digitou não é um domínio oficial da Dust Foundation. Tenha cuidado e interaja apenas com fontes oficiais verificadas da Dust Founadation.",
+		"verified_source_content": "A fonte que você digitou é verificada e é um domínio oficial da Dust Foundation."
+	}
+}
