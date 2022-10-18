@@ -1,0 +1,22 @@
+{
+	"bro": {
+		"content": "Entuzjaści krypto, którzy są szczególnie zainteresowani rozwojem społeczności i ogólnie branży kryptograficznej. Fanatycy krypto, którzy chcą wesprzeć projekt i stać się jego częścią. Rozwijaj się i ulepszaj z nami.",
+		"modal": {
+			"offer_text_label": "Jak możesz nam pomóc?"
+		}
+	},
+	"angels": {
+		"content": "Inwestorzy na poważne relacje, gotowi na pełną interakcję i współpracę. Firmy, które są zaangażowane w skalowanie i rozwijanie projektu, chętnie organizują wspólne hackathony, wspólne konferencje, jednoczą społeczności, pchają branżę do przodu – są gotowe na równe partnerstwo.",
+		"modal": {
+			"offer_size_label": "jestem zainteresowany inwestowaniem"
+		}
+	},
+	"send": "Wysłać",
+	"become": "Stać się",
+	"validation_messages": {
+		"required": "To pole jest wymagane",
+		"invalid_email": "Proszę wpisać prawidłowy email"
+	},
+	"success_message": "Oferta wysłana pomyślnie",
+	"error_message": "Wystąpił błąd podczas składania oferty"
+}

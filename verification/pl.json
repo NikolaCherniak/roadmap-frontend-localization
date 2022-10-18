@@ -1,0 +1,12 @@
+{
+	"title": "<span>Oficjalna</span> weryfikacja",
+	"content": "Uważaj na oszustów. Wpisz swój adres e-mail. e-mail, numer telefonu, pseudonim\n            Telegram, aby sprawdzić, czy źródło jest zweryfikowane i oficjalnie\n            odnosi się do Fundacji Dust.",
+	"search": "Szukaj",
+	"modal": {
+		"ok": "OK",
+		"verified_source": "Zweryfikowane źródło",
+		"not_verified_source": "Źródło niezweryfikowane",
+		"not_verified_source_content": "Wprowadzone źródło nie jest oficjalną domeną Dust Foundation. Zachowaj ostrożność i korzystaj tylko ze zweryfikowanych oficjalnych źródeł Dust Foundationation.",
+		"verified_source_content": "Wprowadzone źródło jest zweryfikowane i jest oficjalną domeną Dust Foundation."
+	}
+}

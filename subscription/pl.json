@@ -1,0 +1,101 @@
+{
+	"title": "Jak uzyskać dostęp?",
+	"subtitle": "Aby uzyskać dostęp, musisz kupić 1 z 3 subskrypcji.\n      Możesz także wypróbować bezpłatny 7-dniowy okres próbny.",
+	"select_subscription": "Wybierz subskrypcję",
+	"community": {
+		"title": "Cryptospołeczność",
+		"subtitle": "Zamknięta społeczność dla prawdziwych krypto-entuzjastów, która pozwoli Ci zawsze być świadomym wszystkiego, co dzieje się w branży.",
+		"item1": {
+			"title": "Trening",
+			"description": "Regularne wykłady na żywo na różne tematy, przeglądy rynku/portfolio, konferencje i dyskusje na temat kryptowalut"
+		},
+		"item2": {
+			"title": "Analityka",
+			"description": "Codzienne podsumowanie analityczne sytuacji rynkowej, rekomendacje zakupu aktywów oraz zestaw pozycji"
+		},
+		"item3": {
+			"title": "Wiadomości kryptograficzne",
+			"description": "Śledzimy i zbieramy najnowsze wiadomości ze świata kryptowalut w jednym miejscu, na Twitterze i Binance tracker"
+		},
+		"item4": {
+			"title": "Wspólnota",
+			"description": "Przyjazna i responsywna społeczność, regularna komunikacja i informacje zwrotne, wsparcie operacyjne i porady"
+		},
+		"item5": {
+			"title": "Biblioteka",
+			"description": "Zbiór linków do najbardziej przydatnych zasobów w branży kryptograficznej w różnych obszarach: CEX, DEX, Portfele, Analityka i wiele więcej..."
+		},
+		"item6": {
+			"title": "Alarm wielorybów",
+			"description": "Śledzenie i publikowanie dużych transakcji, wypaleń i wydruków wewnątrz blockchainów (w magicznym stylu!)"
+		}
+	},
+	"platform": {
+		"title": "Platforma",
+		"subtitle": "Śledź wyniki wszystkich swoich inwestycji w jednym wygodnym i zrozumiałym miejscu",
+		"notice": "Nieustannie pracujemy nad ulepszaniem platformy i staramy się, aby była jak najbardziej wygodna i użyteczna dla wszystkich. Więcej fajnych funkcji już wkrótce!",
+		"item1": {
+			"title": "Teczka",
+			"description": "Śledź wydajność swoich portfeli w przyjaznym dla użytkownika interfejsie. 3 rodzaje portfela: giełdowy, wirtualny i venture"
+		},
+		"item2": {
+			"title": "Forum",
+			"description": "Twórz artykuły na temat kryptowalut, komunikuj się i omawiaj pomysły, komentuj i głosuj na najlepsze posty"
+		},
+		"item3": {
+			"title": "Akademia",
+			"description": "Poszerz swoją wiedzę z zakresu blockchain i kryptowalut, bierz udział w szkoleniach i zdobywaj osiągnięcia"
+		},
+		"item4": {
+			"title": "Profil",
+			"description": "Rozwijaj swoją postać, zbieraj codzienne nagrody i zdobywaj unikalne osiągnięcia za bycie aktywnym"
+		}
+	},
+	"nft": {
+		"title": "Wyjątkowe <span>chomiki NFT</span> dla prawdziwych prochowców!",
+		"description": "Dla pierwszych 10 000 subskrybentów przeprowadziliśmy historyczną promocję! Na \n        po raz pierwszy subskrybujesz „Cryptocommunity” lub „All in one” ty\n        zdobądź wyjątkowy NFT z chomikiem w prezencie. W przyszłości właściciele\n        z tych NFT będą mogli uzyskać wyłączny dostęp do przyszłych produktów i\n        imprezy firmowe.",
+		"how_get_hamster": "Jak zdobyć chomika?"
+	},
+	"hamster_modal": {
+		"description": "Możesz stworzyć chomika tylko z subskrypcją Cryptocommunity lub All in One. Wygenerowany chomik jest na stałe przypisany do Ciebie. Każdy chomik ma rzadkość od Common do Rare i unikalne właściwości generacji: tło, emotikon, przedmiot, nakrycie głowy",
+		"ok": "Pewnie",
+		"step1": {
+			"title": "Krok 1",
+			"description": "Połącz swoje konto Discord ze swoim profilem"
+		},
+		"step2": {
+			"title": "Krok 2",
+			"description": "Wejdź na <a href=\"{{discordLink}}\" target=\"blank\">serwer niezgody Dust Foundation</a> i przejdź weryfikację"
+		},
+		"step3": {
+			"title": "Krok 3",
+			"description": "Otwórz kanał „Generacja” w sekcji „Społeczność”"
+		},
+		"step4": {
+			"title": "Krok 4",
+			"description": "Kliknij przycisk „Generuj”"
+		},
+		"step5": {
+			"title": "Krok 5",
+			"description": "Gratulacje, Twój najfajniejszy chomik został wygenerowany!"
+		}
+	},
+	"subscriptions": {
+		"title": "Nasze subskrypcje",
+		"days": "dni",
+		"tabs_notification": "Z subskrypcją na {{term}} dni otrzymujesz {{bonusterm}} dni za darmo!",
+		"most_popular": "Najbardziej popularne",
+		"discount": "Oszczędność",
+		"all_of": "Wszystkie z",
+		"all_types_portfolio": "Wszystkie rodzaje portfeli (3 w 1)",
+		"courses_academy": "Szkolenia w Akademii",
+		"forum": "Forum",
+		"private_telegram": "Prywatny telegram",
+		"private_discord": "Prywatny serwer Discord",
+		"use_free": "Wypróbuj za darmo",
+		"select_subscription": "Wybierz subskrypcję"
+	},
+	"reviews": {
+		"title": "Opinie"
+	}
+}

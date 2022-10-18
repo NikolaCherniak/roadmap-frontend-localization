@@ -1,0 +1,79 @@
+{
+	"title": "Ekosystem wygodnych usług dla",
+	"single_subscription_for_all_products": "Pojedyncza subskrypcja na wszystkie produkty",
+	"learn_more": "Ucz się więcej",
+	"crypto_enthusiasts": "entuzjaści kryptowalut",
+	"investors": "inwestorzy",
+	"traders": "handlowcy",
+	"cover_description": "DUST to ekosystem połączonych ze sobą produktów kryptograficznych, których celem jest ułatwienie\n        wykorzystanie kryptowalut i przyspieszenie ich masowej dystrybucji.",
+	"cryptocommunity": "Cryptospołeczność",
+	"platform": "Platforma",
+	"links": {
+		"cryptocommunity_description": "Społeczność ludzi o podobnych poglądach, ekspertów i krypto-entuzjastów",
+		"platform_description": "Śledź wyniki wszystkich swoich inwestycji w jednym miejscu"
+	},
+	"services": {
+		"title": "Nasze rozwiązania",
+		"subtitle": "Kierujemy nasze wysiłki na rozwój przydatnych usług dla entuzjastów kryptowalut",
+		"show_future_solutions": "Pokaż przyszłe rozwiązania",
+		"cryptocommunity": {
+			"description": "Społeczność ludzi o podobnych poglądach, ekspertów i krypto-entuzjastów"
+		},
+		"portfolio": {
+			"title": "Teczka",
+			"description": "Śledź swoje aktywa kryptograficzne i obserwuj swój portfel"
+		},
+		"academy": {
+			"title": "Akademia",
+			"description": "Najbardziej złożone tematy, wyrażone prostymi słowami w jednym miejscu"
+		},
+		"forum": {
+			"title": "Forum",
+			"description": "Czatuj, dziel się i proponuj fajne innowacje, które chętnie wdrażamy"
+		},
+		"wallet": {
+			"title": "Portfel",
+			"description": "Najłatwiejszy i najwygodniejszy portfel do przechowywania (MultiChain) kryptowalut"
+		},
+		"indexes": {
+			"title": "Indeksy",
+			"description": "Zrównoważone indeksy kryptowalut na każdy gust i kolor, ryzyko i zysk"
+		},
+		"crypto_calendar": {
+			"title": "Kalendarz krypto",
+			"description": "Śledź najważniejsze wydarzenia w świecie kryptowalut w jednym miejscu"
+		},
+		"alerts": {
+			"title": "Alerty",
+			"description": "Elastyczny system do automatyzacji i uproszczenia śledzenia zasobów"
+		},
+		"stake_hub": {
+			"title": "HUB stawki",
+			"description": "Łączenie naszych ulubionych aktywów kryptograficznych poprzez promowanie Adoption"
+		},
+		"forge": {
+			"title": "Fałszować",
+			"description": "Głosuj, podejmuj ważne decyzje, które mają wpływ na naszą społeczność"
+		},
+		"launchpad": {
+			"title": "Wyrzutnia",
+			"description": "Platforma startowa Community Driven do uruchamiania projektów i ich promowania"
+		},
+		"research_crypto": {
+			"title": "Zbadaj krypto",
+			"description": "Zbieramy wszystkie najnowsze informacje o projektach i prowadzimy Badania"
+		}
+	},
+	"roadmap": {
+		"title": "Mapa drogowa",
+		"item1": "<ul><li>Ulepszanie funkcji portfela</li><li> Zamknięta wersja beta</li><li> Przygotowanie do wydania</li><li> Premiera MVP i corp. strona</li><li> Nowy ulepszony serwer Discord społeczności</li></ul>",
+		"item2": "<ul><li>Lokalizacja wszystkich usług, dostęp do globalnego rynku</li><li> Zbadaj uruchomienie krypto</li><li> Uruchomienie pul społeczności</li><li> Uruchom indeksy</li></ul>",
+		"item3": "<ul><li>Budowanie zespołu</li><li> Rozwój MVP:<ul><li> Teczka</li><li> Akademia</li><li> Forum</li></ul></li><li> Tworzenie architektury</li><li> Stworzenie systemu projektowania</li><li> Testowanie hipotez</li></ul>",
+		"item4": "<ul><li>Tworzenie nowych szkoleń dla Akademii</li><li> Wdrażanie alertów</li><li> Implementacja kalendarza kryptograficznego</li><li> Uruchomienie Stake HUB</li><li> Tworzenie portfela MVP</li></ul>"
+	},
+	"register": {
+		"title": "Bądź częścią społeczności!",
+		"subtitle": "Zarejestruj konto i aktywuj darmowy 7-dniowy okres na platformie :)",
+		"create_account_free": "Stwórz konto za darmo"
+	}
+}
