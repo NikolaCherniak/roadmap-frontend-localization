@@ -1,0 +1,22 @@
+{
+	"bro": {
+		"content": "Entusiastas de las criptomonedas que están especialmente interesadas en el desarrollo de la comunidad y la industria de las criptomonedas en general. Criptofanáticos que quieran apoyar el proyecto y formar parte de él. Desarrolle y mejore con nosotros.",
+		"modal": {
+			"offer_text_label": "¿Cómo puedes ayudarnos?"
+		}
+	},
+	"angels": {
+		"content": "Inversores para relaciones serias, listos para una interacción y cooperación completas. Las empresas que están comprometidas con escalar y desarrollar el proyecto, ansiosas por hacer hackatones comunes, conferencias conjuntas, unir comunidades, hacer avanzar la industria, están listas para asociaciones equitativas.",
+		"modal": {
+			"offer_size_label": "estoy interesado en invertir"
+		}
+	},
+	"send": "Enviar",
+	"become": "Convertirse en",
+	"validation_messages": {
+		"required": "Este campo es obligatorio",
+		"invalid_email": "Por favor introduzca una dirección de correo electrónico válida"
+	},
+	"success_message": "Oferta enviada con éxito",
+	"error_message": "Hubo un error al enviar la oferta"
+}

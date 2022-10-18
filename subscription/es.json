@@ -1,0 +1,101 @@
+{
+	"title": "¿Cómo obtener acceso?",
+	"subtitle": "Para obtener acceso, debe comprar 1 de 3 suscripciones.\n También puede probar una prueba gratuita de 7 días.",
+	"select_subscription": "Seleccionar suscripción",
+	"community": {
+		"title": "Criptocomunidad",
+		"subtitle": "Comunidad cerrada para verdaderos entusiastas de las criptomonedas, que te permitirá estar siempre al tanto de todo lo que sucede en la industria.",
+		"item1": {
+			"title": "Capacitación",
+			"description": "Conferencias regulares en vivo sobre diversos temas, revisiones de mercado/cartera, conferencias y debates sobre criptomonedas"
+		},
+		"item2": {
+			"title": "Analítica",
+			"description": "Resumen diario de análisis sobre la situación del mercado, recomendaciones para compras de activos y un conjunto de posiciones"
+		},
+		"item3": {
+			"title": "Criptonoticias",
+			"description": "Seguimiento y recopilación de las últimas noticias del mundo criptográfico en un solo lugar, rastreador de Twitter y Binance"
+		},
+		"item4": {
+			"title": "Comunidad",
+			"description": "Comunidad amigable y receptiva, comunicación y comentarios regulares, soporte y asesoramiento rápidos"
+		},
+		"item5": {
+			"title": "Biblioteca",
+			"description": "Una colección de enlaces a los recursos más útiles de la criptoindustria en varias áreas: CEX, DEX, Wallets, Analytics y más..."
+		},
+		"item6": {
+			"title": "Alerta de ballenas",
+			"description": "Seguimiento y publicación de grandes transacciones, quemas e impresiones dentro de blockchains (¡en un estilo mágico!)"
+		}
+	},
+	"platform": {
+		"title": "plataforma",
+		"subtitle": "Realice un seguimiento del rendimiento de todas sus inversiones en un lugar conveniente y comprensible",
+		"notice": "Trabajamos constantemente para mejorar la plataforma y nos esforzamos por hacerla lo más conveniente y útil posible para todos. ¡Más características geniales próximamente!",
+		"item1": {
+			"title": "portafolio",
+			"description": "Realice un seguimiento del rendimiento de sus carteras en una interfaz conveniente. 3 tipos de carteras: acciones, virtuales y de riesgo"
+		},
+		"item2": {
+			"title": "Foro",
+			"description": "Cree artículos sobre criptomonedas, chatee y discuta ideas, comente y vote por las mejores publicaciones."
+		},
+		"item3": {
+			"title": "Academia",
+			"description": "Actualice sus conocimientos sobre blockchain y criptomonedas, complete cursos de capacitación y obtenga logros"
+		},
+		"item4": {
+			"title": "Perfil",
+			"description": "Haz evolucionar a tu personaje, recoge recompensas diarias y obtén logros únicos por estar activo"
+		}
+	},
+	"nft": {
+		"title": "¡Hámsters <span>NFT</span> únicos para verdaderos plumeros!",
+		"description": "Para los primeros 10.000 suscriptores, ¡hemos hecho una promoción histórica! Cuando usted\n suscríbase a Cryptocommunity o All in one por primera vez, usted\n recibirá un Hámster NFT único. acceso a futuros productos y\n eventos de empresa.",
+		"how_get_hamster": "¿Cómo conseguir un hámster?"
+	},
+	"hamster_modal": {
+		"description": "Solo puede crear un hámster con el nombre de suscripción \"Cryptocommunity\" o \"All in One\". El hámster generado se te asigna de forma permanente. Cada hámster tiene una rareza de común a rara y propiedades de generación únicas: fondo, gesto, cosa, casco.",
+		"ok": "Claro",
+		"step1": {
+			"title": "Paso 1",
+			"description": "Conecta tu cuenta de discord al perfil"
+		},
+		"step2": {
+			"title": "Paso 2",
+			"description": "Ve a <a href=\"{{discordLink}}\" target=\"blank\">Dust Foundation Discord</a> y verifica"
+		},
+		"step3": {
+			"title": "Paso 3",
+			"description": "Abra el canal \"Generación\" en la sección \"Comunidad\""
+		},
+		"step4": {
+			"title": "Paso 4",
+			"description": "Presione el botón Generar"
+		},
+		"step5": {
+			"title": "Paso 5",
+			"description": "¡Enhorabuena, se ha generado tu hámster más chulo!"
+		}
+	},
+	"subscriptions": {
+		"title": "Nuestras Suscripciones",
+		"days": "días",
+		"tabs_notification": "¡Suscríbase por {{term}} días y obtenga {{bonusterm}} días gratis!",
+		"most_popular": "Más popular",
+		"discount": "Ahorros",
+		"all_of": "Todo",
+		"all_types_portfolio": "Todo tipo de carteras (3 en 1)",
+		"courses_academy": "Cursos de la academia",
+		"forum": "Foro",
+		"private_telegram": "telegrama privado",
+		"private_discord": "Servidor privado de discordia",
+		"use_free": "Prueba gratis",
+		"select_subscription": "Seleccionar suscripción"
+	},
+	"reviews": {
+		"title": "Reseñas"
+	}
+}

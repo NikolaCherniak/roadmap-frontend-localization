@@ -1,0 +1,12 @@
+{
+	"title": "Verificación <span>oficial</span>",
+	"content": "Cuidado con los estafadores. Ingrese su dirección de correo electrónico, número de teléfono,\n Apodo de Telegram para comprobar si la fuente está verificada y oficialmente\n Pertenece a la Fundación Polvo.",
+	"search": "Búsqueda",
+	"modal": {
+		"ok": "OK",
+		"verified_source": "Fuente verificada",
+		"not_verified_source": "Fuente no verificada",
+		"not_verified_source_content": "La fuente que ingresó no es un dominio oficial de Dust Foundation. Tenga cuidado y solo interactúe con fuentes oficiales verificadas de Dust Foundation.",
+		"verified_source_content": "La fuente que ingresó está verificada y es un dominio oficial de Dust Foundation."
+	}
+}

@@ -1,0 +1,79 @@
+{
+	"title": "Ecosistema de Servicios de Conveniencia para",
+	"single_subscription_for_all_products": "Suscripción única para todos los productos",
+	"learn_more": "Aprende más",
+	"crypto_enthusiasts": "entusiastas de las criptomonedas",
+	"investors": "inversores",
+	"traders": "comerciantes",
+	"cover_description": "DUST es un ecosistema de criptoproductos interconectados diseñado para facilitar\n el uso de criptomonedas y acelerar su adopción masiva.",
+	"cryptocommunity": "Criptocomunidad",
+	"platform": "Plataforma",
+	"links": {
+		"cryptocommunity_description": "Comunidad de personas con ideas afines, expertos y entusiastas de las criptomonedas",
+		"platform_description": "Realice un seguimiento del rendimiento de todas sus inversiones en un solo lugar"
+	},
+	"services": {
+		"title": "Nuestras soluciones",
+		"subtitle": "Nos enfocamos en desarrollar servicios útiles para entusiastas de las criptomonedas",
+		"show_future_solutions": "Mostrar soluciones futuras",
+		"cryptocommunity": {
+			"description": "Comunidad de personas con ideas afines, expertos y entusiastas de las criptomonedas"
+		},
+		"portfolio": {
+			"title": "portafolio",
+			"description": "Realice un seguimiento de sus criptoactivos y controle su cartera"
+		},
+		"academy": {
+			"title": "Academia",
+			"description": "Los temas más complejos en palabras simples en un solo lugar"
+		},
+		"forum": {
+			"title": "Foro",
+			"description": "Comuníquese, comparta y sugiera características geniales que nos encantaría implementar"
+		},
+		"wallet": {
+			"title": "Cartera",
+			"description": "La billetera más fácil y conveniente para el almacenamiento (MultiChain) de criptomonedas"
+		},
+		"indexes": {
+			"title": "índices",
+			"description": "Índices criptográficos equilibrados para todos los gustos y colores, riesgos y ganancias"
+		},
+		"crypto_calendar": {
+			"title": "Calendario criptográfico",
+			"description": "Rastree los eventos más importantes en el mundo criptográfico en un solo lugar"
+		},
+		"alerts": {
+			"title": "Alertas",
+			"description": "Un sistema flexible para automatizar y simplificar el seguimiento de activos"
+		},
+		"stake_hub": {
+			"title": "Centro de participación",
+			"description": "Reuniendo nuestros criptoactivos favoritos promoviendo la adopción"
+		},
+		"forge": {
+			"title": "Fragua",
+			"description": "Vota, toma decisiones importantes que afectan a nuestra comunidad"
+		},
+		"launchpad": {
+			"title": "Plataforma de lanzamiento",
+			"description": "Plataforma de lanzamiento impulsada por la comunidad para lanzar y promover proyectos"
+		},
+		"research_crypto": {
+			"title": "Investigación cripto",
+			"description": "Recopilación de toda la información más reciente sobre proyectos y realización de investigaciones."
+		}
+	},
+	"roadmap": {
+		"title": "Mapa vial",
+		"item1": "<ul><li>Mejoras en las características de la cartera</li><li> Beta cerrada</li><li> Preparándose para el lanzamiento</li><li> Lanzamiento de MVP y Sitio Corporativo</li><li> Nuevo servidor Discord comunitario mejorado</li></ul>",
+		"item2": "<ul><li>Localice todos los servicios, ingrese al mercado global</li><li> Lanzamiento de criptografía de investigación</li><li> Lanzamiento de piscinas comunitarias</li><li> Índices de lanzamiento</li></ul>",
+		"item3": "<ul><li>Construyendo un equipo</li><li> Desarrollo de un MVP:<ul><li> portafolio</li><li> Academia</ li><li> Foro</li></ul></li><li> Creando una arquitectura</li><li> Creación de un sistema de diseño.</li><li> Prueba de hipótesis</li></ul>",
+		"item4": "<ul><li>Crear nuevos cursos de formación para Academy</li><li> Implementar Alertas</li><li> Implementar calendario criptográfico</li><li > Lanzamiento de Stake HUB</li><li> Creación de una billetera MVP</li></ul>"
+	},
+	"register": {
+		"title": "Sé parte de la comunidad!",
+		"subtitle": "Registre una cuenta y active un período gratuito de 7 días en la plataforma :)",
+		"create_account_free": "Cree una cuenta gratis"
+	}
+}
