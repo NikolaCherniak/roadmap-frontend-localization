@@ -1,0 +1,81 @@
+{
+  "title": "Ērtu pakalpojumu ekosistēma, kas paredzēta",
+  "single_subscription_for_all_products": "Viens abonements visiem produktiem",
+  "learn_more": "Uzzināt vairāk",
+  "crypto_enthusiasts": "kripto entuziastiem",
+  "investors": "investoriem",
+  "traders": "treidotājiem",
+  "cover_description": "DUST ir savstarpēji saistītu kriptoproduktu ekosistēma, kas izveidota, lai atvieglotu kriptovalūtu izmantošanu un paātrinātu to masveida pieņemšanu.",
+  "cryptocommunity": "Cryptocommunity",
+  "platform": "Platform",
+  "links" : {
+    "cryptocommunity_description": "Līdzīgi domājošu cilvēku, ekspertu un kripto entuziastu kopiena",
+    "platform_description": "Visu savu ieguldījumu izsekošana vienuviet"
+  },
+  "services": {
+    "title": "Mūsu risinājumi",
+    "subtitle": "Mēs koncentrējamies uz noderīgu pakalpojumu izstrādi kripto entuziastiem.",
+    "show_future_solutions": "Rādīt nākotnes risinājumus",
+
+    "cryptocommunity" : {
+      "description": "Līdzīgi domājošu cilvēku, ekspertu un kripto entuziastu kopiena"
+    },
+    "portfolio" : {
+      "title": "Portfelis",
+      "description": "Sekojiet saviem kriptoaktīviem un vērojiet savu portfeli"
+    },
+    "academy" : {
+      "title": "Akadēmija",
+      "description": "Sarežģītākās tēmas vienkāršos vārdos vienuviet"
+    },
+    "forum" : {
+      "title": "Forums",
+      "description": "Sazinieties, kopīgojiet un ierosiniet foršas funkcijas, kuras mēs labprāt ieviestu"
+    },
+    "wallet" : {
+      "title": "Maciņš",
+      "description": "Vieglākais un ērtākais maks (MultiChain) kriptovalūtu glabāšanai"
+    },
+    "indexes" : {
+      "title": "Indeksi",
+      "description": "Līdzsvaroti kriptogrāfijas indeksi katrai gaumei un krāsai, riskam un peļņai"
+    },
+    "crypto_calendar" : {
+      "title": "Kripto kalendārs",
+      "description": "Sekojiet svarīgākajiem notikumiem kriptogrāfijas pasaulē vienuviet"
+    },
+    "alerts" : {
+      "title": "Brīdinājumi",
+      "description": "Elastīga sistēma assetu izsekošanas automatizēšanai un vienkāršošanai"
+    },
+    "stake_hub" : {
+      "title": "Steikinga panelis",
+      "description": "Iecienītāko kriptovalūtu steikošana kopā ar mums, veicinot masveida cilvēku pieņemšanu"
+    },
+    "forge" : {
+      "title": "Forge",
+      "description": "Balsot, pieņemt svarīgus lēmumus, kas ietekmē mūsu kopienu"
+    },
+    "launchpad" : {
+      "title": "Launchpad",
+      "description": "Kopienas Projektu palaišanas platforma - projektu uzsākšanai un popularizēšanai"
+    },
+    "research_crypto" : {
+      "title": "Pētījumi kriptogrāfija",
+      "description": "Apkopot visu jaunāko informāciju par projektiem un veikt pētījumus."
+    }
+  },
+  "roadmap": {
+    "title": "Ceļvedis",
+    "item1": "<ul>\n <li>Portfeļa funkciju uzlabojumi</li>\n <li>Slēgtā beta versija</li>\n <li>Sagatavošanās izlaišanai</li>\n <li> MVP un korporatīvās vietnes palaišana</li>\n <li>Jauns uzlabots kopienas Discord serveris</li>\n </ul>",
+    "item2": "<ul>\n <li>Lokalizēt visus pakalpojumus, ienākt globālajā tirgū</li>\n <li>Uzsākt pētniecību kriptogrāfija</li>\n <li>Kopienas Pool atklāšana</li>\n <li>Indeksu palaišana</li>\n </ul>",
+    "item3": "<ul>\n <li>Komandas veidošana</li>\n <li>MVP izstrāde:\n <ul>\n <li>Portfelis</li>\n <li>Akadēmija</ li>\n <li>Forums</li>\n </ul>\n </li>\n <li>Arhitektūras izveide</li>\n <li>Sistēmas dizaina izveide</li>\n <li>Hipotēzes pārbaude</li>\n </ul>",
+    "item4": "<ul>\n <li>Jaunu mācību kursu izveide Akadēmijā</li>\n <li>Īstenot brīdinājumus</li>\n <li>Īstenot Kripto kalendāru</li>\n <li >Steikinga paneļa palaišana</li>\n <li>MVP maciņa izveide</li>\n </ul>"
+  },
+  "register": {
+    "title": "Esi daļa no kopienas!",
+    "subtitle": "Reģistrējiet kontu un aktivizējiet bezmaksas 7 dienu periodu platformā :)",
+    "create_account_free": "Bezmaksas konta izveide"
+  }
+
+}

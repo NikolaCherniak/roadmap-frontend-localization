@@ -1,0 +1,22 @@
+{
+  "bro": {
+    "content": "Kripto-entuziasti, kurus īpaši interesē kopienas un kripto-nozares attīstība kopumā. Kripto fanātiķi, kuri vēlas atbalstīt projektu un kļūt par tā daļu. Attīstīties un pilnveidoties kopā ar mums.",
+    "modal": {
+      "offer_text_label": "Kā jūs varat mums palīdzēt?"
+    }
+  },
+  "angels": {
+    "content": "Investori nopietnai sadarbībai, gatavi pilnvērtīgai mijiedarbībai un sadarbībai. Uzņēmumi, kas ir apņēmušies paplašināt un attīstīt projektu, vēlas rīkot kopīgus hakatonus, kopīgas konferences, apvienot kopienas, virzīt nozari uz priekšu - ir gatavi līdzvērtīgai partnerībai.",
+    "modal": {
+      "offer_size_label": "Esmu gatavs ieguldīt"
+    }
+  },
+  "send": "Nosūtīt pieteikumu",
+  "become": "Kļūt par",
+  "validation_messages": {
+    "required": "Lauks ir jāaizpilda obligāti",
+    "invalid_email": "Lūdzu, ievadiet derīgu e-pasta adresi"
+  },
+  "success_message": "Piedāvājums nosūtīts veiksmīgi",
+  "error_message": "There was an error sending the offer"
+}

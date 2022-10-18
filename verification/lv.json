@@ -1,0 +1,12 @@
+{
+  "title": "<span>Oficiālā</span> verifikācija",
+  "content": "Sargieties no krāpniekiem. Ievadiet e-pasta adresi, tālruņa numuru, \n Telegram segvārdu, lai pārbaudītu, vai avots ir pārbaudīts un oficiāli \n pieder Dust Foundation.",
+  "search": "Meklēt",
+  "modal": {
+    "ok": "Ok",
+    "verified_source": "Verificēts avots",
+    "not_verified_source": "Avots nav verificēts",
+    "not_verified_source_content": "Ievadītais avots nav oficiālais Dust Foundation domēns. Lūdzu, esiet uzmanīgi un sazinieties tikai ar pārbaudītiem oficiāliem Dust Founadation avotiem.",
+    "verified_source_content": "Ievadītais avots ir pārbaudīts un ir oficiāls Dust Foundation domēns."
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Kā iegūt piekļuvi?",
+  "subtitle": "Lai iegūtu piekļuvi, ir jāiegādājas 1 no 3 abonementiem.\n Jūs varat arī izmēģināt 7 dienu bezmaksas izmēģinājuma versiju.",
+  "select_subscription": "Izvēlēties abonementu",
+  "community": {
+    "title": "Cryptocommunity",
+    "subtitle": "Slēgta kopiena īstiem kripto entuziastiem, kas ļaus jums vienmēr būt informētiem par visu, kas notiek kripto-nozarē.",
+    "item1": {
+      "title": "Apmācība",
+      "description": "Regulāras tiešraides lekcijas par dažādām tēmām, tirgus/portfeļu pārskati, konferences un diskusijas par kriptovalūtām."
+    },
+    "item2": {
+      "title": "Analītika",
+      "description": "Ikdienas analītikas kopsavilkums par tirgus situāciju, ieteikumi aktīvu iegādei un pozīciju kopums."
+    },
+    "item3": {
+      "title": "Kripto jaunumi",
+      "description": "Svaigākās & jaunākās ziņas no kripto pasaules vienuviet - Twitter & Binance"
+    },
+    "item4": {
+      "title": "Kopiena",
+      "description": "Draudzīga un atsaucīga kopiena, regulāra saziņa un atgriezeniskā saite, ātrs atbalsts un konsultācijas"
+    },
+    "item5": {
+      "title": "Bibliotēka",
+      "description": "Saites uz noderīgākajiem kriptogrāfijas nozares resursiem dažādās jomās: CEX, DEX, maki, analītika un daudz ko citu...."
+    },
+    "item6": {
+      "title": "Vaļu brīdinājumi",
+      "description": "Lielu darījumu, burnošanas un drukāšanas izsekošana un publicēšana blokķēdēs (maģiskā stilā!)"
+    }
+  },
+  "platform": {
+    "title": "Platforma",
+    "subtitle": "Ērtā un saprotamā vietā sekojiet līdzi visu savu ieguldījumu rezultātiem.",
+    "notice": "Mēs pastāvīgi strādājam pie platformas uzlabošanas un cenšamies to padarīt pēc iespējas ērtāku un noderīgāku ikvienam. Drīzumā gaidāmas vēl noderīgas funkcijas!",
+
+    "item1": {
+      "title": "Portfelis",
+      "description": "Sekojiet savu portfeļu rezultātiem ērtā panelī. 3 veidu portfeļi: akciju, virtuālais un riska/uzņēmuma portfelis."
+    },
+    "item2": {
+      "title": "Forums",
+      "description": "Veidot rakstus par kriptovalūtām, tērzēt un apspriest idejas, komentēt un balsot par labākajiem ziņojumiem vienuviet"
+    },
+    "item3": {
+      "title": "Akadēmija",
+      "description": "Uzlabojiet savas zināšanas par blokķēdēm un kriptovalūtām, pabeidziet mācību kursus un gūstiet sasniegumus."
+    },
+    "item4": {
+      "title": "Profils",
+      "description": "Attīstiet savu personāžu, vāciet ikdienas balvas un iegūstiet unikālus sasniegumus par aktivitāti."
+    }
+  },
+
+  "nft": {
+    "title": "Unikāli <span>NFT Hamsters</span> īstiem dusteriem!",
+    "description": "Pirmajiem 10 000 abonentiem mēs esam izveidojuši vēsturisku akciju! Pirmo reizi abonējot Cryptocommunity vai All in One, jūs saņemsiet unikālu kāmja NFT, piekļuvi nākotnes produktiem un uzņēmuma pasākumiem.",
+    "how_get_hamster": "Kā iegādāties Hamster?"
+  },
+
+  "hamster_modal": {
+    "description": "Jūs varat izveidot kāmīti tikai ar abonementa nosaukumu “Cryptocommunity“ vai “All in One“. Izveidotais kāmītis ir jums piešķirts uz visiem laikiem. Katram kāmītim ir retums no parastā līdz retajam un unikālas paaudzes īpašības: Fons, Emocijas, Lieta, Galvassega" ,
+    "ok": "Skaidrs",
+    "step1": {
+      "title": "1. darbība",
+      "description": "Savienojiet savu discord kontu profilam"
+    },
+    "step2": {
+      "title": "2. darbība",
+      "description": "Dodieties uz <a href=\"{{discordLink}}\" target=\"_blank\">Dust Foundation Discord</a> un verificējaties"
+    },
+    "step3": {
+      "title": "3. darbība",
+      "description": "Atveriet kanālu “Generation“ sadaļā “Community“."
+    },
+    "step4": {
+      "title": "4. darbība",
+      "description": "Klikšķiniet uz pogas - Ģenerēt"
+    },
+    "step5": {
+      "title": "5. darbība",
+      "description": "Apsveicam, jūsu stilīgākais kāmītis ir radīts!"
+    }
+  },
+  "subscriptions": {
+    "title": "Mūsu abonementi",
+    "days": "dienas",
+    "tabs_notification": "Abonējiet uz {{ term }} dienām un saņemiet {{ bonus_term }} dienas bez maksas!",
+    "most_popular": "Populārākais",
+    "discount": "Ietaupījums",
+    "all_of": "Viss no",
+    "all_types_portfolio" : "Visu veidu portfeļi (3 vienā)",
+    "courses_academy": "Akadēmiskie kursi",
+    "forum": "Forums",
+    "private_telegram": "Privātais Telegram Čats",
+    "private_discord": "Privātais Discord Serveris",
+    "use_free": "Izmēģiniet bez maksas",
+    "select_subscription": "Izvēlēties abonementu"
+  },
+  "reviews": {
+    "title": "Atsauksmes"
+  }
+
+}
