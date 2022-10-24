@@ -18,5 +18,11 @@
 		"invalid_email": "Anna kelvollinen sähköpostiosoite"
 	},
 	"success_message": "Tarjous lähetetty onnistuneesti",
-	"error_message": "Tarjouksen lähettämisessä tapahtui virhe"
+	"error_message": "Tarjouksen lähettämisessä tapahtui virhe",
+	"offer_sizes": [
+		"10 000 dollariin",
+		"10 000 dollarista 100 000 dollariin",
+		"100 000 dollarista 1 000 000 dollariin",
+		"yli 1 000 000 dollaria"
+	]
 }

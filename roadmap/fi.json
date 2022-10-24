@@ -3,5 +3,349 @@
 	"directions": "Ohjeet",
 	"ready": "Valmis",
 	"next_release": "Seuraava julkaisu",
-	"backlog": "Ruuhka"
+	"backlog": "Ruuhka",
+	"roadmap_list": [
+		{
+			"id": 0,
+			"name": "Portfolio",
+			"lastUpdate": "Viimeisin päivitys: 20. elokuuta 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Portfolion parannukset ja parannukset",
+						"description": ""
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Uusien pörssien integrointi Exchange Portfolioon",
+						"description": "Uusien pörssien lisääminen, kuten OKX, Kucoin, Qmall jne."
+					},
+					{
+						"name": "Tulevaisuuden salkku",
+						"description": "Seuraa futuurisalkkuja API-integraation avulla"
+					}
+				],
+				"done": [
+					{
+						"name": "Virtuaalinen portfolio",
+						"description": "Käyttäjät voivat luoda virtuaalisen salkun erilaisilla kryptovaroilla"
+					},
+					{
+						"name": "Exchange-portfolio (binance)",
+						"description": "Käyttäjät voivat luoda vaihtoportfolion integrointisovellusliittymän avulla"
+					},
+					{
+						"name": "Venture Portfolio",
+						"description": "Käyttäjät voivat luoda riskipääoman portfolion, jossa on erittäin laajat mukautukset (lukituksen avauspäivämäärät, TGE jne.)"
+					}
+				]
+			}
+		},
+		{
+			"id": 1,
+			"name": "Akatemia",
+			"lastUpdate": "Viimeisin päivitys: 20. elokuuta 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Superdummiesin kryptokurssi",
+						"description": "Yksinkertainen ensimmäisten vaiheiden kurssi vihreimmille krypto-aloittelijoille"
+					},
+					{
+						"name": "Kryptovaluuttasäätiön kurssiparannukset",
+						"description": "Uusien animaatioiden lisääminen monimutkaisten käsitteiden selityksillä sekä moduulien laajentaminen"
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Talouslukutaidon kurssi",
+						"description": "Kurssi taloustieteen perusteista ja fin. luku-ja kirjoitustaito"
+					},
+					{
+						"name": "Kurssi \"Sijoitus: Tokensales\"",
+						"description": "Yksinkertaisesti sanottuna ICO:sta, IDO:sta, IEO:sta ja muista"
+					},
+					{
+						"name": "Kauppiaan simulaattori",
+						"description": "Työkalu koulutukseen ennen todellisia markkinoita (spot, futuurit)"
+					}
+				],
+				"done": [
+					{
+						"name": "Kryptovaluuttateollisuuskurssin perustaminen",
+						"description": "Peruskurssi kryptovaluutoista erittäin visuaalisilla kuvilla, kaavioilla ja animaatioilla"
+					},
+					{
+						"name": "Opiskelijamerkit",
+						"description": "Käyttäjät saavat \"mitaleita\" kurssin suorittamisesta tietyillä arvosanoilla"
+					},
+					{
+						"name": "Animaatioiden soitin",
+						"description": "Edistyksellinen ja kätevä soitin pitkien animaatioiden katseluun"
+					}
+				]
+			}
+		},
+		{
+			"id": 2,
+			"name": "Profiili",
+			"lastUpdate": "Viimeisin päivitys: 20. elokuuta 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Saavutukset laajennus",
+						"description": "Uusien saavutusten lisääminen"
+					},
+					{
+						"name": "Erilaisia parannuksia ja korjauksia",
+						"description": "Virheenkorjauksia, suorituskyvyn parannuksia ja paljon muuta"
+					},
+					{
+						"name": "Hahmot",
+						"description": "Profiiliin määritetyt merkit"
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Hahmokokemus",
+						"description": "Mahdollisuus päivittää hahmoasi ja saada \"taitoja\", joita voidaan käyttää alustalla"
+					},
+					{
+						"name": "Käyttäjäarvostelu",
+						"description": "Maailmanlaajuinen käyttäjäluokitus, joka vaikuttaa palkintojen suuruuteen, käyttäjien vaikutuksen tasoon yhteisössä, pääsyyn erilaisiin yhteisön aktiviteetteihin sekä mahdollisuuteen tulla osaksi DUST Foundation -tiimiä"
+					}
+				],
+				"done": [
+					{
+						"name": "Crypto Bum -animoitu hahmo",
+						"description": "Hieno käyttäjähahmo henkilökohtaisessa profiilissa"
+					},
+					{
+						"name": "Kokoonpanot",
+						"description": "Tilin asetukset, vaihda salasana/nimi/lempinimi/posti/avatar"
+					},
+					{
+						"name": "Tietoja käyttäjän taloudesta alustalla",
+						"description": "Tietoa käyttäjän taloudesta alustalla”"
+					},
+					{
+						"name": "Saavutukset-osio",
+						"description": "Lisätty 9 käyttäjän saavutusta"
+					},
+					{
+						"name": "Päivittäiset palkinnot -osio",
+						"description": "Päivittäiset palkinnot, joilla käyttäjä ansaitsee Dust-tunnuksen"
+					}
+				]
+			}
+		},
+		{
+			"id": 3,
+			"name": "foorumi",
+			"lastUpdate": "Viimeisin päivitys: 20. elokuuta 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Forge (käyttäjien yleinen ääni)",
+						"description": "Alustan käyttäjien yleinen äänestys, jonka avulla voidaan vaikuttaa tuotteen kehitykseen ja uuden toiminnallisuuden kehittämisen prioriteettiin"
+					}
+				],
+				"done": [
+					{
+						"name": "Luo ja julkaise viesti",
+						"description": "Lisää otsikko, avatar, kuvaus, tunniste"
+					},
+					{
+						"name": "Viestisuodatin",
+						"description": "Mahdollisuus tarkastella viestejä suodattimen mukaan (\"kaikki\", \"uudet\", \"paras\", \"oma viestit\")"
+					},
+					{
+						"name": "Viestien luokittelujärjestelmä",
+						"description": "Viestien maailmanlaajuinen sijoitus, joka nostaa sen luettelossa, jotta useammat ihmiset näkevät eniten\nhyödyllisiä viestejä"
+					},
+					{
+						"name": "Kommentteja ja tykkäyksiä julkaisun alle",
+						"description": "Mahdollisuus käyttäjien yhteistyöhön ja keskusteluihin aiheen yhteydessä"
+					},
+					{
+						"name": "Post moderointijärjestelmä",
+						"description": "Viestien julkaisemisen hyväksyminen / hylkääminen"
+					},
+					{
+						"name": "Viesti Näytä tilastot",
+						"description": "Perustilastot viestien katselukerroista"
+					}
+				]
+			}
+		},
+		{
+			"id": 4,
+			"name": "asetukset",
+			"lastUpdate": "Viimeisin päivitys: 20. elokuuta 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "TBD",
+						"description": ""
+					}
+				],
+				"done": [
+					{
+						"name": "Alustan lokalisointi",
+						"description": "Ukrainan ja englannin kielten lisääminen"
+					},
+					{
+						"name": "Käyttäjän henkilötiedot",
+						"description": "Lempinimi ja sähköpostiosoite"
+					},
+					{
+						"name": "2FA",
+						"description": "Kaksivaiheinen todennus"
+					},
+					{
+						"name": "Discord- ja Telegram-integraatiot (yhteisö)",
+						"description": "Käyttäjäyhteys discord-yhteisöön ja sähkebotti (hälytykset ja tärkeät uutiset alustalla)"
+					},
+					{
+						"name": "auta",
+						"description": "Käyttäjän käyttöönotto alustalla"
+					}
+				]
+			}
+		},
+		{
+			"id": 5,
+			"name": "Saldo ja tilaus",
+			"lastUpdate": "Viimeisin päivitys: 20. elokuuta 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Maksu pankkikorteilla",
+						"description": "Maksu kortilla helpottaaksesi pääsyä kryptoverkkotunnukseen aloittelijoille"
+					},
+					{
+						"name": "Automaattinen tilaus",
+						"description": "Tilaa automaattisesti parantaaksesi käyttökokemusta alustalla"
+					}
+				],
+				"done": [
+					{
+						"name": "Valuuttamaksu- ja kuittimekanismi",
+						"description": "Kätevä ja yksinkertainen mekanismi alustan tasapainon täydentämiseksi"
+					},
+					{
+						"name": "Pidä varat ja kirjaa pois",
+						"description": "Varojen turvallinen säilytys alustalla ja varojen poisto palvelujen ostoa varten"
+					},
+					{
+						"name": "Erilaiset tilaustyypit",
+						"description": "\"Alusta\", \"cryptocommunity\", \"All in one\""
+					}
+				]
+			}
+		},
+		{
+			"id": 6,
+			"name": "Ristiriita",
+			"lastUpdate": "Viimeisin päivitys: 20. elokuuta 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Yksityiskohtainen ketjun analytiikka",
+						"description": ""
+					}
+				],
+				"done": [
+					{
+						"name": "Uusi Discord-palvelin",
+						"description": "Luotiin uusi discord-palvelin"
+					},
+					{
+						"name": "Yhteisön eksklusiiviset NFT-salaushamsterit",
+						"description": ""
+					},
+					{
+						"name": "Laaja valikoima botteja päivittäisellä analytiikalla",
+						"description": ""
+					},
+					{
+						"name": "Päivittäiset kryptouutiset",
+						"description": ""
+					},
+					{
+						"name": "Sisäänrakennettu valashälytys",
+						"description": ""
+					},
+					{
+						"name": "Crypto Nursery suunniteltu uudelleen",
+						"description": ""
+					},
+					{
+						"name": "Kirjasto",
+						"description": ""
+					},
+					{
+						"name": "Parannettu suojaus huijareita vastaan",
+						"description": ""
+					},
+					{
+						"name": "Uusittu tukijärjestelmä",
+						"description": ""
+					}
+				]
+			}
+		},
+		{
+			"id": 7,
+			"name": "Muut palvelut",
+			"lastUpdate": "Viimeisin päivitys: 20. elokuuta 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Yhteisön Steakhub",
+						"description": "Mahdollisuus osallistua markkinoiden huippuprojekteihin yhteisön hyväksi"
+					},
+					{
+						"name": "Yhteisölähtöinen Launchpad",
+						"description": "Launchpad, jossa yhteisö on vastuussa projektien valinnasta ja luetteloimisesta"
+					},
+					{
+						"name": "Automaattinen testiverkko",
+						"description": "Periaate on yksinkertainen: käyttäjä maksaa, ja me teemme kaiken likaisen työn. Hieno tapa ansaita projektitokeneja tekemättä mitään"
+					},
+					{
+						"name": "Indeksit",
+						"description": "Indeksit, joissa on luokitus – joissa käyttäjä voi ostaa joukon tokeneita tietyssä suhteessa yhdellä napsautuksella eikä kiivetä 10 vaihtoon etsiessään näitä samoja tokeneita"
+					},
+					{
+						"name": "Auton omaisuuden osto/myynti pörssissä",
+						"description": "Automaattinen osto / paniikkimyydä omaisuutta, jotta käyttäjä kuluttaa vähemmän hermoja ja arvokasta aikaa seurata kaavioita"
+					},
+					{
+						"name": "Kryptolompakko",
+						"description": "Yksinkertainen ja kätevä moniketjuinen lompakko"
+					},
+					{
+						"name": "Mukautetut ilmoitukset",
+						"description": "Joustavat ilmoitukset käyttäjälle integroimalla sähkeet ja erimielisyydet: tietyn hintaisen omaisuuden saavuttamisesta, omaisuuden listaamisesta, n %:n vapauttamisesta pääomasijoituksesta jne."
+					}
+				],
+				"done": []
+			}
+		}
+	]
 }
