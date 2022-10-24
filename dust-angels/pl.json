@@ -18,5 +18,11 @@
 		"invalid_email": "Proszę wpisać prawidłowy email"
 	},
 	"success_message": "Oferta wysłana pomyślnie",
-	"error_message": "Wystąpił błąd podczas składania oferty"
+	"error_message": "Wystąpił błąd podczas składania oferty",
+	"offer_sizes": [
+		"do 10 000 $",
+		"od 10 000 $ do 100 000 $",
+		"od 100 000 USD do 1 000 000 USD",
+		"ponad 1 000 000 $"
+	]
 }

@@ -3,5 +3,349 @@
 	"directions": "Wskazówki",
 	"ready": "Gotowe",
 	"next_release": "następne wydanie",
-	"backlog": "zaległości"
+	"backlog": "zaległości",
+	"roadmap_list": [
+		{
+			"id": 0,
+			"name": "Teczka",
+			"lastUpdate": "Ostatnia aktualizacja: 20 sierpnia 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Ulepszenia i ulepszenia według portfeli",
+						"description": ""
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Integracja nowych giełd do portfela giełdowego",
+						"description": "Dodanie nowych giełd, takich jak OKX, Kucoin, Qmall itp."
+					},
+					{
+						"name": "Portfel terminowy",
+						"description": "Śledź portfele kontraktów futures dzięki integracji API"
+					}
+				],
+				"done": [
+					{
+						"name": "Wirtualne portfolio",
+						"description": "Użytkownicy mogą tworzyć wirtualne portfolio z różnymi aktywami krypto"
+					},
+					{
+						"name": "Portfel giełdowy (Binance)",
+						"description": "Użytkownicy mogą tworzyć portfel giełdowy za pomocą integracji API"
+					},
+					{
+						"name": "Portfolio przedsięwzięć",
+						"description": "Użytkownicy mogą tworzyć portfolio venture z bardzo szeroką personalizacją (daty odblokowania, TGE itp.)"
+					}
+				]
+			}
+		},
+		{
+			"id": 1,
+			"name": "Akademia",
+			"lastUpdate": "Ostatnia aktualizacja: 20 sierpnia 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Kurs „Kurs krypto dla Superdummies”",
+						"description": "Kurs o pierwszych krokach w prostym języku dla najbardziej „zielonych” początkujących kryptowalut"
+					},
+					{
+						"name": "Ulepszenia w kursie „Podstawy branży kryptowalut”",
+						"description": "Dodanie nowych animacji z objaśnieniami złożonych pojęć, a także rozbudowywanie modułów"
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Kurs „Umiejętności finansowe”",
+						"description": "Kurs o podstawach ekonomii i fin. alfabetyzacja"
+					},
+					{
+						"name": "Kurs „Inwestowanie: sprzedaż żetonów”",
+						"description": "W prostych słowach o ICO, IDO, IEO i innych"
+					},
+					{
+						"name": "Symulator tradera",
+						"description": "Narzędzie do szkolenia przed realnym rynkiem (spot, futures)"
+					}
+				],
+				"done": [
+					{
+						"name": "Kurs „Podstawy branży kryptowalut”",
+						"description": "Podstawowy kurs o kryptowalutach z bardzo wizualnymi ilustracjami, diagramami i animacjami"
+					},
+					{
+						"name": "Odznaki studenckie",
+						"description": "Użytkownicy otrzymują „medale” za ukończenie kursu z określonymi stopniami"
+					},
+					{
+						"name": "Odtwarzacz animacji",
+						"description": "Zaawansowany i wygodny odtwarzacz do oglądania długich animacji"
+					}
+				]
+			}
+		},
+		{
+			"id": 2,
+			"name": "Profil",
+			"lastUpdate": "Ostatnia aktualizacja: 20 sierpnia 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Osiągnięcia ekspansja",
+						"description": "Dodawanie nowych osiągnięć"
+					},
+					{
+						"name": "Różne ulepszenia i poprawki",
+						"description": "Poprawki błędów, ulepszenia wydajności i nie tylko"
+					},
+					{
+						"name": "Postacie",
+						"description": "Postacie przypisane do profilu"
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Doświadczenie postaci",
+						"description": "Możliwość ulepszania swojej postaci i zdobywania „umiejętności”, które można wykorzystać na platformie"
+					},
+					{
+						"name": "Ocena użytkownika",
+						"description": "Globalna ocena użytkowników, która wpłynie na wielkość nagród, poziom wpływu użytkownika na społeczność, dostęp do różnych aktywności społecznościowych, a także możliwość stania się częścią zespołu Fundacji DUST"
+					}
+				],
+				"done": [
+					{
+						"name": "Animowana postać „Crypto bum”",
+						"description": "Fajna postać użytkownika w profilu osobistym"
+					},
+					{
+						"name": "Konfiguracje",
+						"description": "Ustawienia konta, zmień hasło/imię/pseudonim/pocztę/awatar"
+					},
+					{
+						"name": "Informacje o finansach użytkownika na platformie",
+						"description": "Informacje o finansach użytkownika na platformie”"
+					},
+					{
+						"name": "Sekcja „Osiągnięcia”",
+						"description": "Dodano 9 osiągnięć użytkownika"
+					},
+					{
+						"name": "Sekcja „Codzienne nagrody”",
+						"description": "Codzienne nagrody, dzięki którym użytkownik zdobywa token Dust"
+					}
+				]
+			}
+		},
+		{
+			"id": 3,
+			"name": "Forum",
+			"lastUpdate": "Ostatnia aktualizacja: 20 sierpnia 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Forge (głosowanie użytkowników ogólnych)",
+						"description": "Głosowanie ogólne użytkowników platformy, które pozwoli Ci wpłynąć na rozwój produktu i priorytet rozwoju nowych funkcjonalności"
+					}
+				],
+				"done": [
+					{
+						"name": "Tworzenie i publikowanie posta",
+						"description": "Dodaj tytuł, awatar, opis, tag"
+					},
+					{
+						"name": "Filtr postów",
+						"description": "Możliwość przeglądania postów według filtrów („wszystkie”, „nowe”, „najlepsze”, „moje posty”)"
+					},
+					{
+						"name": "System ocen dla postów",
+						"description": "Globalny ranking postów, który podnosi go na liście, aby więcej osób mogło zobaczyć najwięcej\nprzydatne posty"
+					},
+					{
+						"name": "Komentarze i polubienia pod postem",
+						"description": "Możliwość współpracy użytkowników i dyskusji w kontekście tematu"
+					},
+					{
+						"name": "System moderacji post",
+						"description": "Zatwierdzenie/odrzucenie publikacji postów"
+					},
+					{
+						"name": "Statystyki wyświetleń posta",
+						"description": "Podstawowe statystyki dotyczące liczby odsłon postów"
+					}
+				]
+			}
+		},
+		{
+			"id": 4,
+			"name": "Ustawienia",
+			"lastUpdate": "Ostatnia aktualizacja: 20 sierpnia 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "TBD",
+						"description": ""
+					}
+				],
+				"done": [
+					{
+						"name": "Lokalizacja platformy",
+						"description": "Dodawanie języków ukraińskiego i angielskiego"
+					},
+					{
+						"name": "Dane osobowe użytkownika",
+						"description": "Pseudonim i poczta"
+					},
+					{
+						"name": "2FA",
+						"description": "Uwierzytelnianie dwuskładnikowe"
+					},
+					{
+						"name": "Integracje z Discordem i Telegramem (społeczność)",
+						"description": "Połączenie użytkownika ze społecznością discord i botem telegramowym (alerty i ważne wiadomości na platformie)"
+					},
+					{
+						"name": "Pomoc",
+						"description": "Wprowadzenie użytkownika na platformę"
+					}
+				]
+			}
+		},
+		{
+			"id": 5,
+			"name": "Saldo i subskrypcja",
+			"lastUpdate": "Ostatnia aktualizacja: 20 sierpnia 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Płatność kartami bankowymi",
+						"description": "Płatność kartą za wygodniejsze wejście do domeny kryptograficznej dla początkujących"
+					},
+					{
+						"name": "Automatyczna subskrypcja",
+						"description": "Automatyczna subskrypcja w celu poprawy UX użytkownika na platformie"
+					}
+				],
+				"done": [
+					{
+						"name": "Mechanizm płatności i odbioru waluty",
+						"description": "Wygodny i prosty mechanizm uzupełniania salda na platformie"
+					},
+					{
+						"name": "Przechowywanie środków i odpisy",
+						"description": "Bezpieczne przechowywanie środków na platformie i odpisywanie środków na zakup usług"
+					},
+					{
+						"name": "Różne rodzaje subskrypcji",
+						"description": "„Platforma”, „kryptospołeczność”, „Wszystko w jednym”"
+					}
+				]
+			}
+		},
+		{
+			"id": 6,
+			"name": "Niezgoda",
+			"lastUpdate": "Ostatnia aktualizacja: 20 sierpnia 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Szczegółowe analizy on-chain",
+						"description": ""
+					}
+				],
+				"done": [
+					{
+						"name": "Nowy serwer niezgody",
+						"description": "Utworzono nowy serwer discord"
+					},
+					{
+						"name": "Ekskluzywne chomiki NFT Crypto dla społeczności",
+						"description": ""
+					},
+					{
+						"name": "Szeroka gama botów z codzienną analityką",
+						"description": ""
+					},
+					{
+						"name": "Codzienne wiadomości o kryptowalutach",
+						"description": ""
+					},
+					{
+						"name": "Wbudowany „Alarm wielorybów”",
+						"description": ""
+					},
+					{
+						"name": "Przeprojektowane szkolenie „Szkółka kryptowalut”",
+						"description": ""
+					},
+					{
+						"name": "Biblioteka",
+						"description": ""
+					},
+					{
+						"name": "Lepsze zabezpieczenia przed oszustami",
+						"description": ""
+					},
+					{
+						"name": "Przeprojektowany system wsparcia",
+						"description": ""
+					}
+				]
+			}
+		},
+		{
+			"id": 7,
+			"name": "Inne usługi",
+			"lastUpdate": "Ostatnia aktualizacja: 20 sierpnia 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Społeczność Steakhub",
+						"description": "Możliwość udziału w najlepszych projektach na rynku dla społeczności"
+					},
+					{
+						"name": "Wyrzutnia dysku społeczności",
+						"description": "Launchpad, w którym społeczność jest odpowiedzialna za wybór i wystawianie projektów"
+					},
+					{
+						"name": "Zautomatyzowana sieć testowa",
+						"description": "Zasada jest prosta: użytkownik płaci, a my wykonujemy całą brudną robotę. Fajny sposób na zarabianie tokenów projektu bez robienia czegokolwiek"
+					},
+					{
+						"name": "Indeksy",
+						"description": "Indeksy z oceną - gdzie użytkownik może jednym kliknięciem kupić zestaw tokenów w określonej proporcji i nie wspinać się po 10 giełdach w poszukiwaniu tych samych tokenów"
+					},
+					{
+						"name": "Automatyczne kupowanie/sprzedaż aktywów na giełdach",
+						"description": "Auto-buy / Panic-sprzedaj aktywów, dzięki czemu użytkownik traci nerwy i traci swój cenny czas na wykresach monitorowania"
+					},
+					{
+						"name": "Portfel krypto",
+						"description": "Prosty i wygodny portfel multichain"
+					},
+					{
+						"name": "Powiadomienia niestandardowe",
+						"description": "Elastyczne powiadomienia dla użytkownika z integracją telegramów i niezgody: o osiągnięciu zasobu o określonej cenie, wylistowaniu zasobu, odblokowaniu n% w zasobach venture itp."
+					}
+				],
+				"done": []
+			}
+		}
+	]
 }
