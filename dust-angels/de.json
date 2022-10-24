@@ -18,5 +18,11 @@
 		"invalid_email": "Bitte geben Sie eine gültige Email-Adresse ein"
 	},
 	"success_message": "Angebot erfolgreich gesendet",
-	"error_message": "Beim Senden des Angebots ist ein Fehler aufgetreten"
+	"error_message": "Beim Senden des Angebots ist ein Fehler aufgetreten",
+	"offer_sizes": [
+		"bis 10 000 $",
+		"von 10 000 $ bis 100 000 $",
+		"von 100 000 $ bis 1 000 000 $",
+		"über 1 000 000 $"
+	]
 }

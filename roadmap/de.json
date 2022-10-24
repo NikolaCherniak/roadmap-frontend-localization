@@ -3,5 +3,349 @@
 	"directions": "Richtungen",
 	"ready": "Bereit",
 	"next_release": "Nächste Veröffentlichung",
-	"backlog": "Rückstand"
+	"backlog": "Rückstand",
+	"roadmap_list": [
+		{
+			"id": 0,
+			"name": "Portfolio",
+			"lastUpdate": "Letzte Aktualisierung: 20. August 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Portfolio-Verbesserungen und Verbesserungen",
+						"description": ""
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Integration neuer Börsen in das Börsenportfolio",
+						"description": "Hinzufügen neuer Börsen wie OKX, Kucoin, Qmall usw."
+					},
+					{
+						"name": "Zukunftsportfolio",
+						"description": "Verfolgen Sie Futures-Portfolios mit API-Integration"
+					}
+				],
+				"done": [
+					{
+						"name": "Virtuelles Portfolio",
+						"description": "Benutzer können ein virtuelles Portfolio mit verschiedenen Krypto-Assets erstellen"
+					},
+					{
+						"name": "Tauschportfolio (Binance)",
+						"description": "Benutzer können mithilfe der Integrations-API ein Börsenportfolio erstellen"
+					},
+					{
+						"name": "Venture-Portfolio",
+						"description": "Benutzer können ein Venture-Portfolio mit sehr breiter Anpassung erstellen (Freischaltdaten, TGE usw.)"
+					}
+				]
+			}
+		},
+		{
+			"id": 1,
+			"name": "Akademie",
+			"lastUpdate": "Letzte Aktualisierung: 20. August 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Superdummies-Kryptokurs",
+						"description": "Ein einfacher Kurs für die ersten Schritte für die grünsten Krypto-Anfänger"
+					},
+					{
+						"name": "Verbesserungen des Kurses „Cryptocurrency Foundation“.",
+						"description": "Hinzufügen neuer Animationen mit Erklärungen komplexer Konzepte sowie Erweitern von Modulen"
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Kurs Finanzkompetenz",
+						"description": "Ein Kurs über die Grundlagen der Volkswirtschaftslehre und Fin. Alphabetisierung"
+					},
+					{
+						"name": "Kurs „Investieren: Tokensales“",
+						"description": "Einfach gesagt über ICO, IDO, IEO und andere"
+					},
+					{
+						"name": "Trader-Simulator",
+						"description": "Tool zum Training vor dem realen Markt (Spot, Futures)"
+					}
+				],
+				"done": [
+					{
+						"name": "Gründung des Kryptowährungs-Industriekurses",
+						"description": "Ein grundlegender Kurs über Kryptowährungen mit sehr visuellen Illustrationen, Diagrammen und Animationen"
+					},
+					{
+						"name": "Studentenabzeichen",
+						"description": "Benutzer erhalten „Medaillen“, wenn sie einen Kurs mit bestimmten Noten abschließen"
+					},
+					{
+						"name": "Player für Animationen",
+						"description": "Fortschrittlicher und praktischer Player zum Anzeigen langer Animationen"
+					}
+				]
+			}
+		},
+		{
+			"id": 2,
+			"name": "Profil",
+			"lastUpdate": "Letzte Aktualisierung: 20. August 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Achievements-Erweiterung",
+						"description": "Hinzufügen neuer Erfolge"
+					},
+					{
+						"name": "Verschiedene Verbesserungen und Korrekturen",
+						"description": "Fehlerbehebungen, Leistungsverbesserungen und mehr"
+					},
+					{
+						"name": "Figuren",
+						"description": "Profilzugewiesene Charaktere"
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Charaktererfahrung",
+						"description": "Die Fähigkeit, Ihren Charakter zu verbessern und \"Fähigkeiten\" zu erhalten, die auf der Plattform verwendet werden können"
+					},
+					{
+						"name": "User-Bewertung",
+						"description": "Globale Benutzerbewertung, die sich auf die Höhe der Belohnungen, den Grad des Benutzereinflusses auf die Community, den Zugang zu verschiedenen Community-Aktivitäten sowie die Möglichkeit auswirkt, Teil des DUST Foundation-Teams zu werden"
+					}
+				],
+				"done": [
+					{
+						"name": "Crypto Bum animierte Figur",
+						"description": "Cooler Benutzercharakter im persönlichen Profil"
+					},
+					{
+						"name": "Konfigurationen",
+						"description": "Kontoeinstellungen, Passwort/Name/Nickname/Mail/Avatar ändern"
+					},
+					{
+						"name": "Informationen über die Finanzen des Nutzers auf der Plattform",
+						"description": "Informationen zu den Finanzen des Nutzers auf der Plattform“"
+					},
+					{
+						"name": "Abschnitt Erfolge",
+						"description": "9 Benutzererfolge hinzugefügt"
+					},
+					{
+						"name": "Tägliche Belohnungen",
+						"description": "Tägliche Belohnungen, mit denen der Benutzer Dust-Token verdient"
+					}
+				]
+			}
+		},
+		{
+			"id": 3,
+			"name": "Forum",
+			"lastUpdate": "Letzte Aktualisierung: 20. August 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Forge (allgemeine Abstimmung für Benutzer)",
+						"description": "Allgemeines Voting der Plattformbenutzer, das es ermöglicht, die Entwicklung des Produkts und die Priorität der Entwicklung neuer Funktionen zu beeinflussen"
+					}
+				],
+				"done": [
+					{
+						"name": "Erstellen und veröffentlichen Sie einen Beitrag",
+						"description": "Fügen Sie Titel, Avatar, Beschreibung, Tag hinzu"
+					},
+					{
+						"name": "Nachfilter",
+						"description": "Möglichkeit, Beiträge nach Filter anzuzeigen (\"alle\", \"neu\", \"beste\", \"meine Beiträge\")"
+					},
+					{
+						"name": "Rangsystem für Beiträge",
+						"description": "Globales Ranking von Beiträgen, das in der Liste aufsteigt, damit mehr Leute am meisten sehen\nhilfreiche Beiträge"
+					},
+					{
+						"name": "Kommentare und Likes unter dem Beitrag",
+						"description": "Möglichkeit der Zusammenarbeit zwischen Benutzern und Diskussionen im Kontext des Themas"
+					},
+					{
+						"name": "Post-Moderationssystem",
+						"description": "Genehmigung / Ablehnung der Veröffentlichung von Beiträgen"
+					},
+					{
+						"name": "Post-View-Statistiken",
+						"description": "Grundlegende Statistiken zu Beitragsaufrufen"
+					}
+				]
+			}
+		},
+		{
+			"id": 4,
+			"name": "Einstellungen",
+			"lastUpdate": "Letzte Aktualisierung: 20. August 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "offen",
+						"description": ""
+					}
+				],
+				"done": [
+					{
+						"name": "Plattformlokalisierung",
+						"description": "Hinzufügen von ukrainischen und englischen Sprachen"
+					},
+					{
+						"name": "Persönliche Daten des Benutzers",
+						"description": "Spitzname und E-Mail"
+					},
+					{
+						"name": "2FA",
+						"description": "Zwei-Faktor-Authentifizierung"
+					},
+					{
+						"name": "Discord- und Telegram-Integrationen (Community)",
+						"description": "Benutzerverbindung zur Discord-Community und zum Telegrammbot (Benachrichtigungen und wichtige Neuigkeiten auf der Plattform)"
+					},
+					{
+						"name": "Hilfe",
+						"description": "Benutzer-Onboarding auf der Plattform"
+					}
+				]
+			}
+		},
+		{
+			"id": 5,
+			"name": "Guthaben und Abonnement",
+			"lastUpdate": "Letzte Aktualisierung: 20. August 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Zahlung per Bankkarte",
+						"description": "Zahlung per Karte für einen bequemeren Einstieg in die Krypto-Domain für Einsteiger"
+					},
+					{
+						"name": "Automatisches Abonnieren",
+						"description": "Automatisches Abonnieren, um die Benutzererfahrung mit der Plattform zu verbessern"
+					}
+				],
+				"done": [
+					{
+						"name": "Währungszahlungs- und -empfangsmechanismus",
+						"description": "Bequemer und einfacher Mechanismus zum Auffüllen des Guthabens auf der Plattform"
+					},
+					{
+						"name": "Geld behalten und abschreiben",
+						"description": "Sichere Aufbewahrung von Geldern auf der Plattform und Abschreibung von Geldern für den Kauf von Dienstleistungen"
+					},
+					{
+						"name": "Verschiedene Abonnementtypen",
+						"description": "„Plattform“, „Kryptogemeinschaft“, „Alles in einem“"
+					}
+				]
+			}
+		},
+		{
+			"id": 6,
+			"name": "Zwietracht",
+			"lastUpdate": "Letzte Aktualisierung: 20. August 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Detaillierte On-Chain-Analysen",
+						"description": ""
+					}
+				],
+				"done": [
+					{
+						"name": "Neuer Discord-Server",
+						"description": "Einen neuen Discord-Server erstellt"
+					},
+					{
+						"name": "Community-exklusive NFT-Krypto-Hamster",
+						"description": ""
+					},
+					{
+						"name": "Große Auswahl an Bots mit täglichen Analysen",
+						"description": ""
+					},
+					{
+						"name": "Tägliche Krypto-News",
+						"description": ""
+					},
+					{
+						"name": "Eingebauter „Wal-Alarm“",
+						"description": ""
+					},
+					{
+						"name": "Krypto-Kindergarten neu gestaltet",
+						"description": ""
+					},
+					{
+						"name": "Bibliothek",
+						"description": ""
+					},
+					{
+						"name": "Verbesserte Sicherheit gegen Betrüger",
+						"description": ""
+					},
+					{
+						"name": "Überarbeitetes Unterstützungssystem",
+						"description": ""
+					}
+				]
+			}
+		},
+		{
+			"id": 7,
+			"name": "Sonstige Dienstleistungen",
+			"lastUpdate": "Letzte Aktualisierung: 20. August 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Gemeinschafts-Steakhub",
+						"description": "Möglichkeit der Beteiligung an Top-Projekten auf dem Markt für die Community"
+					},
+					{
+						"name": "Community-gesteuertes Launchpad",
+						"description": "Launchpad, wo die Community für die Auswahl und Auflistung von Projekten verantwortlich ist"
+					},
+					{
+						"name": "Automatisiertes Testnetz",
+						"description": "Das Prinzip ist einfach: Der Nutzer zahlt, und wir machen die Drecksarbeit. Coole Art, Projekt-Token zu verdienen, ohne etwas zu tun"
+					},
+					{
+						"name": "Indizes",
+						"description": "Indizes mit einer Bewertung – bei denen ein Benutzer mit einem Klick eine Reihe von Token in einem bestimmten Verhältnis kaufen kann und nicht 10 Börsen auf der Suche nach denselben Token erklimmen muss"
+					},
+					{
+						"name": "Automatischer Kauf/Verkauf von Vermögenswerten an Börsen",
+						"description": "Auto-Buy / Panic-Sell-Assets, damit der Benutzer weniger Nerven und seine wertvolle Zeit mit der Überwachung von Charts verbringt"
+					},
+					{
+						"name": "Krypto-Wallet",
+						"description": "Einfache und praktische Geldbörse mit mehreren Ketten"
+					},
+					{
+						"name": "Benutzerdefinierte Benachrichtigungen",
+						"description": "Flexible Benachrichtigungen für den Benutzer mit der Integration von Telegrammen und Zwietracht: über das Erreichen eines Vermögenswerts mit einem bestimmten Preis, das Auflisten eines Vermögenswerts, das Freischalten von n% in einem Venture-Vermögenswert usw"
+					}
+				],
+				"done": []
+			}
+		}
+	]
 }
