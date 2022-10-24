@@ -7,138 +7,138 @@
 	"roadmap_list": [
 		{
 			"id": 0,
-			"name": "Portfolio",
-			"lastUpdate": "Last update: 20 Aug 2022",
+			"name": "Portafoglio",
+			"lastUpdate": "Ultimo aggiornamento: 20 agosto 2022",
 			"description": "",
 			"tasks": {
 				"inProgress": [
 					{
-						"name": "Portfolio Improvements and Improvements",
+						"name": "Miglioramenti e miglioramenti del portafoglio",
 						"description": ""
 					}
 				],
 				"inResearch": [
 					{
-						"name": "Integration of new exchanges into the Exchange Portfolio",
-						"description": "Adding new exchanges such as OKX, Kucoin, Qmall, etc."
+						"name": "Integrazione di nuove borse nel Portafoglio di Borsa",
+						"description": "Aggiunta di nuovi scambi come OKX, Kucoin, Qmall, ecc."
 					},
 					{
-						"name": "Future Portfolio",
-						"description": "Track futures portfolios with API integration"
+						"name": "Portafoglio futuro",
+						"description": "Tieni traccia dei portafogli di futures con l'integrazione delle API"
 					}
 				],
 				"done": [
 					{
-						"name": "Virtual Portfolio",
-						"description": "Users can create a virtual portfolio with various crypto assets"
+						"name": "Portafoglio virtuale",
+						"description": "Gli utenti possono creare un portafoglio virtuale con varie risorse crittografiche"
 					},
 					{
-						"name": "Exchange Portfolio (Binance)",
-						"description": "Users can create an exchange portfolio using the integration API"
+						"name": "Portafoglio di scambio (Binance)",
+						"description": "Gli utenti possono creare un portafoglio di scambio utilizzando l'API di integrazione"
 					},
 					{
-						"name": "Venture Portfolio",
-						"description": "Users can create a venture portfolio with very wide customization (unlock dates, TGE, etc.)"
+						"name": "Portafoglio di avventura",
+						"description": "Gli utenti possono creare un portafoglio di venture con una personalizzazione molto ampia (date di sblocco, TGE, ecc.)"
 					}
 				]
 			}
 		},
 		{
 			"id": 1,
-			"name": "Academy",
-			"lastUpdate": "Last update: 20 Aug 2022",
+			"name": "Accademia",
+			"lastUpdate": "Ultimo aggiornamento: 20 agosto 2022",
 			"description": "",
 			"tasks": {
 				"inProgress": [
 					{
-						"name": "Superdummies Crypto Course",
-						"description": "A simple first steps course for the greenest crypto beginners"
+						"name": "Corso di criptovaluta Superdummies",
+						"description": "Un semplice corso per i primi passi per i principianti delle criptovalute più ecologici"
 					},
 					{
-						"name": "Cryptocurrency Foundation Course Improvements",
-						"description": "Adding new animations with explanations of complex concepts, as well as expanding modules"
+						"name": "Miglioramenti al corso della Fondazione Criptovaluta",
+						"description": "Aggiunta di nuove animazioni con spiegazioni di concetti complessi e moduli di espansione"
 					}
 				],
 				"inResearch": [
 					{
-						"name": "Financial Literacy Course",
-						"description": "A course about the foundations of economics and fin. literacy"
+						"name": "Corso di alfabetizzazione finanziaria",
+						"description": "Un corso sui fondamenti dell'economia e della fin. alfabetizzazione"
 					},
 					{
-						"name": "Course “Investing: Tokensales”",
-						"description": "In simple terms about ICO, IDO, IEO and others"
+						"name": "Corso “Investire: Tokensales”",
+						"description": "In parole povere su ICO, IDO, IEO e altri"
 					},
 					{
-						"name": "Trader Simulator",
-						"description": "Tool for training before the real market (spot, futures)"
+						"name": "Simulatore di commerciante",
+						"description": "Strumento per la formazione prima del mercato reale (spot, futures)"
 					}
 				],
 				"done": [
 					{
-						"name": "Foundation of the Cryptocurrency Industry Course",
-						"description": "A fundamental course about cryptocurrencies with very visual illustrations, diagrams and animations"
+						"name": "Fondazione del Corso per l'Industria delle Criptovalute",
+						"description": "Un corso fondamentale sulle criptovalute con illustrazioni, diagrammi e animazioni molto visive"
 					},
 					{
-						"name": "Student Badges",
-						"description": "Users receive 'medals' for completing a course with certain grades"
+						"name": "Distintivi per studenti",
+						"description": "Gli utenti ricevono \"medaglie\" per aver completato un corso con determinati voti"
 					},
 					{
-						"name": "Player for animations",
-						"description": "Advanced and convenient player for viewing long animations"
+						"name": "Giocatore per le animazioni",
+						"description": "Player avanzato e conveniente per la visualizzazione di lunghe animazioni"
 					}
 				]
 			}
 		},
 		{
 			"id": 2,
-			"name": "Profile",
-			"lastUpdate": "Last update: 20 Aug 2022",
+			"name": "Profilo",
+			"lastUpdate": "Ultimo aggiornamento: 20 agosto 2022",
 			"description": "",
 			"tasks": {
 				"inProgress": [
 					{
-						"name": "Achievements Extension",
-						"description": "Adding new achievements"
+						"name": "Estensione dei risultati",
+						"description": "Aggiunta di nuovi traguardi"
 					},
 					{
-						"name": "Various improvements and fixes",
-						"description": "Bug fixes, performance improvements and more"
+						"name": "Vari miglioramenti e correzioni",
+						"description": "Correzioni di bug, miglioramenti delle prestazioni e altro ancora"
 					},
 					{
-						"name": "Characters",
-						"description": "Profile-assigned characters"
+						"name": "Personaggi",
+						"description": "Caratteri assegnati al profilo"
 					}
 				],
 				"inResearch": [
 					{
-						"name": "Character Experience",
-						"description": "The ability to upgrade your character and get \"skills\" that can be used on the platform"
+						"name": "Esperienza di carattere",
+						"description": "La possibilità di aggiornare il tuo personaggio e ottenere \"abilità\" che possono essere utilizzate sulla piattaforma"
 					},
 					{
-						"name": "User rating",
-						"description": "Global user rating that will affect the size of rewards, the level of user influence on the community, access to various community activities, as well as the opportunity to become part of the DUST Foundation team"
+						"name": "Voto dell'utente",
+						"description": "Valutazione globale degli utenti che influenzerà l'entità dei premi, il livello di influenza degli utenti sulla comunità, l'accesso a varie attività della comunità, nonché l'opportunità di entrare a far parte del team della DUST Foundation"
 					}
 				],
 				"done": [
 					{
-						"name": "Crypto Bum Animated Character",
-						"description": "Cool user character in personal profile"
+						"name": "Personaggio animato Crypto Bum",
+						"description": "Fantastico personaggio utente nel profilo personale"
 					},
 					{
-						"name": "Configurations",
-						"description": "Account settings, change password/name/nickname/mail/avatar"
+						"name": "Configurazioni",
+						"description": "Impostazioni account, modifica password/nome/nickname/mail/avatar"
 					},
 					{
-						"name": "Information about the user's finances on the platform",
-						"description": "Information on the user's finances on the platform”"
+						"name": "Informazioni sulle finanze dell'utente sulla piattaforma",
+						"description": "Informazioni sulle finanze dell'utente sulla piattaforma”"
 					},
 					{
-						"name": "Achievements section",
-						"description": "Added 9 user achievements"
+						"name": "Sezione Obiettivi",
+						"description": "Aggiunti 9 obiettivi utente"
 					},
 					{
-						"name": "Daily Rewards Section",
-						"description": "Daily rewards with which the user earns Dust token"
+						"name": "Sezione premi giornalieri",
+						"description": "Ricompense giornaliere con cui l'utente guadagna il token Polvere"
 					}
 				]
 			}
@@ -146,55 +146,51 @@
 		{
 			"id": 3,
 			"name": "Forum",
-			"lastUpdate": "Last update: 20 Aug 2022",
+			"lastUpdate": "Ultimo aggiornamento: 20 agosto 2022",
 			"description": "",
 			"tasks": {
-				"inProgress": [
-
-				],
+				"inProgress": [],
 				"inResearch": [
 					{
-						"name": "Forge (general vote for users)",
-						"description": "General voting of platform users that will allow to influence the development of the product and the priority of developing new functionality"
+						"name": "Forge (voto generale per gli utenti)",
+						"description": "Votazione generale degli utenti della piattaforma che consentirà di influenzare lo sviluppo del prodotto e la priorità di sviluppare nuove funzionalità"
 					}
 				],
 				"done": [
 					{
-						"name": "Create and publish a post",
-						"description": "Add title, avatar, description, tag"
+						"name": "Crea e pubblica un post",
+						"description": "Aggiungi titolo, avatar, descrizione, tag"
 					},
 					{
-						"name": "Post filter",
-						"description": "Ability to view posts by filter (\"all\", \"new\", \"best\", \"my posts\")"
+						"name": "Post filtro",
+						"description": "Possibilità di visualizzare i post per filtro (\"tutti\", \"nuovi\", \"migliori\", \"i miei post\")"
 					},
 					{
-						"name": "Ranking system for posts",
-						"description": "Global ranking of posts that raises it in the list so that more people see the most \nhelpful posts"
+						"name": "Sistema di classificazione dei post",
+						"description": "Classifica globale dei post che lo aumenta nell'elenco in modo che più persone vedano di più\npost utili"
 					},
 					{
-						"name": "Comments and likes under the post",
-						"description": "Possibility of collaboration between users and discussions in the context of the topic"
+						"name": "Commenti e Mi piace sotto il post",
+						"description": "Possibilità di collaborazione tra utenti e discussioni nel contesto dell'argomento"
 					},
 					{
-						"name": "Post moderation system",
-						"description": "Approval / rejection of the publication of posts"
+						"name": "Sistema di post moderazione",
+						"description": "Approvazione/rifiuto della pubblicazione dei post"
 					},
 					{
-						"name": "Post View Statistics",
-						"description": "Basic stats on post views"
+						"name": "Statistiche di visualizzazione post",
+						"description": "Statistiche di base sulle visualizzazioni dei post"
 					}
 				]
 			}
 		},
 		{
 			"id": 4,
-			"name": "Settings",
-			"lastUpdate": "Last update: 20 Aug 2022",
+			"name": "Impostazioni",
+			"lastUpdate": "Ultimo aggiornamento: 20 agosto 2022",
 			"description": "",
 			"tasks": {
-				"inProgress": [
-
-				],
+				"inProgress": [],
 				"inResearch": [
 					{
 						"name": "TBD",
@@ -203,113 +199,109 @@
 				],
 				"done": [
 					{
-						"name": "Platform localization",
-						"description": "Adding Ukrainian and English languages"
+						"name": "Localizzazione della piattaforma",
+						"description": "Aggiunta di lingue ucraino e inglese"
 					},
 					{
-						"name": "User's personal information",
-						"description": "Nickname and email"
+						"name": "Informazioni personali dell'utente",
+						"description": "Soprannome ed e-mail"
 					},
 					{
 						"name": "2FA",
-						"description": "Two-factor authentication"
+						"description": "Autenticazione a due fattori"
 					},
 					{
-						"name": "Discord and Telegram integrations (community)",
-						"description": "User connection to the discord community and telegram bot (alerts and important news on the platform)"
+						"name": "Integrazioni Discord e Telegram (community)",
+						"description": "Collegamento utente alla community discord e bot di telegram (avvisi e notizie importanti sulla piattaforma)"
 					},
 					{
-						"name": "Help",
-						"description": "User onboarding on the platform"
+						"name": "Aiuto",
+						"description": "Onboarding dell'utente sulla piattaforma"
 					}
 				]
 			}
 		},
 		{
 			"id": 5,
-			"name": "Balance and Subscription",
-			"lastUpdate": "Last update: 20 Aug 2022",
+			"name": "Saldo e Abbonamento",
+			"lastUpdate": "Ultimo aggiornamento: 20 agosto 2022",
 			"description": "",
 			"tasks": {
-				"inProgress": [
-
-				],
+				"inProgress": [],
 				"inResearch": [
 					{
-						"name": "Payment by bank cards",
-						"description": "Payment by card for more convenient entry into the crypto domain for beginners"
+						"name": "Pagamento con carte bancarie",
+						"description": "Pagamento con carta per un ingresso più conveniente nel dominio crittografico per i principianti"
 					},
 					{
-						"name": "Auto Subscribe",
-						"description": "Auto-subscribe to improve the user experience with the platform"
+						"name": "Abbonamento automatico",
+						"description": "Iscrizione automatica per migliorare l'esperienza dell'utente con la piattaforma"
 					}
 				],
 				"done": [
 					{
-						"name": "Currency payment and receipt mechanism",
-						"description": "Convenient and simple mechanism for replenishing the balance on the platform"
+						"name": "Meccanismo di pagamento e ricevuta in valuta",
+						"description": "Comodo e semplice meccanismo per reintegrare il saldo sulla piattaforma"
 					},
 					{
-						"name": "Keep funds and write off",
-						"description": "Secure storage of funds on the platform and write-off of funds for the purchase of services"
+						"name": "Mantieni i fondi e cancella",
+						"description": "Archiviazione sicura dei fondi sulla piattaforma e cancellazione dei fondi per l'acquisto di servizi"
 					},
 					{
-						"name": "Different subscription types",
-						"description": "“Platform”, “cryptocommunity”, “All in one”"
+						"name": "Diversi tipi di abbonamento",
+						"description": "“Piattaforma”, “Crittocomunità”, “Tutto in uno”"
 					}
 				]
 			}
 		},
 		{
 			"id": 6,
-			"name": "Discord",
-			"lastUpdate": "Last update: 20 Aug 2022",
+			"name": "Discordia",
+			"lastUpdate": "Ultimo aggiornamento: 20 agosto 2022",
 			"description": "",
 			"tasks": {
-				"inProgress": [
-
-				],
+				"inProgress": [],
 				"inResearch": [
 					{
-						"name": "Detailed on-chain analytics",
+						"name": "Analisi dettagliate sulla catena",
 						"description": ""
 					}
 				],
 				"done": [
 					{
-						"name": "New Discord Server",
-						"description": "Created a new discord server"
+						"name": "Nuovo server Discord",
+						"description": "Creato un nuovo server Discord"
 					},
 					{
-						"name": "Community Exclusive NFT Crypto Hamsters",
+						"name": "Criceti crittografici NFT esclusivi per la comunità",
 						"description": ""
 					},
 					{
-						"name": "Wide range of bots with daily analytics",
+						"name": "Ampia gamma di bot con analisi giornaliere",
 						"description": ""
 					},
 					{
-						"name": "Daily Crypto News",
+						"name": "Notizie crittografiche quotidiane",
 						"description": ""
 					},
 					{
-						"name": "Built-in “Whale Alert”",
+						"name": "\"Avviso balena\" integrato",
 						"description": ""
 					},
 					{
-						"name": "Crypto Nursery Redesigned",
+						"name": "Crypto Nursery ridisegnato",
 						"description": ""
 					},
 					{
-						"name": "Library",
+						"name": "Biblioteca",
 						"description": ""
 					},
 					{
-						"name": "Improved security against scammers",
+						"name": "Maggiore sicurezza contro i truffatori",
 						"description": ""
 					},
 					{
-						"name": "Reworked support system",
+						"name": "Sistema di supporto rielaborato",
 						"description": ""
 					}
 				]
@@ -317,46 +309,42 @@
 		},
 		{
 			"id": 7,
-			"name": "Other Services",
-			"lastUpdate": "Last update: 20 Aug 2022",
+			"name": "Altri servizi",
+			"lastUpdate": "Ultimo aggiornamento: 20 agosto 2022",
 			"description": "",
 			"tasks": {
-				"inProgress": [
-
-				],
+				"inProgress": [],
 				"inResearch": [
 					{
 						"name": "Community Steakhub",
-						"description": "Possibility of staking into top projects on the market for the community"
+						"description": "Possibilità di partecipazione a progetti top sul mercato per la collettività"
 					},
 					{
-						"name": "Community Driven Launchpad",
-						"description": "Launchpad where the community is responsible for selecting and listing projects"
+						"name": "Launchpad guidato dalla comunità",
+						"description": "Launchpad in cui la comunità è responsabile della selezione e dell'elenco dei progetti"
 					},
 					{
-						"name": "Automated testnet",
-						"description": "The principle is simple: the user pays, and we do all the dirty work. Cool way to earn project tokens without doing anything"
+						"name": "Rete di test automatizzata",
+						"description": "Il principio è semplice: l'utente paga e noi facciamo tutto il lavoro sporco. Un modo fantastico per guadagnare token di progetto senza fare nulla"
 					},
 					{
-						"name": "Indexes",
-						"description": "Indices with a rating - where a user can buy a set of tokens in a certain proportion in one click and not climb 10 exchanges in search of these same tokens"
+						"name": "Indici",
+						"description": "Indici con una valutazione - dove un utente può acquistare un set di token in una certa proporzione in un clic e non scalare 10 scambi alla ricerca di questi stessi token"
 					},
 					{
-						"name": "Auto buying/selling assets on exchanges",
-						"description": "Auto-buy / Panic-sell assets, so that the user spends less nerves and his valuable time monitoring charts"
+						"name": "Auto acquisto/vendita di asset in borsa",
+						"description": "Acquisto automatico/vendita di asset in panico, in modo che l'utente spenda meno nervi e il suo tempo prezioso per monitorare i grafici"
 					},
 					{
-						"name": "Crypto Wallet",
-						"description": "Simple and convenient multichain wallet"
+						"name": "Portafoglio crittografico",
+						"description": "Portafoglio multicatena semplice e conveniente"
 					},
 					{
-						"name": "Custom notifications",
-						"description": "Flexible notifications for the user with the integration of telegrams and discord: about reaching an asset of a certain price, listing an asset, unlocking n% in a venture asset, etc"
+						"name": "Notifiche personalizzate",
+						"description": "Notifiche flessibili per l'utente con l'integrazione di telegrammi e discordia: sul raggiungimento di un asset di un certo prezzo, sull'elenco di un asset, sullo sblocco di n% in un asset di rischio, ecc."
 					}
 				],
-				"done": [
-
-				]
+				"done": []
 			}
 		}
 	]

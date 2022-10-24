@@ -1,363 +1,351 @@
 {
-  "back": "Atpakaļ",
-  "directions": "Kategorija",
-  "ready": "Gatavs",
-  "next_release": "Nākamā relīze",
-  "backlog": "Neizpildīto mērķu saraksts",
-  "roadmap_list": [
-    {
-      "id": 0,
-      "name": "Portfolio",
-      "lastUpdate": "Last update: 20 Aug 2022",
-      "description": "",
-      "tasks": {
-        "inProgress": [
-          {
-            "name": "Portfolio Improvements and Improvements",
-            "description": ""
-          }
-        ],
-        "inResearch": [
-          {
-            "name": "Integration of new exchanges into the Exchange Portfolio",
-            "description": "Adding new exchanges such as OKX, Kucoin, Qmall, etc."
-          },
-          {
-            "name": "Future Portfolio",
-            "description": "Track futures portfolios with API integration"
-          }
-        ],
-        "done": [
-          {
-            "name": "Virtual Portfolio",
-            "description": "Users can create a virtual portfolio with various crypto assets"
-          },
-          {
-            "name": "Exchange Portfolio (Binance)",
-            "description": "Users can create an exchange portfolio using the integration API"
-          },
-          {
-            "name": "Venture Portfolio",
-            "description": "Users can create a venture portfolio with very wide customization (unlock dates, TGE, etc.)"
-          }
-        ]
-      }
-    },
-    {
-      "id": 1,
-      "name": "Academy",
-      "lastUpdate": "Last update: 20 Aug 2022",
-      "description": "",
-      "tasks": {
-        "inProgress": [
-          {
-            "name": "Superdummies Crypto Course",
-            "description": "A simple first steps course for the greenest crypto beginners"
-          },
-          {
-            "name": "Cryptocurrency Foundation Course Improvements",
-            "description": "Adding new animations with explanations of complex concepts, as well as expanding modules"
-          }
-        ],
-        "inResearch": [
-          {
-            "name": "Financial Literacy Course",
-            "description": "A course about the foundations of economics and fin. literacy"
-          },
-          {
-            "name": "Course “Investing: Tokensales”",
-            "description": "In simple terms about ICO, IDO, IEO and others"
-          },
-          {
-            "name": "Trader Simulator",
-            "description": "Tool for training before the real market (spot, futures)"
-          }
-        ],
-        "done": [
-          {
-            "name": "Foundation of the Cryptocurrency Industry Course",
-            "description": "A fundamental course about cryptocurrencies with very visual illustrations, diagrams and animations"
-          },
-          {
-            "name": "Student Badges",
-            "description": "Users receive 'medals' for completing a course with certain grades"
-          },
-          {
-            "name": "Player for animations",
-            "description": "Advanced and convenient player for viewing long animations"
-          }
-        ]
-      }
-    },
-    {
-      "id": 2,
-      "name": "Profile",
-      "lastUpdate": "Last update: 20 Aug 2022",
-      "description": "",
-      "tasks": {
-        "inProgress": [
-          {
-            "name": "Achievements Extension",
-            "description": "Adding new achievements"
-          },
-          {
-            "name": "Various improvements and fixes",
-            "description": "Bug fixes, performance improvements and more"
-          },
-          {
-            "name": "Characters",
-            "description": "Profile-assigned characters"
-          }
-        ],
-        "inResearch": [
-          {
-            "name": "Character Experience",
-            "description": "The ability to upgrade your character and get \"skills\" that can be used on the platform"
-          },
-          {
-            "name": "User rating",
-            "description": "Global user rating that will affect the size of rewards, the level of user influence on the community, access to various community activities, as well as the opportunity to become part of the DUST Foundation team"
-          }
-        ],
-        "done": [
-          {
-            "name": "Crypto Bum Animated Character",
-            "description": "Cool user character in personal profile"
-          },
-          {
-            "name": "Configurations",
-            "description": "Account settings, change password/name/nickname/mail/avatar"
-          },
-          {
-            "name": "Information about the user's finances on the platform",
-            "description": "Information on the user's finances on the platform”"
-          },
-          {
-            "name": "Achievements section",
-            "description": "Added 9 user achievements"
-          },
-          {
-            "name": "Daily Rewards Section",
-            "description": "Daily rewards with which the user earns Dust token"
-          }
-        ]
-      }
-    },
-    {
-      "id": 3,
-      "name": "Forum",
-      "lastUpdate": "Last update: 20 Aug 2022",
-      "description": "",
-      "tasks": {
-        "inProgress": [
-
-        ],
-        "inResearch": [
-          {
-            "name": "Forge (general vote for users)",
-            "description": "General voting of platform users that will allow to influence the development of the product and the priority of developing new functionality"
-          }
-        ],
-        "done": [
-          {
-            "name": "Create and publish a post",
-            "description": "Add title, avatar, description, tag"
-          },
-          {
-            "name": "Post filter",
-            "description": "Ability to view posts by filter (\"all\", \"new\", \"best\", \"my posts\")"
-          },
-          {
-            "name": "Ranking system for posts",
-            "description": "Global ranking of posts that raises it in the list so that more people see the most \nhelpful posts"
-          },
-          {
-            "name": "Comments and likes under the post",
-            "description": "Possibility of collaboration between users and discussions in the context of the topic"
-          },
-          {
-            "name": "Post moderation system",
-            "description": "Approval / rejection of the publication of posts"
-          },
-          {
-            "name": "Post View Statistics",
-            "description": "Basic stats on post views"
-          }
-        ]
-      }
-    },
-    {
-      "id": 4,
-      "name": "Settings",
-      "lastUpdate": "Last update: 20 Aug 2022",
-      "description": "",
-      "tasks": {
-        "inProgress": [
-
-        ],
-        "inResearch": [
-          {
-            "name": "TBD",
-            "description": ""
-          }
-        ],
-        "done": [
-          {
-            "name": "Platform localization",
-            "description": "Adding Ukrainian and English languages"
-          },
-          {
-            "name": "User's personal information",
-            "description": "Nickname and email"
-          },
-          {
-            "name": "2FA",
-            "description": "Two-factor authentication"
-          },
-          {
-            "name": "Discord and Telegram integrations (community)",
-            "description": "User connection to the discord community and telegram bot (alerts and important news on the platform)"
-          },
-          {
-            "name": "Help",
-            "description": "User onboarding on the platform"
-          }
-        ]
-      }
-    },
-    {
-      "id": 5,
-      "name": "Balance and Subscription",
-      "lastUpdate": "Last update: 20 Aug 2022",
-      "description": "",
-      "tasks": {
-        "inProgress": [
-
-        ],
-        "inResearch": [
-          {
-            "name": "Payment by bank cards",
-            "description": "Payment by card for more convenient entry into the crypto domain for beginners"
-          },
-          {
-            "name": "Auto Subscribe",
-            "description": "Auto-subscribe to improve the user experience with the platform"
-          }
-        ],
-        "done": [
-          {
-            "name": "Currency payment and receipt mechanism",
-            "description": "Convenient and simple mechanism for replenishing the balance on the platform"
-          },
-          {
-            "name": "Keep funds and write off",
-            "description": "Secure storage of funds on the platform and write-off of funds for the purchase of services"
-          },
-          {
-            "name": "Different subscription types",
-            "description": "“Platform”, “cryptocommunity”, “All in one”"
-          }
-        ]
-      }
-    },
-    {
-      "id": 6,
-      "name": "Discord",
-      "lastUpdate": "Last update: 20 Aug 2022",
-      "description": "",
-      "tasks": {
-        "inProgress": [
-
-        ],
-        "inResearch": [
-          {
-            "name": "Detailed on-chain analytics",
-            "description": ""
-          }
-        ],
-        "done": [
-          {
-            "name": "New Discord Server",
-            "description": "Created a new discord server"
-          },
-          {
-            "name": "Community Exclusive NFT Crypto Hamsters",
-            "description": ""
-          },
-          {
-            "name": "Wide range of bots with daily analytics",
-            "description": ""
-          },
-          {
-            "name": "Daily Crypto News",
-            "description": ""
-          },
-          {
-            "name": "Built-in “Whale Alert”",
-            "description": ""
-          },
-          {
-            "name": "Crypto Nursery Redesigned",
-            "description": ""
-          },
-          {
-            "name": "Library",
-            "description": ""
-          },
-          {
-            "name": "Improved security against scammers",
-            "description": ""
-          },
-          {
-            "name": "Reworked support system",
-            "description": ""
-          }
-        ]
-      }
-    },
-    {
-      "id": 7,
-      "name": "Other Services",
-      "lastUpdate": "Last update: 20 Aug 2022",
-      "description": "",
-      "tasks": {
-        "inProgress": [
-
-        ],
-        "inResearch": [
-          {
-            "name": "Community Steakhub",
-            "description": "Possibility of staking into top projects on the market for the community"
-          },
-          {
-            "name": "Community Driven Launchpad",
-            "description": "Launchpad where the community is responsible for selecting and listing projects"
-          },
-          {
-            "name": "Automated testnet",
-            "description": "The principle is simple: the user pays, and we do all the dirty work. Cool way to earn project tokens without doing anything"
-          },
-          {
-            "name": "Indexes",
-            "description": "Indices with a rating - where a user can buy a set of tokens in a certain proportion in one click and not climb 10 exchanges in search of these same tokens"
-          },
-          {
-            "name": "Auto buying/selling assets on exchanges",
-            "description": "Auto-buy / Panic-sell assets, so that the user spends less nerves and his valuable time monitoring charts"
-          },
-          {
-            "name": "Crypto Wallet",
-            "description": "Simple and convenient multichain wallet"
-          },
-          {
-            "name": "Custom notifications",
-            "description": "Flexible notifications for the user with the integration of telegrams and discord: about reaching an asset of a certain price, listing an asset, unlocking n% in a venture asset, etc"
-          }
-        ],
-        "done": [
-
-        ]
-      }
-    }
-  ]
+	"back": "Atpakaļ",
+	"directions": "Kategorija",
+	"ready": "Gatavs",
+	"next_release": "Nākamā relīze",
+	"backlog": "Neizpildīto mērķu saraksts",
+	"roadmap_list": [
+		{
+			"id": 0,
+			"name": "Portfelis",
+			"lastUpdate": "Pēdējā atjaunināšana: 2022. gada 20. augustā",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Portfeļa uzlabojumi un uzlabojumi",
+						"description": ""
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Jaunu biržu integrācija Exchange portfelī",
+						"description": "Pievienojot jaunas biržas, piemēram, OKX, Kucoin, Qmall utt."
+					},
+					{
+						"name": "Nākotnes portfelis",
+						"description": "Izsekojiet nākotnes darījumu portfeļus, izmantojot API integrāciju"
+					}
+				],
+				"done": [
+					{
+						"name": "Virtuālais portfelis",
+						"description": "Lietotāji var izveidot virtuālu portfeli ar dažādiem kriptovalūtas aktīviem"
+					},
+					{
+						"name": "Exchange portfelis (Binance)",
+						"description": "Lietotāji var izveidot apmaiņas portfeli, izmantojot integrācijas API"
+					},
+					{
+						"name": "Riska portfelis",
+						"description": "Lietotāji var izveidot riska portfeli ar ļoti plašu pielāgošanu (atbloķēšanas datumi, TGE utt.)"
+					}
+				]
+			}
+		},
+		{
+			"id": 1,
+			"name": "akadēmija",
+			"lastUpdate": "Pēdējā atjaunināšana: 2022. gada 20. augustā",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Superdummies kriptogrāfijas kurss",
+						"description": "Vienkāršs pirmo soļu kurss zaļākajiem kriptovalūtu iesācējiem"
+					},
+					{
+						"name": "Kriptovalūtas fonda kursu uzlabojumi",
+						"description": "Jaunu animāciju pievienošana ar sarežģītu jēdzienu skaidrojumiem, kā arī moduļu paplašināšana"
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Finanšu pratības kurss",
+						"description": "Kurss par ekonomikas pamatiem un fin. lasītprasme"
+					},
+					{
+						"name": "Kurss “Investēšana: žetonu tirdzniecība”",
+						"description": "Vienkāršā izteiksmē par ICO, IDO, IEO un citiem"
+					},
+					{
+						"name": "Tirgotāja simulators",
+						"description": "Rīks apmācībai pirms reālā tirgus (spot, fjūčeri)"
+					}
+				],
+				"done": [
+					{
+						"name": "Kriptovalūtas nozares kursa nodibināšana",
+						"description": "Fundamentāls kurss par kriptovalūtām ar ļoti vizuālām ilustrācijām, diagrammām un animācijām"
+					},
+					{
+						"name": "Studentu nozīmītes",
+						"description": "Lietotāji saņem “medaļas” par kursa pabeigšanu ar noteiktiem vērtējumiem"
+					},
+					{
+						"name": "Atskaņotājs animācijām",
+						"description": "Uzlabots un ērts atskaņotājs garu animāciju skatīšanai"
+					}
+				]
+			}
+		},
+		{
+			"id": 2,
+			"name": "Profils",
+			"lastUpdate": "Pēdējā atjaunināšana: 2022. gada 20. augustā",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Sasniegumu paplašinājums",
+						"description": "Jaunu sasniegumu pievienošana"
+					},
+					{
+						"name": "Dažādi uzlabojumi un labojumi",
+						"description": "Kļūdu labojumi, veiktspējas uzlabojumi un daudz kas cits"
+					},
+					{
+						"name": "Personāži",
+						"description": "Profilā piešķirtās rakstzīmes"
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Rakstura pieredze",
+						"description": "Iespēja uzlabot savu raksturu un iegūt \"prasmes\", kuras var izmantot platformā"
+					},
+					{
+						"name": "Lietotāju vērtējums",
+						"description": "Globālais lietotāju vērtējums, kas ietekmēs atlīdzības lielumu, lietotāju ietekmes līmeni uz kopienu, piekļuvi dažādām kopienas aktivitātēm, kā arī iespēju kļūt par daļu no DUST Foundation komandas"
+					}
+				],
+				"done": [
+					{
+						"name": "Animācijas varonis Crypto Bum",
+						"description": "Foršs lietotāja personāžs personīgajā profilā"
+					},
+					{
+						"name": "Konfigurācijas",
+						"description": "Konta iestatījumi, mainiet paroli / vārdu / segvārdu / pasts / iemiesojums"
+					},
+					{
+						"name": "Informācija par lietotāja finansēm platformā",
+						"description": "Informācija par lietotāja finansēm platformā”"
+					},
+					{
+						"name": "Sasniegumu sadaļa",
+						"description": "Pievienoti 9 lietotāju sasniegumi"
+					},
+					{
+						"name": "Ikdienas atlīdzības sadaļa",
+						"description": "Ikdienas balvas, ar kurām lietotājs nopelna putekļu marķieri"
+					}
+				]
+			}
+		},
+		{
+			"id": 3,
+			"name": "Forums",
+			"lastUpdate": "Pēdējā atjaunināšana: 2022. gada 20. augustā",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Forge (vispārējs lietotāju balsojums)",
+						"description": "Vispārējs platformas lietotāju balsojums, kas ļaus ietekmēt produkta attīstību un jaunas funkcionalitātes izstrādes prioritāti"
+					}
+				],
+				"done": [
+					{
+						"name": "Izveidojiet un publicējiet ziņu",
+						"description": "Pievienojiet nosaukumu, iemiesojumu, aprakstu, tagu"
+					},
+					{
+						"name": "Ziņu filtrs",
+						"description": "Iespēja skatīt ziņas pēc filtra (\"visi\", \"jauni\", \"labākie\", \"manas ziņas\")"
+					},
+					{
+						"name": "Amatu vērtēšanas sistēma",
+						"description": "Ziņu globālais rangs, kas to paaugstina sarakstā, lai vairāk cilvēku to redzētu visvairāk\nnoderīgas ziņas"
+					},
+					{
+						"name": "Komentāri un atzīmes Patīk zem ieraksta",
+						"description": "Iespēja sadarboties starp lietotājiem un diskusijas tēmas kontekstā"
+					},
+					{
+						"name": "Post moderēšanas sistēma",
+						"description": "Amatu publicēšanas apstiprināšana / noraidīšana"
+					},
+					{
+						"name": "Post View Statistika",
+						"description": "Pamatstatistika par ziņu skatījumiem"
+					}
+				]
+			}
+		},
+		{
+			"id": 4,
+			"name": "Iestatījumi",
+			"lastUpdate": "Pēdējā atjaunināšana: 2022. gada 20. augustā",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "TBD",
+						"description": ""
+					}
+				],
+				"done": [
+					{
+						"name": "Platformas lokalizācija",
+						"description": "Ukraiņu un angļu valodu pievienošana"
+					},
+					{
+						"name": "Lietotāja personiskā informācija",
+						"description": "Segvārds un e-pasts"
+					},
+					{
+						"name": "2FA",
+						"description": "Divu faktoru autentifikācija"
+					},
+					{
+						"name": "Discord un Telegram integrācija (kopiena)",
+						"description": "Lietotāja savienojums ar nesaskaņu kopienu un telegrammu robotu (brīdinājumi un svarīgas ziņas platformā)"
+					},
+					{
+						"name": "Palīdzība",
+						"description": "Lietotāja uzņemšana platformā"
+					}
+				]
+			}
+		},
+		{
+			"id": 5,
+			"name": "Bilance un abonements",
+			"lastUpdate": "Pēdējā atjaunināšana: 2022. gada 20. augustā",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Apmaksa ar bankas kartēm",
+						"description": "Maksājums ar karti ērtākai iekļūšanai kriptogrāfijas domēnā iesācējiem"
+					},
+					{
+						"name": "Automātiska abonēšana",
+						"description": "Automātiski abonējiet, lai uzlabotu platformas lietotāja pieredzi"
+					}
+				],
+				"done": [
+					{
+						"name": "Valūtas apmaksas un saņemšanas mehānisms",
+						"description": "Ērts un vienkāršs mehānisms līdzsvara papildināšanai uz platformas"
+					},
+					{
+						"name": "Saglabājiet līdzekļus un norakstiet",
+						"description": "Droša līdzekļu glabāšana platformā un līdzekļu norakstīšana pakalpojumu iegādei"
+					},
+					{
+						"name": "Dažādi abonementu veidi",
+						"description": "“Platforma”, “kriptokopiena”, “Viss vienā”"
+					}
+				]
+			}
+		},
+		{
+			"id": 6,
+			"name": "Nesaskaņas",
+			"lastUpdate": "Pēdējā atjaunināšana: 2022. gada 20. augustā",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Detalizēta ķēdes analīze",
+						"description": ""
+					}
+				],
+				"done": [
+					{
+						"name": "Jauns Discord serveris",
+						"description": "Izveidots jauns nesaskaņu serveris"
+					},
+					{
+						"name": "Kopienas ekskluzīvi NFT kripto kāmji",
+						"description": ""
+					},
+					{
+						"name": "Plašs robotprogrammu klāsts ar ikdienas analīzi",
+						"description": ""
+					},
+					{
+						"name": "Dienas Kripto ziņas",
+						"description": ""
+					},
+					{
+						"name": "Iebūvēts “Vaļu brīdinājums”",
+						"description": ""
+					},
+					{
+						"name": "Kripto bērnudārzs ir pārveidots",
+						"description": ""
+					},
+					{
+						"name": "Bibliotēka",
+						"description": ""
+					},
+					{
+						"name": "Uzlabota drošība pret krāpniekiem",
+						"description": ""
+					},
+					{
+						"name": "Pārstrādāta atbalsta sistēma",
+						"description": ""
+					}
+				]
+			}
+		},
+		{
+			"id": 7,
+			"name": "Citi pakalpojumi",
+			"lastUpdate": "Pēdējā atjaunināšana: 2022. gada 20. augustā",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Kopienas Steakhub",
+						"description": "Iespēja iesaistīties labākajos kopienas projektos tirgū"
+					},
+					{
+						"name": "Kopienas vadīta palaišanas panelis",
+						"description": "Launchpad, kurā kopiena ir atbildīga par projektu atlasi un iekļaušanu sarakstā"
+					},
+					{
+						"name": "Automatizēts testa tīkls",
+						"description": "Princips ir vienkāršs: lietotājs maksā, un mēs darām visu melno darbu. Foršs veids, kā nopelnīt projekta žetonus, neko nedarot"
+					},
+					{
+						"name": "Indeksi",
+						"description": "Indeksi ar vērtējumu — kur lietotājs ar vienu klikšķi var iegādāties žetonu komplektu noteiktā proporcijā un neuzkāpt 10 biržās, meklējot šos pašus žetonus"
+					},
+					{
+						"name": "Auto aktīvu pirkšana/pārdošana biržās",
+						"description": "Automātiskā pirkšana/panikas pārdošana, lai lietotājs tērē mazāk nervu un viņa vērtīgā laika uzraudzības diagrammas"
+					},
+					{
+						"name": "Kripto maku",
+						"description": "Vienkāršs un ērts daudzķēžu maks"
+					},
+					{
+						"name": "Pielāgoti paziņojumi",
+						"description": "Elastīgi paziņojumi lietotājam ar telegrammu un nesaskaņu integrāciju: par noteiktas cenas aktīva sasniegšanu, aktīva iekļaušanu sarakstā, n% atbloķēšanu riska aktīvā utt."
+					}
+				],
+				"done": []
+			}
+		}
+	]
 }
