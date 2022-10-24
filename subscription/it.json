@@ -1,0 +1,101 @@
+{
+	"title": "Come ottenere l'accesso?",
+	"subtitle": "Per ottenere l'accesso, è necessario acquistare 1 abbonamento su 3.\n Puoi anche avere il periodo gratuito di 7 giorni.",
+	"select_subscription": "Seleziona Abbonamento",
+	"community": {
+		"title": "Criptocomunità",
+		"subtitle": "Comunità chiusa per i veri appassionati di criptovalute, che ti permetterà di essere sempre aggiornato di tutto ciò che accade nel settore.",
+		"item1": {
+			"title": "Lezioni",
+			"description": "Lezioni regolari dal vivo su vari argomenti, recensioni di mercato/portafoglio, conferenze e discussioni sulle criptovalute"
+		},
+		"item2": {
+			"title": "Analitica",
+			"description": "Analisi giornaliera della situazione di mercato, consigli per l'acquisto di asset"
+		},
+		"item3": {
+			"title": "Criptovalute",
+			"description": "Tracciamo e raccogliamo le ultime notizie dal mondo delle criptovalute in un unico posto, Twitter e Binance tracker"
+		},
+		"item4": {
+			"title": "Comunità",
+			"description": "Comunità amichevole e reattiva, comunicazione e feedback regolari, supporto e consigli operativi"
+		},
+		"item5": {
+			"title": "Biblioteca",
+			"description": "Una raccolta di link alle risorse più utili nel settore delle criptovalute in varie aree: CEX, DEX, Wallet, Analytics e altro..."
+		},
+		"item6": {
+			"title": "Whale Alert",
+			"description": "Tracciamento e pubblicazione di grandi transazioni, masterizzazioni e stampe all'interno di blockchain (in uno stile magico!)"
+		}
+	},
+	"platform": {
+		"title": "piattaforma",
+		"subtitle": "Tieni traccia delle prestazioni di tutti i tuoi investimenti in un posto comodo e comprensibile",
+		"notice": "Stiamo lavorando costantemente per migliorare la piattaforma e ci sforziamo di renderla più conveniente e utile per tutti. Altre fantastiche funzionalità in arrivo!",
+		"item1": {
+			"title": "Portafoglio",
+			"description": "Tieni traccia delle prestazioni dei tuoi portafogli in una comoda interfaccia. 3 tipi di portafogli: azionario, virtuale e venture"
+		},
+		"item2": {
+			"title": "Forum",
+			"description": "Crea articoli sulle criptovalute, chatta e discuti di idee, commenta e vota i post migliori"
+		},
+		"item3": {
+			"title": "Accademia",
+			"description": "Migliora la tua conoscenza di blockchain e criptovalute, completa corsi di formazione e ottieni risultati"
+		},
+		"item4": {
+			"title": "Profilo",
+			"description": "Fai evolvere il tuo personaggio, raccogli ricompense giornaliere e ottieni risultati unici per essere attivo"
+		}
+	},
+	"nft": {
+		"title": "<span>Criceti NFT</span> unici per veri spolverini!",
+		"description": "Per i primi 10.000 iscritti abbiamo realizzato una promozione storica! Quando tu\n iscriviti a Cryptocommunity o All in one per la prima volta, tu\n riceverà un Hamster NFT unico. accesso a prodotti futuri e\n eventi aziendali.",
+		"how_get_hamster": "Come ottenere un criceto?"
+	},
+	"hamster_modal": {
+		"description": "Puoi creare un criceto solo con l'abbonamento \"Cryptocommunity\" o \"All in One\". Il criceto generato ti viene assegnato in modo permanente. Ogni criceto ha una rarità da Comune a Raro e proprietà di generazione uniche: Sfondo, Emote, Cosa, Copricapo",
+		"ok": "Chiaro",
+		"step1": {
+			"title": "Passo 1",
+			"description": "Collega il tuo account discord al profilo"
+		},
+		"step2": {
+			"title": "Passo 2",
+			"description": "Vai su <a href=\"{{discordLink}}\" target=\"blank\">Dust Foundation Discord</a> e verifica"
+		},
+		"step3": {
+			"title": "Passaggio 3",
+			"description": "Apri il canale \"Generazione\" nella sezione \"Community\"."
+		},
+		"step4": {
+			"title": "Passaggio 4",
+			"description": "Premi il pulsante Genera"
+		},
+		"step5": {
+			"title": "Passaggio 5",
+			"description": "Congratulazioni, il tuo criceto più cool è stato generato!"
+		}
+	},
+	"subscriptions": {
+		"title": "I nostri abbonamenti",
+		"days": "giorni",
+		"tabs_notification": "Iscriviti per {{term}} giorni e ricevi {{bonusterm}} giorni gratis!",
+		"most_popular": "Più popolare",
+		"discount": "Risparmio",
+		"all_of": "Tutto di",
+		"all_types_portfolio": "Tutti i tipi di portafogli (3 in 1)",
+		"courses_academy": "Corsi dell'Accademia",
+		"forum": "Forum",
+		"private_telegram": "Telegramm privato",
+		"private_discord": "Server Discord privato",
+		"use_free": "Prova gratis",
+		"select_subscription": "Seleziona Abbonamento"
+	},
+	"reviews": {
+		"title": "Recensioni"
+	}
+}
