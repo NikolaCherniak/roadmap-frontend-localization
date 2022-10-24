@@ -3,5 +3,349 @@
 	"directions": "Direcciones",
 	"ready": "Listo",
 	"next_release": "Próximo lanzamiento",
-	"backlog": "Reserva"
+	"backlog": "Reserva",
+	"roadmap_list": [
+		{
+			"id": 0,
+			"name": "portafolio",
+			"lastUpdate": "Última actualización: 20 ago 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Mejoras y Mejoras de Portafolio",
+						"description": ""
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Integración de nuevos intercambios a la Cartera de Intercambio",
+						"description": "Agregar nuevos intercambios como OKX, Kucoin, Qmall, etc."
+					},
+					{
+						"name": "Portafolio Futuro",
+						"description": "Realice un seguimiento de las carteras de futuros con la integración de API"
+					}
+				],
+				"done": [
+					{
+						"name": "Portafolio Virtual",
+						"description": "Los usuarios pueden crear una cartera virtual con varios criptoactivos"
+					},
+					{
+						"name": "Cartera de intercambio (Binance)",
+						"description": "Los usuarios pueden crear una cartera de intercambio utilizando la API de integración"
+					},
+					{
+						"name": "Cartera de riesgo",
+						"description": "Los usuarios pueden crear una cartera de empresas con una personalización muy amplia (fechas de desbloqueo, TGE, etc.)"
+					}
+				]
+			}
+		},
+		{
+			"id": 1,
+			"name": "Academia",
+			"lastUpdate": "Última actualización: 20 ago 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Curso criptográfico de Superdummies",
+						"description": "Un curso simple de primeros pasos para los principiantes en criptografía más ecológicos"
+					},
+					{
+						"name": "Mejoras en el curso básico de criptomonedas",
+						"description": "Agregar nuevas animaciones con explicaciones de conceptos complejos, así como ampliar módulos"
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Curso de educación financiera",
+						"description": "Un curso sobre los fundamentos de la economía y fin. literatura"
+					},
+					{
+						"name": "Curso “Invertir: Tokensales”",
+						"description": "En términos simples sobre ICO, IDO, IEO y otros"
+					},
+					{
+						"name": "Simulador de comerciante",
+						"description": "Herramienta de formación ante el mercado real (spot, futuros)"
+					}
+				],
+				"done": [
+					{
+						"name": "Curso de Fundación de la Industria de Criptomonedas",
+						"description": "Un curso fundamental sobre criptomonedas con ilustraciones, diagramas y animaciones muy visuales."
+					},
+					{
+						"name": "Insignias de estudiante",
+						"description": "Los usuarios reciben 'medallas' por completar un curso con ciertas calificaciones"
+					},
+					{
+						"name": "Reproductor de animaciones",
+						"description": "Reproductor avanzado y conveniente para ver animaciones largas"
+					}
+				]
+			}
+		},
+		{
+			"id": 2,
+			"name": "Perfil",
+			"lastUpdate": "Última actualización: 20 ago 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Extensión de Logros",
+						"description": "Agregar nuevos logros"
+					},
+					{
+						"name": "Varias mejoras y correcciones.",
+						"description": "Corrección de errores, mejoras de rendimiento y más"
+					},
+					{
+						"name": "Caracteres",
+						"description": "Caracteres asignados al perfil"
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Experiencia de personaje",
+						"description": "La capacidad de actualizar tu personaje y obtener \"habilidades\" que se pueden usar en la plataforma"
+					},
+					{
+						"name": "Opiniones de los usuarios",
+						"description": "Calificación global de usuarios que afectará el tamaño de las recompensas, el nivel de influencia del usuario en la comunidad, el acceso a varias actividades de la comunidad, así como la oportunidad de formar parte del equipo de la Fundación DUST"
+					}
+				],
+				"done": [
+					{
+						"name": "Personaje animado Crypto Bum",
+						"description": "Genial personaje de usuario en perfil personal"
+					},
+					{
+						"name": "Configuraciones",
+						"description": "Configuración de la cuenta, cambiar contraseña/nombre/apodo/correo/avatar"
+					},
+					{
+						"name": "Información sobre las finanzas del usuario en la plataforma",
+						"description": "Información sobre las finanzas del usuario en la plataforma”"
+					},
+					{
+						"name": "Sección de logros",
+						"description": "Se agregaron 9 logros de usuario."
+					},
+					{
+						"name": "Sección de recompensas diarias",
+						"description": "Recompensas diarias con las que el usuario gana token de polvo"
+					}
+				]
+			}
+		},
+		{
+			"id": 3,
+			"name": "Foro",
+			"lastUpdate": "Última actualización: 20 ago 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Forge (voto general de los usuarios)",
+						"description": "Votación general de los usuarios de la plataforma que permitirá influir en el desarrollo del producto y la prioridad de desarrollar nuevas funcionalidades"
+					}
+				],
+				"done": [
+					{
+						"name": "Crear y publicar una publicación",
+						"description": "Agregar título, avatar, descripción, etiqueta"
+					},
+					{
+						"name": "Publicar filtro",
+						"description": "Posibilidad de ver publicaciones por filtro (\"todas\", \"nuevas\", \"mejores\", \"mis publicaciones\")"
+					},
+					{
+						"name": "Sistema de clasificación de puestos",
+						"description": "Ranking global de publicaciones que lo sube en la lista para que más personas vean más\npublicaciones útiles"
+					},
+					{
+						"name": "Comentarios y me gusta debajo de la publicación.",
+						"description": "Posibilidad de colaboración entre usuarios y debates en el contexto del tema"
+					},
+					{
+						"name": "Sistema de moderación posterior",
+						"description": "Aprobación/rechazo de la publicación de posts"
+					},
+					{
+						"name": "Estadísticas de visualización de publicaciones",
+						"description": "Estadísticas básicas sobre vistas de publicaciones"
+					}
+				]
+			}
+		},
+		{
+			"id": 4,
+			"name": "Ajustes",
+			"lastUpdate": "Última actualización: 20 ago 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Por determinar",
+						"description": ""
+					}
+				],
+				"done": [
+					{
+						"name": "Localización de plataforma",
+						"description": "Adición de idiomas ucraniano e inglés"
+					},
+					{
+						"name": "Información personal del usuario",
+						"description": "Apodo y correo electrónico"
+					},
+					{
+						"name": "2FA",
+						"description": "Autenticación de dos factores"
+					},
+					{
+						"name": "Integraciones de Discord y Telegram (comunidad)",
+						"description": "Conexión del usuario a la comunidad de discord y bot de telegram (alertas y noticias importantes en la plataforma)"
+					},
+					{
+						"name": "Ayuda",
+						"description": "Incorporación de usuarios en la plataforma"
+					}
+				]
+			}
+		},
+		{
+			"id": 5,
+			"name": "Saldo y Suscripción",
+			"lastUpdate": "Última actualización: 20 ago 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Pago con tarjetas bancarias",
+						"description": "Pago con tarjeta para una entrada más cómoda al criptodominio para principiantes"
+					},
+					{
+						"name": "Suscripción automática",
+						"description": "Suscripción automática para mejorar la experiencia del usuario con la plataforma"
+					}
+				],
+				"done": [
+					{
+						"name": "Mecanismo de pago y recibo de divisas",
+						"description": "Mecanismo conveniente y simple para reponer el saldo en la plataforma."
+					},
+					{
+						"name": "Mantener fondos y cancelar",
+						"description": "Almacenamiento seguro de fondos en la plataforma y cancelación de fondos para la compra de servicios"
+					},
+					{
+						"name": "Diferentes tipos de suscripción",
+						"description": "“Plataforma”, “criptocomunidad”, “Todo en uno”"
+					}
+				]
+			}
+		},
+		{
+			"id": 6,
+			"name": "Discordia",
+			"lastUpdate": "Última actualización: 20 ago 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Análisis detallado en cadena",
+						"description": ""
+					}
+				],
+				"done": [
+					{
+						"name": "Nuevo servidor de discordia",
+						"description": "Creé un nuevo servidor de discordia"
+					},
+					{
+						"name": "Hámsters criptográficos NFT exclusivos de la comunidad",
+						"description": ""
+					},
+					{
+						"name": "Amplia gama de bots con análisis diarios",
+						"description": ""
+					},
+					{
+						"name": "Criptonoticias diarias",
+						"description": ""
+					},
+					{
+						"name": "\"Alerta de ballenas\" incorporada",
+						"description": ""
+					},
+					{
+						"name": "Cripto vivero rediseñado",
+						"description": ""
+					},
+					{
+						"name": "Biblioteca",
+						"description": ""
+					},
+					{
+						"name": "Mejora de la seguridad contra los estafadores",
+						"description": ""
+					},
+					{
+						"name": "Sistema de soporte reelaborado",
+						"description": ""
+					}
+				]
+			}
+		},
+		{
+			"id": 7,
+			"name": "Otros servicios",
+			"lastUpdate": "Última actualización: 20 ago 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Steakhub de la comunidad",
+						"description": "Posibilidad de participar en los mejores proyectos del mercado para la comunidad"
+					},
+					{
+						"name": "Plataforma de lanzamiento impulsada por la comunidad",
+						"description": "Launchpad donde la comunidad es responsable de seleccionar y listar proyectos"
+					},
+					{
+						"name": "red de prueba automatizada",
+						"description": "El principio es simple: el usuario paga y nosotros hacemos todo el trabajo sucio. Manera genial de ganar fichas de proyecto sin hacer nada"
+					},
+					{
+						"name": "índices",
+						"description": "Índices con una calificación: donde un usuario puede comprar un conjunto de tokens en una cierta proporción con un solo clic y no escalar 10 intercambios en busca de estos mismos tokens"
+					},
+					{
+						"name": "Auto compra/venta de activos en bolsas",
+						"description": "Activos de compra automática / venta de pánico, para que el usuario gaste menos nervios y su valioso tiempo monitoreando gráficos"
+					},
+					{
+						"name": "Monedero criptográfico",
+						"description": "Cartera multicadena sencilla y cómoda"
+					},
+					{
+						"name": "Notificaciones personalizadas",
+						"description": "Notificaciones flexibles para el usuario con la integración de telegramas y discordia: sobre alcanzar un activo de un precio determinado, listar un activo, desbloquear n% en un activo de riesgo, etc."
+					}
+				],
+				"done": []
+			}
+		}
+	]
 }
