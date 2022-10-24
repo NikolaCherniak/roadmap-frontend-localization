@@ -1,0 +1,101 @@
+{
+	"title": "如何获得访问权？",
+	"subtitle": "为了获得访问权限，您必须购买 3 个订阅中的 1 个。\n 您也可以免费试用 7 天。",
+	"select_subscription": "选择订阅",
+	"community": {
+		"title": "加密社区",
+		"subtitle": "真正的加密爱好者的封闭社区，这将使您始终了解行业中发生的一切。",
+		"item1": {
+			"title": "训练",
+			"description": "关于各种主题的定期现场讲座、市场/投资组合评论、会议和有关加密货币的讨论"
+		},
+		"item2": {
+			"title": "分析",
+			"description": "每日市场情况分析摘要、资产购买建议和一组头寸"
+		},
+		"item3": {
+			"title": "加密新闻",
+			"description": "在一个地方跟踪和收集来自加密世界的最新消息，Twitter 和 Binance 跟踪器"
+		},
+		"item4": {
+			"title": "社区",
+			"description": "友好且反应迅速的社区，定期沟通和反馈，及时的支持和建议"
+		},
+		"item5": {
+			"title": "图书馆",
+			"description": "一系列指向加密行业各个领域最有用资源的链接：CEX、DEX、钱包、分析等等……"
+		},
+		"item6": {
+			"title": "鲸鱼警报",
+			"description": "在区块链中跟踪和发布大宗交易、燃烧和打印（以神奇的方式！）"
+		}
+	},
+	"platform": {
+		"title": "平台",
+		"subtitle": "在一个方便且易于理解的地方跟踪您所有投资的绩效",
+		"notice": "我们一直在努力改进平台，并努力使其对每个人都尽可能方便和有用。更多酷炫功能即将推出！",
+		"item1": {
+			"title": "文件夹",
+			"description": "在方便的界面中跟踪您的投资组合的表现。 3 种类型的投资组合：股票、虚拟和风险投资"
+		},
+		"item2": {
+			"title": "论坛",
+			"description": "创建有关加密货币的文章、聊天和讨论想法、评论和投票选出最佳帖子"
+		},
+		"item3": {
+			"title": "学院",
+			"description": "提升您对区块链和加密货币的知识，完成培训课程并获得成就"
+		},
+		"item4": {
+			"title": "轮廓",
+			"description": "进化你的角色，收集每日奖励并获得独特的活跃成就"
+		}
+	},
+	"nft": {
+		"title": "用于真正除尘器的独特<span>NFT 仓鼠</span>！",
+		"description": "对于前 10,000 名订阅者，我们进行了历史性的促销活动！当你\n 第一次订阅 Cryptocommunity 或 All in one，你\n 将获得一个独特的仓鼠 NFT。访问未来的产品和\n 公司活动。",
+		"how_get_hamster": "如何获得仓鼠？"
+	},
+	"hamster_modal": {
+		"description": "您只能创建订阅名称为“Cryptocommunity”或“All in One”的仓鼠。生成的仓鼠将永久分配给您。每只仓鼠都有从常见到稀有的稀有度和独特的生成属性：背景、表情、事物、头饰",
+		"ok": "清除",
+		"step1": {
+			"title": "步骤1",
+			"description": "将您的不和谐帐户连接到个人资料"
+		},
+		"step2": {
+			"title": "第2步",
+			"description": "前往<a href=\"{{discordLink}}\" target=\"blank\">Dust Foundation Discord</a>并验证"
+		},
+		"step3": {
+			"title": "第 3 步",
+			"description": "在“社区”部分打开“世代”频道"
+		},
+		"step4": {
+			"title": "第4步",
+			"description": "按生成按钮"
+		},
+		"step5": {
+			"title": "第 5 步",
+			"description": "恭喜，你最酷的仓鼠已经生成！"
+		}
+	},
+	"subscriptions": {
+		"title": "我们的订阅",
+		"days": "天",
+		"tabs_notification": "订阅 {{term}} 天并免费获得 {{bonusterm}} 天！",
+		"most_popular": "最受欢迎",
+		"discount": "储蓄",
+		"all_of": "所有的",
+		"all_types_portfolio": "所有类型的投资组合（三合一）",
+		"courses_academy": "学院课程",
+		"forum": "论坛",
+		"private_telegram": "私人电报",
+		"private_discord": "私人不和谐服务器",
+		"use_free": "免费试用",
+		"select_subscription": "选择订阅"
+	},
+	"reviews": {
+		"title": "评论"
+	}
+}

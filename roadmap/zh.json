@@ -1,0 +1,351 @@
+{
+	"back": "后退",
+	"directions": "方向",
+	"ready": "准备好",
+	"next_release": "下一个版本",
+	"backlog": "积压",
+	"roadmap_list": [
+		{
+			"id": 0,
+			"name": "文件夹",
+			"lastUpdate": "最后更新：2022 年 8 月 20 日",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "投资组合改进和改进",
+						"description": ""
+					}
+				],
+				"inResearch": [
+					{
+						"name": "将新交易所整合到交易所投资组合中",
+						"description": "新增OKX、Kucoin、Qmall等交易所"
+					},
+					{
+						"name": "未来投资组合",
+						"description": "通过 API 集成跟踪期货投资组合"
+					}
+				],
+				"done": [
+					{
+						"name": "虚拟投资组合",
+						"description": "用户可以使用各种加密资产创建虚拟投资组合"
+					},
+					{
+						"name": "交易所投资组合（币安）",
+						"description": "用户可以使用集成 API 创建交换组合"
+					},
+					{
+						"name": "风险投资组合",
+						"description": "用户可以创建具有非常广泛的自定义（解锁日期、TGE 等）的风险投资组合"
+					}
+				]
+			}
+		},
+		{
+			"id": 1,
+			"name": "学院",
+			"lastUpdate": "最后更新：2022 年 8 月 20 日",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Superdummies 加密课程",
+						"description": "为最环保的加密货币初学者准备的简单的第一步课程"
+					},
+					{
+						"name": "加密货币基础课程改进",
+						"description": "添加带有复杂概念解释的新动画，以及扩展模块"
+					}
+				],
+				"inResearch": [
+					{
+						"name": "金融知识课程",
+						"description": "关于经济学和金融学基础的课程。识字"
+					},
+					{
+						"name": "课程“投资：代币销售”",
+						"description": "简单来说关于 ICO、IDO、IEO 等"
+					},
+					{
+						"name": "交易者模拟器",
+						"description": "在真实市场（现货、期货）之前进行培训的工具"
+					}
+				],
+				"done": [
+					{
+						"name": "加密货币行业基础课程",
+						"description": "关于加密货币的基础课程，带有非常直观的插图、图表和动画"
+					},
+					{
+						"name": "学生徽章",
+						"description": "用户因完成特定成绩的课程而获得“奖牌”"
+					},
+					{
+						"name": "动画播放器",
+						"description": "用于观看长动画的先进和方便的播放器"
+					}
+				]
+			}
+		},
+		{
+			"id": 2,
+			"name": "轮廓",
+			"lastUpdate": "最后更新：2022 年 8 月 20 日",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "成就扩展",
+						"description": "添加新成就"
+					},
+					{
+						"name": "各种改进和修复",
+						"description": "错误修复、性能改进等"
+					},
+					{
+						"name": "人物",
+						"description": "配置文件分配的字符"
+					}
+				],
+				"inResearch": [
+					{
+						"name": "角色体验",
+						"description": "升级角色并获得可在平台上使用的“技能”的能力"
+					},
+					{
+						"name": "用户评分",
+						"description": "全球用户评分将影响奖励的大小、用户对社区的影响程度、参与各种社区活动的机会，以及成为 DUST 基金会团队一员的机会"
+					}
+				],
+				"done": [
+					{
+						"name": "加密流浪汉动画角色",
+						"description": "个人资料中的酷用户角色"
+					},
+					{
+						"name": "配置",
+						"description": "账户设置，更改密码/姓名/昵称/邮件/头像"
+					},
+					{
+						"name": "用户在平台上的财务信息",
+						"description": "用户在平台上的财务信息”"
+					},
+					{
+						"name": "成就部分",
+						"description": "添加了9个用户成就"
+					},
+					{
+						"name": "每日奖励部分",
+						"description": "用户赚取 Dust 代币的每日奖励"
+					}
+				]
+			}
+		},
+		{
+			"id": 3,
+			"name": "论坛",
+			"lastUpdate": "最后更新：2022 年 8 月 20 日",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Forge（普通用户投票）",
+						"description": "平台用户的一般投票，这将允许影响产品的开发和开发新功能的优先级"
+					}
+				],
+				"done": [
+					{
+						"name": "创建和发布帖子",
+						"description": "添加标题、头像、描述、标签"
+					},
+					{
+						"name": "后过滤器",
+						"description": "能够按过滤器查看帖子（“全部”、“新”、“最佳”、“我的帖子”）"
+					},
+					{
+						"name": "职位排名系统",
+						"description": "在列表中提高它的帖子的全球排名，以便更多的人看到最多\n有用的帖子"
+					},
+					{
+						"name": "帖子下的评论和喜欢",
+						"description": "用户之间的协作和主题背景下的讨论的可能性"
+					},
+					{
+						"name": "帖子审核系统",
+						"description": "批准/拒绝发布帖子"
+					},
+					{
+						"name": "发布视图统计",
+						"description": "帖子浏览量的基本统计"
+					}
+				]
+			}
+		},
+		{
+			"id": 4,
+			"name": "设置",
+			"lastUpdate": "最后更新：2022 年 8 月 20 日",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "待定",
+						"description": ""
+					}
+				],
+				"done": [
+					{
+						"name": "平台本地化",
+						"description": "添加乌克兰语和英语"
+					},
+					{
+						"name": "用户的个人信息",
+						"description": "昵称和电子邮件"
+					},
+					{
+						"name": "2FA",
+						"description": "双重身份验证"
+					},
+					{
+						"name": "Discord 和 Telegram 集成（社区）",
+						"description": "用户连接到不和谐社区和电报机器人（平台上的警报和重要新闻）"
+					},
+					{
+						"name": "帮助",
+						"description": "用户在平台上入职"
+					}
+				]
+			}
+		},
+		{
+			"id": 5,
+			"name": "余额和订阅",
+			"lastUpdate": "最后更新：2022 年 8 月 20 日",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "银行卡支付",
+						"description": "刷卡支付，让初学者更方便进入加密领域"
+					},
+					{
+						"name": "自动订阅",
+						"description": "自动订阅以改善平台的用户体验"
+					}
+				],
+				"done": [
+					{
+						"name": "货币收付机制",
+						"description": "在平台上补充余额的方便和简单的机制"
+					},
+					{
+						"name": "保留资金并注销",
+						"description": "在平台上安全存储资金并注销购买服务的资金"
+					},
+					{
+						"name": "不同的订阅类型",
+						"description": "“平台”、“加密社区”、“一体化”"
+					}
+				]
+			}
+		},
+		{
+			"id": 6,
+			"name": "不和谐",
+			"lastUpdate": "最后更新：2022 年 8 月 20 日",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "详细的链上分析",
+						"description": ""
+					}
+				],
+				"done": [
+					{
+						"name": "新的 Discord 服务器",
+						"description": "创建了一个新的不和谐服务器"
+					},
+					{
+						"name": "社区独家 NFT 加密仓鼠",
+						"description": ""
+					},
+					{
+						"name": "具有日常分析的各种机器人",
+						"description": ""
+					},
+					{
+						"name": "每日加密新闻",
+						"description": ""
+					},
+					{
+						"name": "内置“鲸鱼警报”",
+						"description": ""
+					},
+					{
+						"name": "加密托儿所重新设计",
+						"description": ""
+					},
+					{
+						"name": "图书馆",
+						"description": ""
+					},
+					{
+						"name": "提高对诈骗者的安全性",
+						"description": ""
+					},
+					{
+						"name": "重做的支持系统",
+						"description": ""
+					}
+				]
+			}
+		},
+		{
+			"id": 7,
+			"name": "其他服务",
+			"lastUpdate": "最后更新：2022 年 8 月 20 日",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "社区牛排中心",
+						"description": "为社区参与市场上顶级项目的可能性"
+					},
+					{
+						"name": "社区驱动的启动板",
+						"description": "社区负责选择和列出项目的 Launchpad"
+					},
+					{
+						"name": "自动化测试网",
+						"description": "原理很简单：用户付费，我们做所有的脏活。无需做任何事情即可赚取项目代币的酷方法"
+					},
+					{
+						"name": "索引",
+						"description": "带有评级的指数——用户可以一次点击购买一定比例的一组代币，而不用爬上 10 个交易所来寻找这些相同的代币"
+					},
+					{
+						"name": "在交易所自动买卖资产",
+						"description": "自动买入/恐慌卖出资产，让用户少花心思，用宝贵的时间监控图表"
+					},
+					{
+						"name": "加密钱包",
+						"description": "简单方便的多链钱包"
+					},
+					{
+						"name": "自定义通知",
+						"description": "通过电报和不和谐的集成为用户提供灵活的通知：关于达到某个价格的资产、列出资产、解锁风险资产中的 n% 等"
+					}
+				],
+				"done": []
+			}
+		}
+	]
+}

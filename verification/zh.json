@@ -1,0 +1,12 @@
+{
+	"title": "<span>官方</span>验证",
+	"content": "谨防骗子。输入您的电子邮件地址、电话号码、\n 电报昵称检查来源是否经过验证和官方\n 属于尘埃基金会。",
+	"search": "搜索",
+	"modal": {
+		"ok": "好的",
+		"verified_source": "已验证来源",
+		"not_verified_source": "来源未核实",
+		"not_verified_source_content": "您输入的来源不是 Dust Foundation 的官方域名。请小心，仅与经过验证的官方 Dust Foundation 来源互动。",
+		"verified_source_content": "您输入的来源已经过验证，是 Dust Foundation 的官方域名。"
+	}
+}

@@ -1,0 +1,79 @@
+{
+	"title": "便捷服务生态系统",
+	"single_subscription_for_all_products": "所有产品的单一订阅",
+	"learn_more": "学到更多",
+	"crypto_enthusiasts": "加密爱好者",
+	"investors": "投资者",
+	"traders": "贸易商",
+	"cover_description": "DUST 是一个由相互连接的加密产品组成的生态系统，旨在促进\n 使用加密货币并加速其大规模采用。",
+	"cryptocommunity": "加密社区",
+	"platform": "平台",
+	"links": {
+		"cryptocommunity_description": "志同道合的人、专家和加密爱好者的社区",
+		"platform_description": "在一个地方跟踪您所有投资的表现"
+	},
+	"services": {
+		"title": "我们的解决方案",
+		"subtitle": "我们专注于为加密爱好者开发有用的服务",
+		"show_future_solutions": "展示未来解决方案",
+		"cryptocommunity": {
+			"description": "志同道合的人、专家和加密爱好者的社区"
+		},
+		"portfolio": {
+			"title": "文件夹",
+			"description": "跟踪您的加密资产并查看您的投资组合"
+		},
+		"academy": {
+			"title": "学院",
+			"description": "一个地方用简单的词表达最复杂的主题"
+		},
+		"forum": {
+			"title": "论坛",
+			"description": "交流、分享和建议我们希望实施的酷炫功能"
+		},
+		"wallet": {
+			"title": "钱包",
+			"description": "用于（多链）加密货币存储的最简单、最方便的钱包"
+		},
+		"indexes": {
+			"title": "索引",
+			"description": "针对各种口味和颜色、风险和利润的平衡加密指数"
+		},
+		"crypto_calendar": {
+			"title": "加密日历",
+			"description": "在一个地方跟踪加密世界中最重要的事件"
+		},
+		"alerts": {
+			"title": "警报",
+			"description": "用于自动化和简化资产跟踪的灵活系统"
+		},
+		"stake_hub": {
+			"title": "权益中心",
+			"description": "通过推广 Adoption 将我们最喜欢的加密资产放在一起"
+		},
+		"forge": {
+			"title": "锻造",
+			"description": "投票，做出影响我们社区的重要决定"
+		},
+		"launchpad": {
+			"title": "发射台",
+			"description": "社区驱动的启动板，用于启动和推广项目"
+		},
+		"research_crypto": {
+			"title": "研究加密货币",
+			"description": "收集有关项目和进行研究的所有最新信息"
+		}
+	},
+	"roadmap": {
+		"title": "路线图",
+		"item1": "<ul><li>产品组合功能改进</li><li>封闭测试版</li><li>准备发布</li><li>启动 MVP 和企业网站</li><li>新改进的社区 Discord 服务器</li></ul>",
+		"item2": "<ul><li>将所有服务本地化，进军全球市场</li><li>启动研究加密</li><li>启动社区池</li><li>启动索引</li></ul>",
+		"item3": "<ul><li>组建团队</li><li>开发MVP：<ul><li>文件夹</li><li>学院</ li><li>论坛</li></ul></li><li>创建架构</li><li>创建设计系统</li><li>假设检验</li></ul>",
+		"item4": "<ul><li>为学院创建新的培训课程</li><li>实施警报</li><li>实施加密日历</li><li >启动 Stake HUB</li><li>创建 MVP 钱包</li></ul>"
+	},
+	"register": {
+		"title": "成为社区的一员！",
+		"subtitle": "在平台上注册一个帐户并激活一个免费的 7 天期限 :)",
+		"create_account_free": "免费创建一个帐户"
+	}
+}
