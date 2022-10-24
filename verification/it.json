@@ -1,0 +1,12 @@
+{
+	"title": "Verifica <span>ufficiale</span>",
+	"content": "Attenzione ai truffatori. Inserisci il tuo indirizzo email, numero di telefono,\n Soprannome di Telegram per verificare se la fonte è verificata e ufficialmente\n appartiene alla Dust Foundation.",
+	"search": "Ricerca",
+	"modal": {
+		"ok": "Ok",
+		"verified_source": "Fonte verificata",
+		"not_verified_source": "Fonte non verificata",
+		"not_verified_source_content": "La fonte che hai inserito non è un dominio ufficiale di Dust Foundation. Si prega di fare attenzione e di interagire solo con fonti ufficiali verificate dalla Dust Foundation.",
+		"verified_source_content": "La fonte che hai inserito è verificata ed è un dominio ufficiale di Dust Foundation."
+	}
+}
