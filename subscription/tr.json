@@ -1,0 +1,101 @@
+{
+	"title": "Nasıl erişim sağlanır?",
+	"subtitle": "Erişim kazanmak için 3 abonelikten birini satın almalısınız.\n Ayrıca 7 günlük ücretsiz deneme sürümünü deneyebilirsiniz.",
+	"select_subscription": "Aboneliği Seçin",
+	"community": {
+		"title": "kripto topluluğu",
+		"subtitle": "Sektörde olan her şeyden her zaman haberdar olmanızı sağlayacak gerçek kripto meraklıları için kapalı topluluk.",
+		"item1": {
+			"title": "Eğitim",
+			"description": "Çeşitli konularda düzenli canlı dersler, piyasa/portföy incelemeleri, konferanslar ve kripto para birimleri hakkında tartışmalar"
+		},
+		"item2": {
+			"title": "Analitik",
+			"description": "Piyasa durumuna ilişkin analizlerin günlük özeti, varlık alımları için öneriler ve bir dizi pozisyon"
+		},
+		"item3": {
+			"title": "Kripto Haberleri",
+			"description": "Kripto dünyasından en son haberleri tek bir yerde takip etme ve toplama, Twitter ve Binance takipçisi"
+		},
+		"item4": {
+			"title": "Toplum",
+			"description": "Dost canlısı ve duyarlı topluluk, düzenli iletişim ve geri bildirim, hızlı destek ve tavsiye"
+		},
+		"item5": {
+			"title": "Kütüphane",
+			"description": "CEX, DEX, Cüzdanlar, Analitik ve daha fazlası: Kripto endüstrisindeki çeşitli alanlardaki en faydalı kaynaklara bağlantılar koleksiyonu..."
+		},
+		"item6": {
+			"title": "Balina Uyarısı",
+			"description": "Blok zincirlerdeki büyük işlemleri, yakmaları ve baskıları takip etme ve yayınlama (büyülü bir tarzda!)"
+		}
+	},
+	"platform": {
+		"title": "platform",
+		"subtitle": "Tüm yatırımlarınızın performansını tek bir kullanışlı ve anlaşılır yerden takip edin",
+		"notice": "Sürekli olarak platformu geliştirmek için çalışıyoruz ve onu herkes için mümkün olduğunca kullanışlı ve kullanışlı hale getirmeye çalışıyoruz. Daha güzel özellikler yakında geliyor!",
+		"item1": {
+			"title": "portföy",
+			"description": "Portföylerinizin performansını uygun bir arayüzde takip edin. 3 çeşit portföy: hisse senedi, sanal ve girişim"
+		},
+		"item2": {
+			"title": "Forum",
+			"description": "Kripto para birimleri hakkında makaleler oluşturun, sohbet edin ve fikirleri tartışın, en iyi gönderilere yorum yapın ve oy verin"
+		},
+		"item3": {
+			"title": "Akademi",
+			"description": "Blockchain ve kripto para birimleri hakkındaki bilginizi yükseltin, eğitim kurslarını tamamlayın ve başarılar elde edin"
+		},
+		"item4": {
+			"title": "Profil",
+			"description": "Karakterinizi geliştirin, günlük ödüller toplayın ve aktif olduğunuz için benzersiz başarılar elde edin"
+		}
+	},
+	"nft": {
+		"title": "Gerçek tozcular için benzersiz <span>NFT Hamsterler</span> !",
+		"description": "İlk 10.000 abone için tarihi bir promosyon yaptık! Sen ne zaman\n Cryptocommunity'ye veya Hepsi Bir Arada'ya ilk kez abone olun,\n benzersiz bir Hamster NFT alacak. gelecekteki ürünlere erişim ve\n şirket etkinlikleri.",
+		"how_get_hamster": "Bir hamster nasıl alınır?"
+	},
+	"hamster_modal": {
+		"description": "Yalnızca “Cryptocommunity” veya “All in One” abonelik adıyla bir hamster oluşturabilirsiniz. Üretilen hamster kalıcı olarak size atanır. Her hamster, Ortak'tan Nadir'e kadar bir nadirliğe ve benzersiz nesil özelliklerine sahiptir: Arka Plan, İfade, Şey, Başlık",
+		"ok": "Temizlemek",
+		"step1": {
+			"title": "Aşama 1",
+			"description": "Discord hesabınızı profile bağlayın"
+		},
+		"step2": {
+			"title": "Adım 2",
+			"description": "<a href=\"{{discordLink}}\" target=\"blank\">Dust Foundation Discord&#39;a</a> gidin ve doğrulayın"
+		},
+		"step3": {
+			"title": "Aşama 3",
+			"description": "“Topluluk” bölümünde “Nesil” kanalını açın"
+		},
+		"step4": {
+			"title": "4. Adım",
+			"description": "Oluştur düğmesine basın"
+		},
+		"step5": {
+			"title": "Adım 5",
+			"description": "Tebrikler, en havalı hamsterınız üretildi!"
+		}
+	},
+	"subscriptions": {
+		"title": "Aboneliklerimiz",
+		"days": "günler",
+		"tabs_notification": "{{term}} gün boyunca abone olun ve {{bonusterm}} gün ücretsiz kazanın!",
+		"most_popular": "En popüler",
+		"discount": "tasarruf",
+		"all_of": "Hepsi",
+		"all_types_portfolio": "Her türlü portföy (3'ü 1 arada)",
+		"courses_academy": "Akademi Kursları",
+		"forum": "Forum",
+		"private_telegram": "Özel Telgraf",
+		"private_discord": "Özel Discord Sunucusu",
+		"use_free": "Ücretsiz deneyin",
+		"select_subscription": "Aboneliği Seçin"
+	},
+	"reviews": {
+		"title": "İncelemeler"
+	}
+}

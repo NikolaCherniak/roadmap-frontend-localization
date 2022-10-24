@@ -1,0 +1,351 @@
+{
+	"back": "Geri",
+	"directions": "Talimatlar",
+	"ready": "Hazır",
+	"next_release": "Sonraki sürüm",
+	"backlog": "iş listesi",
+	"roadmap_list": [
+		{
+			"id": 0,
+			"name": "portföy",
+			"lastUpdate": "Son güncelleme: 20 Ağu 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Portföy İyileştirmeleri ve İyileştirmeleri",
+						"description": ""
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Yeni borsaların Borsa Portföyüne entegrasyonu",
+						"description": "OKX, Kucoin, Qmall gibi yeni borsalar eklendi."
+					},
+					{
+						"name": "Gelecek Portföy",
+						"description": "API entegrasyonu ile vadeli işlem portföylerini izleyin"
+					}
+				],
+				"done": [
+					{
+						"name": "Sanal Portföy",
+						"description": "Kullanıcılar, çeşitli kripto varlıklarıyla sanal bir portföy oluşturabilir"
+					},
+					{
+						"name": "Borsa Portföyü (Binance)",
+						"description": "Kullanıcılar, entegrasyon API'sini kullanarak bir değişim portföyü oluşturabilir"
+					},
+					{
+						"name": "Girişim Portföyü",
+						"description": "Kullanıcılar, çok geniş özelleştirme (kilit açma tarihleri, TGE, vb.)"
+					}
+				]
+			}
+		},
+		{
+			"id": 1,
+			"name": "Akademi",
+			"lastUpdate": "Son güncelleme: 20 Ağu 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Süper Kuklalar Kripto Kursu",
+						"description": "En çevreci kripto yeni başlayanlar için basit bir ilk adım kursu"
+					},
+					{
+						"name": "Cryptocurrency Foundation Kursu İyileştirmeleri",
+						"description": "Genişleyen modüllerin yanı sıra karmaşık kavramların açıklamalarıyla yeni animasyonlar ekleme"
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Finansal Okuryazarlık Kursu",
+						"description": "Ekonominin temelleri ve fin hakkında bir kurs. okuryazarlık"
+					},
+					{
+						"name": "“Yatırım: Jeton Satışları” Kursu",
+						"description": "ICO, IDO, IEO ve diğerleri hakkında basit terimlerle"
+					},
+					{
+						"name": "Tüccar Simülatörü",
+						"description": "Gerçek piyasadan önce eğitim için araç (spot, vadeli işlemler)"
+					}
+				],
+				"done": [
+					{
+						"name": "Kripto Para Birimi Endüstrisi Kursunun Temeli",
+						"description": "Çok görsel çizimler, diyagramlar ve animasyonlarla kripto para birimleri hakkında temel bir kurs"
+					},
+					{
+						"name": "Öğrenci Rozetleri",
+						"description": "Kullanıcılar, belirli notlarla bir kursu tamamladıkları için 'madalyalar' alırlar."
+					},
+					{
+						"name": "Animasyonlar için oyuncu",
+						"description": "Uzun animasyonları izlemek için gelişmiş ve kullanışlı oynatıcı"
+					}
+				]
+			}
+		},
+		{
+			"id": 2,
+			"name": "Profil",
+			"lastUpdate": "Son güncelleme: 20 Ağu 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [
+					{
+						"name": "Başarılar Uzantısı",
+						"description": "Yeni başarılar ekleme"
+					},
+					{
+						"name": "Çeşitli iyileştirmeler ve düzeltmeler",
+						"description": "Hata düzeltmeleri, performans iyileştirmeleri ve daha fazlası"
+					},
+					{
+						"name": "karakterler",
+						"description": "Profil tarafından atanan karakterler"
+					}
+				],
+				"inResearch": [
+					{
+						"name": "Karakter Deneyimi",
+						"description": "Karakterinizi yükseltme ve platformda kullanılabilecek \"beceriler\" elde etme yeteneği"
+					},
+					{
+						"name": "Kullanıcı oyu",
+						"description": "Ödüllerin boyutunu, topluluk üzerindeki kullanıcı etki düzeyini, çeşitli topluluk etkinliklerine erişimi ve ayrıca DUST Foundation ekibinin bir parçası olma fırsatını etkileyecek küresel kullanıcı derecelendirmesi"
+					}
+				],
+				"done": [
+					{
+						"name": "Kripto Serseri Animasyon Karakteri",
+						"description": "Kişisel profilde havalı kullanıcı karakteri"
+					},
+					{
+						"name": "Yapılandırmalar",
+						"description": "Hesap ayarları, şifre/ad/takma ad/posta/avatar değiştir"
+					},
+					{
+						"name": "Kullanıcının platformdaki mali durumu hakkında bilgi",
+						"description": "Kullanıcının platformdaki mali durumu hakkında bilgi”"
+					},
+					{
+						"name": "Başarılar bölümü",
+						"description": "9 kullanıcı başarısı eklendi"
+					},
+					{
+						"name": "Günlük Ödüller Bölümü",
+						"description": "Kullanıcının Dust jetonu kazandığı günlük ödüller"
+					}
+				]
+			}
+		},
+		{
+			"id": 3,
+			"name": "Forum",
+			"lastUpdate": "Son güncelleme: 20 Ağu 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Forge (kullanıcılar için genel oy)",
+						"description": "Ürünün gelişimini etkilemeye izin verecek platform kullanıcılarının genel oylaması ve yeni işlevsellik geliştirmenin önceliği"
+					}
+				],
+				"done": [
+					{
+						"name": "Bir gönderi oluşturun ve yayınlayın",
+						"description": "Başlık, avatar, açıklama, etiket ekle"
+					},
+					{
+						"name": "Mesaj filtresi",
+						"description": "Gönderileri filtreye göre görüntüleme (\"tümü\", \"yeni\", \"en iyi\", \"gönderilerim\")"
+					},
+					{
+						"name": "Mesajlar için sıralama sistemi",
+						"description": "Daha fazla kişinin en çok görmesi için onu listede yükselten gönderilerin küresel sıralaması\nfaydalı gönderiler"
+					},
+					{
+						"name": "Gönderinin altındaki yorumlar ve beğeniler",
+						"description": "Konu bağlamında kullanıcılar ve tartışmalar arasında işbirliği imkanı"
+					},
+					{
+						"name": "Post moderasyon sistemi",
+						"description": "Gönderilerin yayınlanmasının onaylanması/reddedilmesi"
+					},
+					{
+						"name": "Görüntüleme İstatistikleri Gönder",
+						"description": "Gönderi görüntülemeleriyle ilgili temel istatistikler"
+					}
+				]
+			}
+		},
+		{
+			"id": 4,
+			"name": "Ayarlar",
+			"lastUpdate": "Son güncelleme: 20 Ağu 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "TBD",
+						"description": ""
+					}
+				],
+				"done": [
+					{
+						"name": "Platform yerelleştirme",
+						"description": "Ukraynaca ve İngilizce dilleri ekleme"
+					},
+					{
+						"name": "Kullanıcının kişisel bilgileri",
+						"description": "Takma ad ve e-posta"
+					},
+					{
+						"name": "2FA",
+						"description": "İki faktörlü kimlik doğrulama"
+					},
+					{
+						"name": "Discord ve Telegram entegrasyonları (topluluk)",
+						"description": "Discord topluluğuna ve telegram botuna kullanıcı bağlantısı (platformdaki uyarılar ve önemli haberler)"
+					},
+					{
+						"name": "Yardım",
+						"description": "Kullanıcının platforma katılımı"
+					}
+				]
+			}
+		},
+		{
+			"id": 5,
+			"name": "Bakiye ve Abonelik",
+			"lastUpdate": "Son güncelleme: 20 Ağu 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Banka kartlarıyla ödeme",
+						"description": "Yeni başlayanlar için kripto alanına daha rahat giriş için kartla ödeme"
+					},
+					{
+						"name": "Otomatik Abone Ol",
+						"description": "Platformla kullanıcı deneyimini geliştirmek için otomatik abone olun"
+					}
+				],
+				"done": [
+					{
+						"name": "Para birimi ödeme ve makbuz mekanizması",
+						"description": "Platformdaki dengeyi yenilemek için kullanışlı ve basit mekanizma"
+					},
+					{
+						"name": "Fonları saklayın ve yazın",
+						"description": "Fonların platformda güvenli bir şekilde depolanması ve hizmetlerin satın alınması için fonların silinmesi"
+					},
+					{
+						"name": "Farklı abonelik türleri",
+						"description": "“Platform”, “kripto topluluk”, “Hepsi bir arada”"
+					}
+				]
+			}
+		},
+		{
+			"id": 6,
+			"name": "anlaşmazlık",
+			"lastUpdate": "Son güncelleme: 20 Ağu 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Ayrıntılı zincir içi analitik",
+						"description": ""
+					}
+				],
+				"done": [
+					{
+						"name": "Yeni Discord Sunucusu",
+						"description": "Yeni bir discord sunucusu oluşturuldu"
+					},
+					{
+						"name": "Topluluğa Özel NFT Kripto Hamsterleri",
+						"description": ""
+					},
+					{
+						"name": "Günlük analizlere sahip çok çeşitli botlar",
+						"description": ""
+					},
+					{
+						"name": "Günlük Kripto Haberleri",
+						"description": ""
+					},
+					{
+						"name": "Dahili “Balina Uyarısı”",
+						"description": ""
+					},
+					{
+						"name": "Kripto Kreş Yeniden Tasarlandı",
+						"description": ""
+					},
+					{
+						"name": "Kütüphane",
+						"description": ""
+					},
+					{
+						"name": "Dolandırıcılara karşı geliştirilmiş güvenlik",
+						"description": ""
+					},
+					{
+						"name": "Yeniden işlenmiş destek sistemi",
+						"description": ""
+					}
+				]
+			}
+		},
+		{
+			"id": 7,
+			"name": "Diğer servisler",
+			"lastUpdate": "Son güncelleme: 20 Ağu 2022",
+			"description": "",
+			"tasks": {
+				"inProgress": [],
+				"inResearch": [
+					{
+						"name": "Topluluk Biftek Merkezi",
+						"description": "Topluluk için piyasadaki en iyi projelere girme imkanı"
+					},
+					{
+						"name": "Topluluk Odaklı Başlatma Paneli",
+						"description": "Projelerin seçilmesi ve listelenmesinden topluluğun sorumlu olduğu Launchpad"
+					},
+					{
+						"name": "Otomatik test ağı",
+						"description": "İlke basittir: kullanıcı öder ve tüm kirli işleri biz yaparız. Hiçbir şey yapmadan proje jetonları kazanmanın harika yolu"
+					},
+					{
+						"name": "dizinler",
+						"description": "Derecelendirmeye sahip endeksler - bir kullanıcının tek bir tıklamayla belirli bir oranda bir dizi jeton satın alabileceği ve aynı jetonları aramak için 10 borsaya tırmanmadığı endeksler"
+					},
+					{
+						"name": "Borsalarda otomatik alım/satım varlıkları",
+						"description": "Varlıkları otomatik satın al / Panik sat, böylece kullanıcı daha az sinir harcar ve değerli zamanını izleme çizelgeleri harcar"
+					},
+					{
+						"name": "Kripto Cüzdanı",
+						"description": "Basit ve kullanışlı çok zincirli cüzdan"
+					},
+					{
+						"name": "Özel bildirimler",
+						"description": "Telgraf ve discord entegrasyonu ile kullanıcı için esnek bildirimler: belirli bir fiyattaki bir varlığa ulaşma, bir varlığı listeleme, bir girişim varlığında %n'nin kilidini açma, vb."
+					}
+				],
+				"done": []
+			}
+		}
+	]
+}

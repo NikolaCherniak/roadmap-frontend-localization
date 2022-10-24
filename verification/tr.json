@@ -1,0 +1,12 @@
+{
+	"title": "<span>Resmi</span> doğrulama",
+	"content": "Dolandırıcılara karşı dikkatli olun. E-posta adresinizi, telefon numaranızı girin,\n Kaynağın doğrulanıp doğrulanmadığını ve resmi olarak kontrol etmek için telgraf takma adı\n Toz Vakfı'na aittir.",
+	"search": "Arama",
+	"modal": {
+		"ok": "Tamam",
+		"verified_source": "Doğrulanmış kaynak",
+		"not_verified_source": "Kaynak doğrulanmadı",
+		"not_verified_source_content": "Girdiğiniz kaynak resmi bir Dust Foundation etki alanı değil. Lütfen dikkatli olun ve yalnızca doğrulanmış resmi Dust Foundation kaynaklarıyla etkileşim kurun.",
+		"verified_source_content": "Girdiğiniz kaynak doğrulandı ve resmi bir Dust Foundation etki alanı."
+	}
+}

@@ -1,0 +1,79 @@
+{
+	"title": "için Uygun Hizmetler Ekosistemi",
+	"single_subscription_for_all_products": "Tüm ürünler için tek abonelik",
+	"learn_more": "Daha fazla bilgi edin",
+	"crypto_enthusiasts": "kripto meraklıları",
+	"investors": "yatırımcılar",
+	"traders": "tüccarlar",
+	"cover_description": "DUST, kolaylaştırmak için tasarlanmış birbirine bağlı kripto ürünlerinden oluşan bir ekosistemdir.\n kripto para birimlerinin kullanımı ve kitlesel olarak benimsenmesini hızlandırır.",
+	"cryptocommunity": "kripto topluluğu",
+	"platform": "platformu",
+	"links": {
+		"cryptocommunity_description": "Benzer düşünen insanlar, uzmanlar ve kripto meraklıları topluluğu",
+		"platform_description": "Tüm yatırımlarınızın performansını tek bir yerden takip edin"
+	},
+	"services": {
+		"title": "Çözümlerimiz",
+		"subtitle": "Kripto meraklıları için faydalı hizmetler geliştirmeye odaklanıyoruz",
+		"show_future_solutions": "Gelecekteki Çözümleri Göster",
+		"cryptocommunity": {
+			"description": "Benzer düşünen insanlar, uzmanlar ve kripto meraklıları topluluğu"
+		},
+		"portfolio": {
+			"title": "portföy",
+			"description": "Kripto varlıklarınızı takip edin ve portföyünüzü izleyin"
+		},
+		"academy": {
+			"title": "Akademi",
+			"description": "Tek bir yerde basit kelimelerle en karmaşık konular"
+		},
+		"forum": {
+			"title": "Forum",
+			"description": "Uygulamak istediğimiz harika özellikleri iletin, paylaşın ve önerin"
+		},
+		"wallet": {
+			"title": "Cüzdan",
+			"description": "Kripto para birimlerinin (MultiChain) depolanması için en kolay ve en uygun cüzdan"
+		},
+		"indexes": {
+			"title": "dizinler",
+			"description": "Her zevk ve renk, risk ve kâr için dengeli kripto endeksleri"
+		},
+		"crypto_calendar": {
+			"title": "kripto takvimi",
+			"description": "Kripto dünyasındaki en önemli olayları tek bir yerden takip edin"
+		},
+		"alerts": {
+			"title": "uyarılar",
+			"description": "Varlık takibini otomatikleştirmek ve basitleştirmek için esnek bir sistem"
+		},
+		"stake_hub": {
+			"title": "Bahis Merkezi",
+			"description": "Evlat Edinmeyi teşvik ederek favori kripto varlıklarımızı bir araya getirmek"
+		},
+		"forge": {
+			"title": "dövme",
+			"description": "Oy verin, topluluğumuzu etkileyen önemli kararlar alın"
+		},
+		"launchpad": {
+			"title": "Başlatma paneli",
+			"description": "Projeleri başlatmak ve teşvik etmek için Topluluk Odaklı fırlatma rampası"
+		},
+		"research_crypto": {
+			"title": "Araştırma kripto",
+			"description": "Projeler hakkında en son bilgileri toplamak ve Araştırma yapmak"
+		}
+	},
+	"roadmap": {
+		"title": "Yol Haritası",
+		"item1": "<ul><li>Portföy Özelliği İyileştirmeleri</li><li> Kapalı Beta</li><li> Yayına hazırlanıyor</li><li> MVP ve Kurumsal Sitenin Başlatılması</li><li> Yeni geliştirilmiş topluluk Discord sunucusu</li></ul>",
+		"item2": "<ul><li>Tüm hizmetleri yerelleştirin, küresel pazara girin</li><li> Araştırma kriptosunu başlat</li><li> Topluluk havuzlarını başlat</li><li> Dizinleri Başlat</li></ul>",
+		"item3": "<ul><li>Ekip Oluşturma</li><li> Bir MVP Geliştirmek:<ul><li> portföy</li><li> Akademi</ li><li> Forum</li></ul></li><li> Bir mimari oluşturmak</li><li> Bir tasarım sistemi oluşturmak</li><li> Hipotez testi</li></ul>",
+		"item4": "<ul><li>Akademi için yeni eğitim kursları oluşturun</li><li> Uyarıları Uygula</li><li> Kripto takvimini uygula</li><li > Stake HUB&#39;ı Başlatma</li><li> MVP Cüzdanı Oluşturma</li></ul>"
+	},
+	"register": {
+		"title": "Topluluğun bir parçası olun!",
+		"subtitle": "Bir hesap açın ve platformda 7 günlük ücretsiz bir süreyi etkinleştirin :)",
+		"create_account_free": "Ücretsiz hesap oluştur"
+	}
+}
