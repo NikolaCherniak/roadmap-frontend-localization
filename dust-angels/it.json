@@ -1,0 +1,28 @@
+{
+	"bro": {
+		"content": "Gli appassionati di criptovalute che sono particolarmente interessati allo sviluppo della comunità e del settore delle criptovalute in generale. Crypto fanatici che vogliono supportare il progetto e diventarne parte. Sviluppa e migliora con noi.",
+		"modal": {
+			"offer_text_label": "Come puoi aiutarci?"
+		}
+	},
+	"angels": {
+		"content": "Investitori per rapporti seri, pronti per la piena interazione e collaborazione. Le aziende che si impegnano a ridimensionare e sviluppare il progetto, desiderose di fare hackathon comuni, conferenze congiunte, unire le comunità, far avanzare il settore, sono pronte per collaborazioni paritarie.",
+		"modal": {
+			"offer_size_label": "Sono interessato ad investire"
+		}
+	},
+	"send": "Inviare",
+	"become": "Diventare",
+	"validation_messages": {
+		"required": "Questo campo è obbligatorio",
+		"invalid_email": "Inserisci una email valida"
+	},
+	"success_message": "Offerta inviata con successo",
+	"error_message": "Si è verificato un errore durante l'invio di un'offerta",
+	"offer_sizes": [
+		"a 10 000$",
+		"da 10 000$ a 100 000$",
+		"da 100 000$ a 1 000 000$",
+		"oltre 1 000 000$"
+	]
+}

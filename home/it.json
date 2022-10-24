@@ -1,0 +1,79 @@
+{
+	"title": "Ecosistema dei Servizi convenienti per",
+	"single_subscription_for_all_products": "Abbonamento unico per tutti i prodotti",
+	"learn_more": "Scopri di più",
+	"crypto_enthusiasts": "appassionati di criptovalute",
+	"investors": "investitori",
+	"traders": "commercianti",
+	"cover_description": "DUST è un ecosistema di prodotti criptovaluta interconnessi progettati per facilitare l'utilizzo di criptovalute e accelerare la loro proliferazione di massa.",
+	"cryptocommunity": "Criptocomunità",
+	"platform": "piattaforma",
+	"links": {
+		"cryptocommunity_description": "Comunità di persone che la pensano allo stesso modo, esperti e appassionati di criptovalute",
+		"platform_description": "Tieni traccia delle prestazioni di tutti i tuoi investimenti in un unico posto"
+	},
+	"services": {
+		"title": "Le nostre soluzioni",
+		"subtitle": "Ci concentriamo sullo sviluppo di servizi utili per gli appassionati di criptovalute",
+		"show_future_solutions": "Mostra soluzioni future",
+		"cryptocommunity": {
+			"description": "Comunità di persone che la pensano allo stesso modo, esperti e appassionati di criptovalute"
+		},
+		"portfolio": {
+			"title": "Portafoglio",
+			"description": "Tieni traccia delle tue risorse crittografiche e controlla il tuo portafoglio"
+		},
+		"academy": {
+			"title": "Accademia",
+			"description": "Gli argomenti più complessi, scritti in parole semplici in un unico posto."
+		},
+		"forum": {
+			"title": "Forum",
+			"description": "Comunica, condividi e suggerisci fantastiche funzionalità che vorremmo implementare"
+		},
+		"wallet": {
+			"title": "Portafoglio",
+			"description": "Il portafoglio più semplice e conveniente per l'archiviazione (MultiChain) di criptovalute"
+		},
+		"indexes": {
+			"title": "Indici",
+			"description": "Indici crittografici bilanciati per ogni gusto e colore, rischio e profitto"
+		},
+		"crypto_calendar": {
+			"title": "Calendario crittografico",
+			"description": "Tieni traccia degli eventi più importanti nel mondo delle criptovalute in un unico posto"
+		},
+		"alerts": {
+			"title": "Avvisi",
+			"description": "Un sistema flessibile per automatizzare e semplificare il monitoraggio delle risorse"
+		},
+		"stake_hub": {
+			"title": "Hub del palo",
+			"description": "Mettere insieme le nostre risorse crittografiche preferite promuovendo l'adozione"
+		},
+		"forge": {
+			"title": "Fucina",
+			"description": "Vota, prendi decisioni importanti che influiscono sulla nostra comunità"
+		},
+		"launchpad": {
+			"title": "Launchpad",
+			"description": "Piattaforma di lancio guidata dalla comunità per il lancio e la promozione di progetti"
+		},
+		"research_crypto": {
+			"title": "Ricerca sulle criptovalute",
+			"description": "Raccogliamo tutte le informazioni più recenti sui progetti e svolgiamo ricerche"
+		}
+	},
+	"roadmap": {
+		"title": "Roadmap",
+		"item1": "<ul><li>Miglioramenti alle funzionalità del portafoglio</li><li> Beta test chiusa</li><li> Preparazione per il rilascio</li><li> Lancio di MVP e sito aziendale</li><li> Nuovo migliorato server Discord per la comunità </li></ul>",
+		"item2": "<ul><li>Localizza tutti i servizi, entra nel mercato globale</li><li> Avvia la criptovaluta di ricerca</li><li> Avvia i pool della comunità </li><li> Avvia indici</li></ul>",
+		"item3": "<ul><li>Costruire una squadra</li><li> Sviluppo di un MVP:<ul><li> Portafoglio</li><li> Accademia</ li><li> Forum</li></ul></li><li> Creare un&#39;architettura</li><li> Creazione di un sistema di progettazione</li><li> Verifica di ipotesi</li></ul>",
+		"item4": "<ul><li>Crea nuovi corsi di formazione per Accademia </li><li> Avvisi di implementazione</li><li> Implementa il calendario Crypto</li><li > Lancio di Stake HUB</li><li> Creazione di un portafoglio MVP</li></ul>"
+	},
+	"register": {
+		"title": "Entra a far parte della comunità!",
+		"subtitle": "Registra un account e attiva un periodo gratuito di 7 giorni sulla piattaforma :)",
+		"create_account_free": "Crea un account gratis"
+	}
+}
