@@ -13,31 +13,31 @@
 			"tasks": {
 				"inProgress": [
 					{
-						"name": "Miglioramenti e miglioramenti del portafoglio",
+						"name": "Miglioramenti per portafogli",
 						"description": ""
 					}
 				],
 				"inResearch": [
 					{
-						"name": "Integrazione di nuove borse nel Portafoglio di Borsa",
+						"name": "Integrazione di nuove scambi nel Portafoglio Exchange",
 						"description": "Aggiunta di nuovi scambi come OKX, Kucoin, Qmall, ecc."
 					},
 					{
-						"name": "Portafoglio futuro",
-						"description": "Tieni traccia dei portafogli di futures con l'integrazione delle API"
+						"name": "Portafoglio futures",
+						"description": "Monitorare i portafogli futures utilizzando le API di integrazione"
 					}
 				],
 				"done": [
 					{
 						"name": "Portafoglio virtuale",
-						"description": "Gli utenti possono creare un portafoglio virtuale con varie risorse crittografiche"
+						"description": "Gli utenti possono creare un portafoglio virtuale con diversi crypto-asset"
 					},
 					{
 						"name": "Portafoglio di scambio (Binance)",
-						"description": "Gli utenti possono creare un portafoglio di scambio utilizzando l'API di integrazione"
+						"description": "Gli utenti possono creare un portafoglio di scambio utilizzando le API di integrazione"
 					},
 					{
-						"name": "Portafoglio di avventura",
+						"name": "Portafoglio di venture",
 						"description": "Gli utenti possono creare un portafoglio di venture con una personalizzazione molto ampia (date di sblocco, TGE, ecc.)"
 					}
 				]
@@ -66,16 +66,16 @@
 					},
 					{
 						"name": "Corso “Investire: Tokensales”",
-						"description": "In parole povere su ICO, IDO, IEO e altri"
+						"description": "In termini semplici su ICO, IDO, IEO e altri"
 					},
 					{
-						"name": "Simulatore di commerciante",
-						"description": "Strumento per la formazione prima del mercato reale (spot, futures)"
+						"name": "Simulatore di trader",
+						"description": "Strumento formativo prima del mercato vero e proprio (spot, futures)"
 					}
 				],
 				"done": [
 					{
-						"name": "Fondazione del Corso per l'Industria delle Criptovalute",
+						"name": "Corso \"Fondazione del settore criptovaluta\"",
 						"description": "Un corso fondamentale sulle criptovalute con illustrazioni, diagrammi e animazioni molto visive"
 					},
 					{
@@ -83,7 +83,7 @@
 						"description": "Gli utenti ricevono \"medaglie\" per aver completato un corso con determinati voti"
 					},
 					{
-						"name": "Giocatore per le animazioni",
+						"name": "Player per le animazioni",
 						"description": "Player avanzato e conveniente per la visualizzazione di lunghe animazioni"
 					}
 				]
@@ -200,7 +200,7 @@
 				"done": [
 					{
 						"name": "Localizzazione della piattaforma",
-						"description": "Aggiunta di lingue ucraino e inglese"
+						"description": "Aggiunta della lingua ucraina e inglese."
 					},
 					{
 						"name": "Informazioni personali dell'utente",
@@ -263,7 +263,7 @@
 				"inProgress": [],
 				"inResearch": [
 					{
-						"name": "Analisi dettagliate sulla catena",
+						"name": "Analisi dettagliate di blockchain",
 						"description": ""
 					}
 				],
@@ -285,7 +285,7 @@
 						"description": ""
 					},
 					{
-						"name": "\"Avviso balena\" integrato",
+						"name": "\"Whale alert\" integrato",
 						"description": ""
 					},
 					{
@@ -301,7 +301,7 @@
 						"description": ""
 					},
 					{
-						"name": "Sistema di supporto rielaborato",
+						"name": "Sistema di supporto ridisegnato",
 						"description": ""
 					}
 				]
@@ -317,31 +317,31 @@
 				"inResearch": [
 					{
 						"name": "Community Steakhub",
-						"description": "Possibilità di partecipazione a progetti top sul mercato per la collettività"
+						"description": "Possibilità di staking nei progetti top sul mercato"
 					},
 					{
 						"name": "Launchpad guidato dalla comunità",
 						"description": "Launchpad in cui la comunità è responsabile della selezione e dell'elenco dei progetti"
 					},
 					{
-						"name": "Rete di test automatizzata",
-						"description": "Il principio è semplice: l'utente paga e noi facciamo tutto il lavoro sporco. Un modo fantastico per guadagnare token di progetto senza fare nulla"
+						"name": "Testnet automatizzato",
+						"description": "Il principio è semplice: l'utente paga e noi facciamo tutto il lavoro sporco. Modo fantastico per guadagnare token di progetto senza fare nulla"
 					},
 					{
 						"name": "Indici",
-						"description": "Indici con una valutazione - dove un utente può acquistare un set di token in una certa proporzione in un clic e non scalare 10 scambi alla ricerca di questi stessi token"
+						"description": "Indici classificati - dove un utente può acquistare un set di token in una certa proporzione in un solo clic e non scalare 10 scambi alla ricerca di quegli stessi token"
 					},
 					{
-						"name": "Auto acquisto/vendita di asset in borsa",
-						"description": "Acquisto automatico/vendita di asset in panico, in modo che l'utente spenda meno nervi e il suo tempo prezioso per monitorare i grafici"
+						"name": "Acquisto/vendita automatico di asset su borse",
+						"description": "Acquisto automatico/vendita di asset , in modo che l'utente spenda meno nervi e il suo tempo prezioso per monitorare i grafici"
 					},
 					{
 						"name": "Portafoglio crittografico",
-						"description": "Portafoglio multicatena semplice e conveniente"
+						"description": "Portafoglio multichain semplice e conveniente"
 					},
 					{
 						"name": "Notifiche personalizzate",
-						"description": "Notifiche flessibili per l'utente con l'integrazione di telegrammi e discordia: sul raggiungimento di un asset di un certo prezzo, sull'elenco di un asset, sullo sblocco di n% in un asset di rischio, ecc."
+						"description": "Notifiche flessibili per l'utente con l'integrazione di telegramm e Discord: al raggiungimento del certo prezzo, sull'elenco di un asset, sullo sblocco di n% in un asset di rischio, ecc."
 					}
 				],
 				"done": []
